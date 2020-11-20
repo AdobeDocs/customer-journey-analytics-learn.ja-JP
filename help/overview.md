@@ -8,7 +8,7 @@ activity: use
 doc-type: overview
 team: Technical Marketing
 translation-type: tm+mt
-source-git-commit: fb299e69c1a95322711a8fdd10bb8f96bc466d29
+source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 17%
@@ -31,17 +31,14 @@ Customer Journey Analytics では、共通の顧客 ID に基づいて、Analysi
 
 * **[Adobe AnalyticsセグメントをCustomer Journey Analyticsに移動（ビデオ）](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
-   <br>
    *Customer Journey AnalyticsでAdobe Analyticsセグメントを再作成する方法のヒントを説明します*
 
 * **[計算指標をAdobe AnalyticsからCustomer Journey Analyticsに移動（ビデオ）](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
-   <br>
    *Customer Journey AnalyticsでのAdobe Analyticsの計算指標の再作成に関するヒントを説明します。*
 
 * **[チャネル間のフィルターの作成（ビデオ）](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
-   <br>
    *複数のデータソースと複数のチャネルを利用するCustomer Journey Analyticsのフィルターを作成する*
 
 ## スタッフの選考
