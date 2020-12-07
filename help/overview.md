@@ -1,5 +1,5 @@
 ---
-title: Customer Journey Analytics ビデオおよびチュートリアル
+title: Customer Journey AnalyticsのビデオとTutorials
 description: AdobeCustomer Journey Analyticsのためのビデオとチュートリアルの集まりです。
 feature: overview
 topics: null
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 17%
+ht-degree: 15%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 17%
 * **左のナビゲーションにあるトピックとサブトピック別にコンテンツを調べます。**
 * 検索対象がわかっている場合は、ページ上部の **検索** フィールドを使用します。
 
-Customer Journey Analytics では、共通の顧客 ID に基づいて、Analysis Workspace のオンラインデータとオフラインデータをどのように結び付けるかを制御し、最終的に Adobe Analytics の顧客データセット全体をまたいでアトリビューション、セグメント化、フロー、フォールアウトなどを顧客データセット全体に対して、
+Customer Journey Analytics を使用すると、共通の顧客 ID に基づいて Analysis Workspace のオンラインデータとオフラインデータを結び付ける方法を制御でき、最終的に、アトリビューション、セグメント化、フロー、フォールアウトなどを、顧客データセット全体に対して、
 
 ## 最新情報
 
