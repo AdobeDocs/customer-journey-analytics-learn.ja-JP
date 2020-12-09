@@ -1,17 +1,18 @@
 ---
 title: Customer Journey AnalyticsのID使用方法
-description: このビデオは技術的な詳細説明ではなく、訪問者IDをステッチすることで可能になったチャネル間のビジュアライゼーションの調査など、Customer Journey Analytics内の分析にIDが与える影響を実際的に見たものです。
+description: このビデオは、技術的な詳細説明ではなく、訪問者IDをステッチすることで可能になったチャネル間のビジュアライゼーションの調査など、AdobeCustomer Journey Analyticsでの分析に対するアイデンティティの影響を実践的に見たものです。
 feature: customer journey analytics
 topics: topics
 audience: analyst, marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30750.jpg
 kt: 3955
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '99'
 ht-degree: 8%
 
 ---
