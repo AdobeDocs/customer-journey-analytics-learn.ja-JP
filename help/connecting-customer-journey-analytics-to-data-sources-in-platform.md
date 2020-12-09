@@ -1,17 +1,18 @@
 ---
 title: プラットフォームのデータソースへのCustomer Journey Analyticsの接続
-description: Customer Journey Analytics(CJA)は、チャネル間でデータを分析するために、Adobe Experience Platformからのデータセットの上にAnalysis Workspaceを配置します。 このビデオでは、プラットフォームから継続的なデータをCJAにストリーミングする接続の設定を含め、CJAとプラットフォームのデータセットとの間の接続方法を示します。
+description: AdobeCustomer Journey Analytics(CJA)は、Adobe Experience Platform間のチャネル分析を行うために、のデータセットの上にAnalysis Workspaceを配置します。 このビデオでは、プラットフォームから継続的なデータをCJAにストリーミングする接続の設定を含め、CJAとプラットフォームのデータセットとの間の接続方法を示します。
 feature: customer journey analytics
 topics: null
 audience: administrator, implementer, developer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30140.jpg
 kt: 3954
 translation-type: tm+mt
-source-git-commit: 747e5eeb51fbe5b8bf52469d1d40a45705cd3643
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '162'
 ht-degree: 8%
 
 ---
