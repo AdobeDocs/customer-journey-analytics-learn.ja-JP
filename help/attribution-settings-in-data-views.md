@@ -1,17 +1,18 @@
 ---
 title: Customer Journey Analyticsのデータ表示のアトリビューション設定
-description: Customer Journey Analyticsでデータ表示を設定する場合、ディメンションと指標が連携する方法を制御するために、アトリビューション設定を選択できます。 このビデオでは、デフォルト、オプション、指標およびディメンション属性設定の相互作用に関する手順を説明します。
+description: AdobeCustomer Journey Analyticsでデータ表示を設定する場合、ディメンションと指標が連携する方法を制御するために、アトリビューション設定を選択できます。 このビデオでは、デフォルト、オプション、指標およびディメンション属性設定の相互作用に関する手順を説明します。
 feature: customer journey analytics
 topics: null
 audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30185.jpg
 kt: 3959
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---
