@@ -1,27 +1,28 @@
 ---
 title: Customer Journey Analyticsでのクロスチャネルビジュアライゼーションの作成
 description: このビデオでは、AdobeCustomer Journey Analyticsを使用して、複数のチャネルにわたる複数のデータセットのデータを含むビジュアライゼーション(訪問者ごとのデータの結合を含む)を作成する方法を説明します。
-feature: customer journey analytics
+feature: ビジュアライゼーション
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31771.jpg
 kt: 3961
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 8%
+source-wordcount: '94'
+ht-degree: 9%
 
 ---
 
 
-# Customer Journey Analyticsでのクロスチャネル [!UICONTROL ビジュアライゼーションの作成]
+# Customer Journey Analyticsにクロスチャネル[!UICONTROL ビジュアライゼーション]を作成
 
-In this video, discover how Customer Journey Analytics allows you to create [!UICONTROL visualizations] that include data from multiple [!UICONTROL datasets] across multiple channels, including merging the data per [!UICONTROL visitor].
+このビデオでは、Customer Journey Analyticsが、複数の[!UICONTROL datasets]からのデータを含む、[!UICONTROL 訪問者]ごとのデータの結合を含む、[!UICONTROL ビジュアライゼーション]を複数のチャネルにわたって作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12)
 
-Customer Journey Analyticsの詳細については、 [ドキュメントを参照してください](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html)。
+Customer Journey Analyticsの詳細については、[ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html)を参照してください。
