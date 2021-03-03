@@ -1,26 +1,27 @@
 ---
 title: プラットフォームのデータソースへのCustomer Journey Analyticsの接続
-description: AdobeCustomer Journey Analytics(CJA)は、Adobe Experience Platform間のチャネル分析を行うために、のデータセットの上にAnalysis Workspaceを配置します。 このビデオでは、プラットフォームから継続的なデータをCJAにストリーミングする接続の設定を含め、CJAとプラットフォームのデータセットとの間の接続方法を示します。
-feature: customer journey analytics
+description: AdobeCustomer Journey Analytics(CJA)は、Adobe Experience Platform間のチャネル分析を行うために、のデータセットの上にAnalysis Workspaceを配置します。 このビデオでは、プラットフォームから継続的なデータをCJAにストリーミングする接続の設定を含め、CJAとプラットフォームのデータセット間の接続の確立方法を説明します。
+feature: 接続
 topics: null
-audience: administrator, implementer, developer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30140.jpg
 kt: 3954
+role: データ・エンジニア、データ・アーキテクト
+level: 中間
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '168'
 ht-degree: 8%
 
 ---
 
 
-# プラットフォームのデータ [!UICONTROL ソース] へのCustomer Journey Analyticsの接続
+# Customer Journey Analyticsをプラットフォームのデータ[!UICONTROL ソース]に接続
 
-Customer Journey Analytics(CJA)は、Analysis WorkspaceをAdobe Experience Platformの [!UICONTROL データセットの上に配置し] 、チャネル間でデータを分析するために役立ちます。 このビデオでは、プラットフォームから継続中のデータをCJAにストリーミングする [!UICONTROL 接続の設定を含め、CJAとプラットフォーム] データセットの間の接続の確立方法を説明します  。
+Customer Journey Analytics(CJA)は、Adobe Experience Platformの[!UICONTROL datasets]の上にAnalysis Workspaceを配置し、チャネル間でデータを分析します。 このビデオでは、CJAとプラットフォーム[!UICONTROL datasets]の間の[!UICONTROL connection]の作成方法を紹介します。例えば、[!UICONTROL connection]を設定して、プラットフォームからCJAに継続的なデータをストリーミングします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30140/?quality=12&enable10seconds=on&speedcontrol=on)
 
