@@ -1,29 +1,29 @@
 ---
 title: Customer Journey AnalyticsのビデオとTutorials
 description: AdobeCustomer Journey Analyticsのためのビデオとチュートリアルの集まりです。
-feature: overview
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 15%
+source-wordcount: '308'
+ht-degree: 14%
 
 ---
 
 
 # 概要
 
-[!DNL Customer Journey Analytics] Tutorialsサイトへようこそ。  これらのチュートリアルと [ドキュメントを使用することで](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html) 、Adobe Analyticsを使用して複数チャネルの顧客の洞察をこれまで以上に高速に得る方法をより深く理解できます。  開始するには、Dynamic Tag Management アカウントで
+[!DNL Customer Journey Analytics]Tutorialsサイトへようこそ。  これらのチュートリアルを[ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html)と共に使用すると、Adobe Analyticsを使用して複数チャネルの顧客の洞察をこれまで以上に高速に得る方法を理解できます。  開始するには、Dynamic Tag Management アカウントで
 
-* 最新の機能につ **いては、以下の「新機能」** の項を参照してください。
-* **Staff Picks** （スタッフが選ぶ）では、お気に入りのコンテンツの一部が強調表示されます。
-* **左のナビゲーションにあるトピックとサブトピック別にコンテンツを調べます。**
-* 検索対象がわかっている場合は、ページ上部の **検索** フィールドを使用します。
+* 最新の製品については、以下の&#x200B;**「新機能」**&#x200B;の節を参照してください。
+* **Staff** Pickshlightsはお気に入りのコンテンツをいくつか照らします。
+* **左側のナビゲーション**&#x200B;のトピックとサブトピック別にコンテンツを調べます。
+* 検索対象がわかっている場合は、ページ上部の&#x200B;**search**&#x200B;フィールドを使用します
 
 Customer Journey Analytics を使用すると、共通の顧客 ID に基づいて Analysis Workspace のオンラインデータとオフラインデータを結び付ける方法を制御でき、最終的に、アトリビューション、セグメント化、フロー、フォールアウトなどを、顧客データセット全体に対して、
 
