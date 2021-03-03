@@ -1,26 +1,27 @@
 ---
 title: Customer Journey Analyticsのデータ表示のアトリビューション設定
 description: AdobeCustomer Journey Analyticsでデータ表示を設定する場合、ディメンションと指標が連携する方法を制御するために、アトリビューション設定を選択できます。 このビデオでは、デフォルト、オプション、指標およびディメンション属性設定の相互作用に関する手順を説明します。
-feature: customer journey analytics
+feature: データビュー
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30185.jpg
 kt: 3959
+role: 管理者
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 1%
+source-wordcount: '128'
+ht-degree: 3%
 
 ---
 
 
-# [!UICONTROL Customer Journey Analyticsの] データ表示 [!UICONTROL (Attribution] Settings in Data settings)
+#  Customer Journey Analyticsでの [!UICONTROL データ] 表示のAttributionSettings
 
-Customer Journey Analyticsで [!UICONTROL データ表示を設定する際に] 、アトリビューション [!UICONTROL 設定を選択して、] ディメンションと  指標が連携する方法を制御できます。 このビデオでは、デフォルト、オプション、 [!UICONTROL 指標][!UICONTROL 、] ディメンション [!UICONTROL アトリビューション] 設定の相互作用について説明します。
+Customer Journey Analyticsで[!UICONTROL データ表示]を設定する場合、[!UICONTROL アトリビューション]の設定を選択して、[!UICONTROL ディメンション]と[!UICONTROL 指標]の連携方法を制御できます。 このビデオでは、デフォルト、オプション、[!UICONTROL 指標]と[!UICONTROL ディメンション] [!UICONTROL アトリビューション]の設定の相互作用について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
 
