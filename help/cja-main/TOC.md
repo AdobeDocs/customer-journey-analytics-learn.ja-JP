@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: チュートリアル
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: 83f374ef8303144f358221b656fd0480b009559d
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 21%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 
@@ -30,3 +30,7 @@ ht-degree: 21%
 + [フィルターの概要](/help/introduction-to-filters-in-cja.md)
 + [チャネル間のフィルターの作成](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [Adobe AnalyticsセグメントをCustomer Journey Analyticsに移動](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
++ Blueprints {#blueprints}
+   + [Customer Journey Analyticsブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
+   + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
+   + [呼び出し偏向ジャーニー分析のシナリオ](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
