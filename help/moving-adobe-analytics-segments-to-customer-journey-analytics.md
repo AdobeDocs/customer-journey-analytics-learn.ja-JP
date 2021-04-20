@@ -1,16 +1,16 @@
 ---
 title: Adobe AnalyticsセグメントをCustomer Journey Analyticsに移動
 description: このビデオでは、Customer Journey AnalyticsでAdobe Analyticsセグメントを「フィルター」として再作成するためのヒントについて説明します。
-feature: フィルター
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31982.jpg
 kt: 3967
-topic: 移行
-role: 開業医
-level: 初心者
+topic: Migration
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

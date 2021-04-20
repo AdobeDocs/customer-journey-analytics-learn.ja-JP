@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analyticsでのクロスチャネルアトリビューション
 description: このビデオでは、ビジュアライゼーションをどのように使用して、AdobeCustomer Journey Analyticsのチャネル間でアトリビューション（クレジットを与える）を示すかを説明します。
-feature: アトリビューション
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31772.jpg
 kt: 3963
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

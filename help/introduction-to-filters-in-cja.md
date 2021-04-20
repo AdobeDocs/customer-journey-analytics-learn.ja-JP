@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analyticsのフィルターの概要
 description: このビデオでは、AdobeCustomer Journey Analyticsのフィルターとフィルタービルダーについて説明します。
-feature: フィルター
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
 kt: 4447
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

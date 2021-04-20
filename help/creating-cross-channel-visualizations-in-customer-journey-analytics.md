@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analyticsでのクロスチャネルビジュアライゼーションの作成
 description: このビデオでは、AdobeCustomer Journey Analyticsを使用して、複数のチャネルにわたる複数のデータセットのデータを含むビジュアライゼーション(訪問者ごとのデータの結合を含む)を作成する方法を説明します。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31771.jpg
 kt: 3961
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analyticsのデータ表示の基本設定
 description: Adobe Experience PlatformのデータセットへのAdobeCustomer Journey Analyticsでの接続を作成したら、その接続のData表示を作成して、プラットフォーム上のAnalysis Workspaceのデータを使用できるようにする必要があります。 このビデオでは、データ表示の基本的な設定に関する手順を説明します。
-feature: データビュー
+feature: Data Views
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30186.jpg
 kt: 3958
-role: 管理者
-level: 初心者
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics内のデータの操作
 description: このビデオでは、データセットスキーマを Adobe Customer Journey Analytics（CJA）内の変数に変換する方法、および CJA が非常に大きな基数をどのように処理するかを学びます。
-feature: 接続
+feature: Connections
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32112.jpg
 kt: 3964
-role: データ・エンジニア、データ・アーキテクト
-level: 中間
+role: "Data Engineer, Data Architect"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

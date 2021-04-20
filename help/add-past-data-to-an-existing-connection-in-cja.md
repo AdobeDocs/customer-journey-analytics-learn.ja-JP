@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics追加内の既存の接続への過去のデータ
 description: このビデオでは、接続とデータ表示を介して、過去のデータ（以前のタイムスタンプが関連付けられているデータ）を既存のAdobeCustomer Journey Analytics分析に追加する方法について説明します。
-feature: 接続
+feature: Connections
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32549.jpg
 kt: 3965
-role: データ・エンジニア、データ・アーキテクト
-level: 初心者
+role: "Data Engineer, Data Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

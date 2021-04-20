@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analyticsの計算指標の概要
 description: このビデオでは、AdobeCustomer Journey Analyticsで計算指標を作成する基本的な手順を説明します。
-feature: 指標
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31787.jpg
 kt: 4448
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

@@ -1,16 +1,16 @@
 ---
 title: 計算指標をAdobe AnalyticsからCustomer Journey Analyticsに移動する
 description: このビデオでは、Customer Journey AnalyticsでAdobe Analyticsの計算指標を再作成する際のヒントを紹介します。
-feature: 指標
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31788.jpg
 kt: 3966
-topic: 移行
-role: 開業医
-level: 初心者
+topic: Migration
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
