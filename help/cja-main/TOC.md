@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 68ca589a18cea7c1ec30c2446491b8e920e2ebc9
+source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 23%
+source-wordcount: '154'
+ht-degree: 22%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 23%
 + [データ表示でのコンポーネント設定の指定](/help/configuring-component-settings-in-data-views.md)
 + [データ表示での指標の形式設定](/help/formatting-metrics-in-data-views.md)
 + [分析用のデータ表示での値グループの作成](/help/creating-value-buckets-in-data-views-for-analysis.md)
++ [データ表示にディメンション値を含めるか、除外する](/help/include-or-exclude-dimension-values-in-data-views.md)
 + [データ表示のアトリビューション設定](/help/attribution-settings-in-data-views.md)
 + [CJAでのIDの使用方法](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [既存追加の接続への過去のデータ](/help/add-past-data-to-an-existing-connection-in-cja.md)
