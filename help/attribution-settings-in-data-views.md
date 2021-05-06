@@ -1,31 +1,24 @@
 ---
-title: Customer Journey Analyticsのデータ表示のアトリビューション設定
-description: AdobeCustomer Journey Analyticsでデータ表示を設定する場合、ディメンションと指標が連携する方法を制御するために、アトリビューション設定を選択できます。 このビデオでは、デフォルト、オプション、指標およびディメンション属性設定の相互作用に関する手順を説明します。
-feature: Data Views
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 30185.jpg
-kt: 3959
+title: データ表示のアトリビューション設定
+description: 各ディメンションには、配分設定（コンバージョンのクレジットを受ける値を決定するため）と有効期限設定（値が持続する時間）が必要です。これにより、ディメンション値に値を割り当てる方法がシステムに認識されます。 同様に、指標を連携させるには、アトリビューションモデルとルックバックウィンドウも設定する必要があります。 このビデオでは、これらの重要な設定に関する手順を説明します。
+feature: データビュー
+topic: 管理
 role: Administrator
 level: Beginner
+doc-type: feature video
+thumbnail: 30185.jpg
+kt: 3959
+exl-id: 9a1663ec-3fd1-4899-971f-11e42cea94fc
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 3%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
+#   [!UICONTROL データ表示のAttributionSettings]
 
-#  Customer Journey Analyticsでの [!UICONTROL データ] 表示のAttributionSettings
-
-Customer Journey Analyticsで[!UICONTROL データ表示]を設定する場合、[!UICONTROL アトリビューション]の設定を選択して、[!UICONTROL ディメンション]と[!UICONTROL 指標]の連携方法を制御できます。 このビデオでは、デフォルト、オプション、[!UICONTROL 指標]と[!UICONTROL ディメンション] [!UICONTROL アトリビューション]の設定の相互作用について説明します。
+各ディメンションには、配分設定（コンバージョンのクレジットを受ける値を決定するため）と有効期限設定（値が持続する時間）が必要です。これにより、ディメンション値に値を割り当てる方法がシステムに認識されます。 同様に、指標を連携させるには、アトリビューションモデルとルックバックウィンドウも設定する必要があります。 このビデオでは、これらの重要な設定に関する手順を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
-
-## その他のリソース
-
-* [データ表示の基本設定](basic-configuration-for-data-views.md)
-* [Customer Journey Analytics — データ表示設定ドキュメント](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/configure-dataviews.html)。
