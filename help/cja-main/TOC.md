@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 22%
+source-wordcount: '175'
+ht-degree: 20%
 
 ---
 
@@ -21,9 +21,12 @@ ht-degree: 22%
 + [プラットフォームのデータソースへの接続](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
 + [データ表示の基本設定](/help/basic-configuration-for-data-views.md)
 + [データ表示でのコンポーネント設定の指定](/help/configuring-component-settings-in-data-views.md)
++ [データ表示のコンポーネントタイプ設定](/help/component-type-settings-in-data-views.md)
 + [データ表示での指標の形式設定](/help/formatting-metrics-in-data-views.md)
++ [データ表示に指標値を含めるまたは除外する](/help/include-or-exclude-metric-values-in-data-views.md)
 + [分析用のデータ表示での値グループの作成](/help/creating-value-buckets-in-data-views-for-analysis.md)
 + [データ表示にディメンション値を含めるか、除外する](/help/include-or-exclude-dimension-values-in-data-views.md)
++ [データ表示の「値なし」オプションの設定](/help/configure-no-value-options-in-data-views.md)
 + [データ表示のアトリビューション設定](/help/attribution-settings-in-data-views.md)
 + [CJAでのIDの使用方法](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [既存追加の接続への過去のデータ](/help/add-past-data-to-an-existing-connection-in-cja.md)
