@@ -1,28 +1,27 @@
 ---
-title: 計算指標をAdobe AnalyticsからCustomer Journey Analyticsに移動する
-description: このビデオでは、Customer Journey AnalyticsでAdobe Analyticsの計算指標を再作成する際のヒントを紹介します。
-feature: Metrics
+title: Adobe AnalyticsからCustomer Journey Analyticsへの計算指標の移動
+description: このビデオでは、Adobe Analyticsの計算指標を再作成するためのヒントをCustomer Journey Analyticsで確認します。
+feature: 指標
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31788.jpg
 kt: 3966
-topic: Migration
-role: Business Practitioner
+topic: 移行
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 12%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
+# [!UICONTROL 計算指標]をAdobe AnalyticsからCustomer Journey Analyticsに移動します
 
-# [!UICONTROL 計算指標]をAdobe AnalyticsからCustomer Journey Analyticsに移動
-
-このビデオでは、Customer Journey AnalyticsでAdobe Analytics[!UICONTROL 計算指標]を再作成する際のヒントを紹介します。
+このビデオでは、Customer Journey AnalyticsでAdobe Analytics [!UICONTROL 計算指標]を再作成する際のヒントを見つけます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12)
 
