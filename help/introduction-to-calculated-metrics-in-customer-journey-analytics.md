@@ -1,27 +1,26 @@
 ---
 title: Customer Journey Analyticsの計算指標の概要
-description: このビデオでは、AdobeCustomer Journey Analyticsで計算指標を作成する基本的な手順を説明します。
-feature: Metrics
+description: このビデオでは、AdobeCustomer Journey Analyticsでの計算指標の作成の基本について説明します。
+feature: 指標
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31787.jpg
 kt: 4448
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: a44b1f31-005e-4f44-b941-60e44aeea605
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 12%
+source-wordcount: '68'
+ht-degree: 13%
 
 ---
 
+# Customer Journey Analyticsの[!UICONTROL 計算指標]の概要
 
-# Customer Journey Analyticsの[!UICONTROL 計算指標]の紹介
-
-このビデオでは、Customer Journey Analyticsで[!UICONTROL 計算指標]を作成する基本的な手順を説明します。
+このビデオでは、Customer Journey Analyticsで[!UICONTROL 計算指標]を作成する基本について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12)
 
