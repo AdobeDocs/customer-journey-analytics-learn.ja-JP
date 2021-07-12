@@ -1,24 +1,23 @@
 ---
 title: Customer Journey Analyticsのアーキテクチャと統合
 description: このビデオでは、Adobe Experience Platform との接続や統合の仕組みを含め、Adobe Customer Journey Analytics のアーキテクチャについて説明します。
-feature: CJA Workspace Basics
+feature: CJA Workspaceの基本
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32483.jpg
 kt: 4449
-topic: Architecture
-role: "Architect, Data Architect"
+topic: アーキテクチャ
+role: Architect, Data Architect
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 441e632f-b8d0-428a-9db6-c048bf173443
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 65%
+source-wordcount: '87'
+ht-degree: 68%
 
 ---
-
 
 # Customer Journey Analyticsのアーキテクチャと統合
 
