@@ -1,27 +1,26 @@
 ---
-title: Customer Journey Analyticsでのクロスチャネルアトリビューション
-description: このビデオでは、ビジュアライゼーションをどのように使用して、AdobeCustomer Journey Analyticsのチャネル間でアトリビューション（クレジットを与える）を示すかを説明します。
-feature: Attribution
+title: Customer Journey Analyticsのクロスチャネルアトリビューション
+description: このビデオでは、ビジュアライゼーションを使用して、AdobeCustomer Journey Analyticsのチャネル間でアトリビューションを表示する（クレジットを与える）方法を示します。
+feature: アトリビューション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31772.jpg
 kt: 3963
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '76'
 ht-degree: 11%
 
 ---
 
+# Customer Journey Analyticsのクロスチャネル[!UICONTROL アトリビューション]
 
-# Customer Journey Analytics内のクロスチャネル[!UICONTROL アトリビューション]
-
-このビデオでは、[!UICONTROL ビジュアライゼーション]を使用して、Customer Journey Analytics内のチャネル間で[!UICONTROL アトリビューション]（クレジットを与える）を表示する方法を示します。
+このビデオでは、[!UICONTROL ビジュアライゼーション]を使用して、Customer Journey Analyticsのチャネル間で[!UICONTROL アトリビューション]（クレジットを与える）を表示する方法を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12)
 
