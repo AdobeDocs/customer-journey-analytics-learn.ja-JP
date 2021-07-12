@@ -1,27 +1,26 @@
 ---
 title: Customer Journey Analyticsでのクロスチャネルビジュアライゼーションの作成
-description: このビデオでは、AdobeCustomer Journey Analyticsを使用して、複数のチャネルにわたる複数のデータセットのデータを含むビジュアライゼーション(訪問者ごとのデータの結合を含む)を作成する方法を説明します。
-feature: Visualizations
+description: このビデオでは、AdobeCustomer Journey Analyticsを使用して、複数のチャネルにわたる複数のデータセットのデータを含むビジュアライゼーション（訪問者あたりのデータの結合を含む）を作成する方法を説明します。
+feature: ビジュアライゼーション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31771.jpg
 kt: 3961
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 077bed60-9aa2-47f9-af66-2f99453d64fb
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '91'
 ht-degree: 9%
 
 ---
 
+# Customer Journey Analyticsでのクロスチャネル[!UICONTROL ビジュアライゼーション]の作成
 
-# Customer Journey Analyticsにクロスチャネル[!UICONTROL ビジュアライゼーション]を作成
-
-このビデオでは、Customer Journey Analyticsが、複数の[!UICONTROL datasets]からのデータを含む、[!UICONTROL 訪問者]ごとのデータの結合を含む、[!UICONTROL ビジュアライゼーション]を複数のチャネルにわたって作成する方法を説明します。
+このビデオでは、Customer Journey Analyticsで、複数の[!UICONTROL データセット]のデータ（[!UICONTROL 訪問者]ごとのデータの結合を含む）を含む[!UICONTROL ビジュアライゼーション]を作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12)
 
