@@ -1,27 +1,26 @@
 ---
-title: Customer Journey AnalyticsのID使用方法
-description: このビデオは、技術的な詳細説明ではなく、訪問者IDをステッチすることで可能になったチャネル間のビジュアライゼーションの調査など、AdobeCustomer Journey Analyticsでの分析に対するアイデンティティの影響を実践的に見たものです。
-feature: Identity
+title: Customer Journey AnalyticsでのIDの使用方法について
+description: このビデオは、技術的な詳細説明ではなく、訪問者IDを結び付けることで可能になる、クロスチャネルのビジュアライゼーションの調査を含め、IDがAdobeCustomer Journey Analyticsの分析に与える影響を実際に調べたものです。
+feature: ID
 topics: topics
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30750.jpg
 kt: 3955
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: f835376c-36b8-45b6-a3fe-4efaf5fb6a12
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 8%
+source-wordcount: '100'
+ht-degree: 15%
 
 ---
 
+# Customer Journey Analyticsでの[!UICONTROL ID]の使用方法について
 
-# Customer Journey Analyticsが[!UICONTROL ID]を使用する方法について
-
-このビデオは技術的な詳細解説ではなく、[!UICONTROL identity]がCustomer Journey Analyticsの分析に与える影響を、[!UICONTROL 訪問者]IDをステッチすることで可能にした、クロスチャネル[!UICONTROL ビジュアライゼーション]の調査など、実用的な解説です。
+このビデオは技術的な詳細に掘り下げるものではなく、[!UICONTROL 訪問者] IDを結び付けることで可能になったクロスチャネル[!UICONTROL ビジュアライゼーション]の見方など、Customer Journey Analyticsの分析に対する[!UICONTROL ID]の影響を実際に見たものです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?quality=12&enable10seconds=on&speedcontrol=on)
 
