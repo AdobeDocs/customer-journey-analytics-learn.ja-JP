@@ -1,28 +1,27 @@
 ---
-title: Adobe AnalyticsセグメントをCustomer Journey Analyticsに移動
-description: このビデオでは、Customer Journey AnalyticsでAdobe Analyticsセグメントを「フィルター」として再作成するためのヒントについて説明します。
-feature: Filters
+title: Adobe Analytics SegmentsのCustomer Journey Analyticsへの移動
+description: このビデオでは、Adobe AnalyticsセグメントをCustomer Journey Analyticsで「フィルター」として再作成する際のヒントを説明します。
+feature: フィルター
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31982.jpg
 kt: 3967
-topic: Migration
-role: Business Practitioner
+topic: 移行
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: b359a509-f920-40d2-978f-983f1b555e86
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 12%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
+# Adobe Analytics [!UICONTROL Segments]をCustomer Journey Analyticsに移動
 
-# Adobe Analytics[!UICONTROL セグメント]をCustomer Journey Analyticsに移動
-
-このビデオでは、Customer Journey AnalyticsでAdobe Analytics[!UICONTROL セグメント]を「[!UICONTROL フィルター]」として再作成する際のヒントについて説明します。
+このビデオでは、Adobe Analyticsの[!UICONTROL セグメント]をCustomer Journey Analyticsで「[!UICONTROL フィルター]」として再作成する際のヒントを説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12)
 
