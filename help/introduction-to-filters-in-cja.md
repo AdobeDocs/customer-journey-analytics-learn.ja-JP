@@ -1,27 +1,26 @@
 ---
 title: Customer Journey Analyticsのフィルターの概要
-description: このビデオでは、AdobeCustomer Journey Analyticsのフィルターとフィルタービルダーについて説明します。
-feature: Filters
+description: このビデオでは、フィルターと、AdobeCustomer Journey Analyticsのフィルタービルダーについて説明します。
+feature: フィルター
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
 kt: 4447
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 13%
+source-wordcount: '64'
+ht-degree: 14%
 
 ---
 
+# Customer Journey Analyticsの[!UICONTROL フィルター]の概要
 
-# Customer Journey Analyticsの[!UICONTROL フィルター]の紹介
-
-このビデオでは、Customer Journey Analyticsの[!UICONTROL フィルター]と[!UICONTROL フィルタービルダー]について紹介します。
+このビデオでは、Customer Journey Analyticsの[!UICONTROL フィルター]と[!UICONTROL フィルタービルダー]について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12)
 
