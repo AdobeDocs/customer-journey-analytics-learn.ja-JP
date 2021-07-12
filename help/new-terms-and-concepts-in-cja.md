@@ -1,27 +1,26 @@
 ---
-title: Customer Journey Analyticsの新しい用語と概念
-description: このビデオでは、主要な用語と概念について、AdobeCustomer Journey Analyticsで、Adobe Analyticsの用語と概念とのマッピング方法、およびCustomer Journey Analyticsインターフェイスでの表示場所について説明します。
-feature: CJA Workspace Basics
+title: 新しい用語と概念のCustomer Journey Analytics
+description: このビデオでは、AdobeCustomer Journey Analyticsの主な用語と概念、Adobe Analyticsの用語と概念へのマッピング方法、Customer Journey Analyticsインターフェイスでの表示場所について説明します。
+feature: CJA Workspaceの基本
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32113.jpg
 kt: 3960
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 6%
+source-wordcount: '112'
+ht-degree: 7%
 
 ---
 
+# 新しい用語と概念のCustomer Journey Analytics
 
-# Customer Journey Analyticsの新しい用語と概念
-
-このビデオでは、主要な用語と概念について、Customer Journey Analyticsで、Adobe Analyticsの用語と概念とのマッピング方法、およびCustomer Journey Analyticsインターフェイスでの表示場所について説明します。
+このビデオでは、Customer Journey Analyticsの主な用語と概念、Adobe Analyticsの用語と概念へのマッピング方法、Customer Journey Analyticsインターフェイスでの表示場所について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12)
 
