@@ -1,7 +1,7 @@
 ---
-title: Customer Journey Analytics内の既存の接続に過去のデータを追加
-description: このビデオでは、接続とデータ表示を使用して、過去のデータ(以前のAdobeが関連付けられているデータ)を既存のタイムスタンプCustomer Journey Analytics分析に追加する方法について説明します。
-feature: 接続
+title: Customer Journey Analytics で既存の接続に過去のデータを追加
+description: このビデオでは、過去のデータ（以前のタイムスタンプが関連付けられているデータ）を、接続とデータビューを介して既存の Adobe Customer Journey Analytics 分析に追加する方法を説明します。
+feature: Connections
 topics: null
 activity: understand
 doc-type: technical video
@@ -12,16 +12,16 @@ role: Data Engineer, Data Architect
 level: Beginner
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 9%
+workflow-type: ht
+source-wordcount: '99'
+ht-degree: 100%
 
 ---
 
-# Customer Journey Analyticsの既存の[!UICONTROL 接続]に過去のデータを追加
+# Customer Journey Analytics で既存の[!UICONTROL 接続]に過去のデータを追加
 
-このビデオでは、[!UICONTROL 接続]と[!UICONTROL データビュー]を使用して、過去のデータ(以前のCustomer Journey Analyticsが関連付けられているデータ)を既存のタイムスタンプ分析に追加する方法を説明します。
+このビデオでは、過去のデータ（以前のタイムスタンプが関連付けられているデータ）を、[!UICONTROL 接続]と[!UICONTROL データビュー]を介して既存の Customer Journey Analytics 分析に追加する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?quality=12)
 
-Customer Journey Analyticsの詳細については、[ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html)を参照してください。
+Customer Journey Analytics について詳しくは、[ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html)を参照してください。
