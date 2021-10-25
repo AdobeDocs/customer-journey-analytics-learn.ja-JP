@@ -1,7 +1,7 @@
 ---
-title: Customer Journey Analyticsのクロスチャネルアトリビューション
-description: このビデオでは、ビジュアライゼーションを使用して、AdobeCustomer Journey Analyticsのチャネル間でアトリビューションを表示する（クレジットを与える）方法を示します。
-feature: アトリビューション
+title: Customer Journey Analytics でのクロスチャネルアトリビューション
+description: このビデオでは、ビジュアライゼーションを使用して、Adobe Customer Journey Analytics のチャネル全体でアトリビューション（クレジットを付与）を表示する方法を説明します。
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -12,16 +12,16 @@ role: User
 level: Beginner
 exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 11%
+workflow-type: ht
+source-wordcount: '75'
+ht-degree: 100%
 
 ---
 
-# Customer Journey Analyticsのクロスチャネル[!UICONTROL アトリビューション]
+# Customer Journey Analytics のクロスチャネル[!UICONTROL アトリビューション]
 
-このビデオでは、[!UICONTROL ビジュアライゼーション]を使用して、Customer Journey Analyticsのチャネル間で[!UICONTROL アトリビューション]（クレジットを与える）を表示する方法を示します。
+このビデオでは、[!UICONTROL ビジュアライゼーション]を使用して、Customer Journey Analytics のチャネル全体で[!UICONTROL アトリビューション]（クレジットを付与）を表示する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12)
 
-Customer Journey Analyticsの詳細については、[ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html)を参照してください。
+Customer Journey Analytics について詳しくは、[ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html)を参照してください。
