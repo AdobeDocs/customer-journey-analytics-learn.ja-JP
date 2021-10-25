@@ -1,7 +1,7 @@
 ---
-title: Customer Journey Analyticsでのクロスチャネルフィルターの作成
-description: このビデオでは、複数のデータソースと複数のチャネルを利用するAdobeCustomer Journey Analyticsでフィルターを作成する方法について説明します。 また、ビジュアライゼーションでこれらのフィルターを組み合わせる方法も確認できます。
-feature: フィルター
+title: Customer Journey Analytics でのクロスチャネルフィルターの作成
+description: このビデオでは、複数のデータソースと複数のチャネルを利用する Adobe Customer Journey Analytics でフィルターを作成する方法を説明します。また、ビジュアライゼーションでこれらのフィルターを組み合わせる方法も説明します。
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
@@ -12,16 +12,16 @@ role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 8%
+workflow-type: ht
+source-wordcount: '107'
+ht-degree: 100%
 
 ---
 
-# Customer Journey Analyticsでクロスチャネル[!UICONTROL フィルター]を作成する
+# Customer Journey Analytics にクロスチャネル[!UICONTROL フィルター]を作成
 
-このビデオでは、複数のデータソースと複数のチャネルを利用するCustomer Journey Analyticsで[!UICONTROL フィルター]を作成する方法を説明します。 また、これらの[!UICONTROL フィルター]を[!UICONTROL ビジュアライゼーション]で組み合わせる方法も確認できます。
+このビデオでは、複数のデータソースと複数のチャネルを利用する Customer Journey Analytics で[!UICONTROL フィルター]を作成する方法を説明します。また、[!UICONTROL ビジュアライゼーション]で、これらの[!UICONTROL フィルター]を組み合わせる方法も説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12)
 
-Customer Journey Analyticsの詳細については、[ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html)を参照してください。
+Customer Journey Analytics について詳しくは、[ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-landing.html)を参照してください。
