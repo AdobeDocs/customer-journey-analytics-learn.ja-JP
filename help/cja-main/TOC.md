@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f54c2c2095d0230c6e48f6664a795358eae3ce6a
+source-git-commit: 81b0cd1dd46f9b5dd10fbe468e9067a6d866be38
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 28%
@@ -52,9 +52,9 @@ ht-degree: 28%
 + ダッシュボード（スコアカード） {#dashboards}
    + [モバイルスコアカードの作成](dashboards/create-a-mobile-scorecard.md)
    + [エグゼクティブがモバイルスコアカードにアクセスするのを支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
-   + 計算指標 {#calc-metrics}
-      + [Customer Journey Analyticsでの計算指標の概要](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
-      + [計算指標をAdobe AnalyticsからCustomer Journey Analyticsに移動](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
++ 計算指標 {#calc-metrics}
+   + [Customer Journey Analyticsでの計算指標の概要](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
+   + [計算指標をAdobe AnalyticsからCustomer Journey Analyticsに移動](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
 + エクスポート {#exporting}
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 用の Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
