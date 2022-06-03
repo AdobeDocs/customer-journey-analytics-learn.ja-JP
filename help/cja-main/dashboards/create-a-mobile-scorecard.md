@@ -8,13 +8,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 343458.jpg
 kt: 10445
-source-git-commit: 03099d60dfa006756a261a95bbadf96085063d27
+exl-id: 602061a9-7470-41ce-ae92-2913e6c4c188
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 17%
+source-wordcount: '116'
+ht-degree: 18%
 
 ---
-
 
 # モバイルスコアカードの作成
 
@@ -23,7 +23,3 @@ ht-degree: 17%
 >[!VIDEO](https://video.tv.adobe.com/v/343458/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=ja)を参照してください。
-
-## この機能に関するその他のヘルプ
-
-[エグゼクティブがモバイルスコアカードにアクセスするのを支援](assist-executives-to-access-mobile-scorecards.md)
