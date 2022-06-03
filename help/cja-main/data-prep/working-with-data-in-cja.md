@@ -1,6 +1,6 @@
 ---
 title: データの操作
-description: データセットスキーマを Adobe Customer Journey Analytics 内の変数に変換する方法、および CJA が非常に高い基数をどのように処理するかについて説明します。
+description: データセットスキーマを Adobe Customer Journey Analytics 内の変数に変換する方法、および CJA で非常に高い基数がどのように処理されるかについて説明します。
 feature: Connections
 topics: null
 activity: understand
@@ -12,9 +12,9 @@ role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
