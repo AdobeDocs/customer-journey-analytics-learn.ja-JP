@@ -1,6 +1,6 @@
 ---
 title: モバイルスコアカードの作成
-description: このビデオでは、Customer Journey Analyticsのスコアカードビルダーを使用してモバイルスコアカードを作成する方法を示します。 重要なパフォーマンス指標や詳細ビュー（分類）にいつでもアクセスし、経営陣に提供します。 スコアカードビルダーは、使いやすいインターフェイスを備えており、Customer Journey Analyticsのデータビューを使用してマルチチャネルダッシュボードを作成できます。
+description: このビデオでは、Customer Journey Analytics のスコアカードビルダーを使用してモバイルスコアカードを作成する方法を説明します。 エグゼクティブが、いつでも主要なパフォーマンス指標と詳細なビュー（分類）にアクセスできるようにします。スコアカードビルダーは、Customer Journey Analytics のデータビューを使用してマルチチャネルダッシュボードを作成するのに役立つ、使いやすいインターフェイスを提供します。
 feature: Analytics Dashboards
 topic: Mobile
 role: User, Admin
@@ -10,15 +10,15 @@ thumbnail: 343458.jpg
 kt: 10445
 exl-id: 602061a9-7470-41ce-ae92-2913e6c4c188
 source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 # モバイルスコアカードの作成
 
-このビデオでは、 [!DNL Scorecard Builder] in [!DNL Customer Journey Analytics]. 重要なパフォーマンス指標や詳細ビュー（分類）にいつでもアクセスし、経営陣に提供します。 この [!DNL Scorecard Builder] は、 [!DNL Customer Journey Analytics] データビュー。
+このビデオでは、[!DNL Customer Journey Analytics] の [!DNL Scorecard Builder] を使用してモバイルスコアカードを作成する方法を説明します。エグゼクティブが、いつでも主要なパフォーマンス指標と詳細なビュー（分類）にアクセスできるようにします。[!DNL Scorecard Builder] は、[!DNL Customer Journey Analytics] のデータビューを使用してマルチチャネルダッシュボードを作成するのに役立つ、使いやすいインターフェイスを提供します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343458/?quality=12&learn=on)
 
