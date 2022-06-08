@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 24decec83de218dc3564a98b6f9a8e4c1239dae0
 workflow-type: tm+mt
 source-wordcount: '257'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 95%
       + [フィルターの概要](components/filters/introduction-to-filters-in-cja.md)
       + [クロスチャネルフィルターの作成](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Adobe Analytics セグメントの Customer Journey Analytics への移行](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-+ ダッシュボード（スコアカード） {#dashboards}
++ ダッシュボード（スコアカード）{#dashboards}
    + [モバイルスコアカードの作成](dashboards/create-a-mobile-scorecard.md)
    + [エグゼクティブがモバイルスコアカードにアクセスするのを支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 計算指標 {#calc-metrics}
