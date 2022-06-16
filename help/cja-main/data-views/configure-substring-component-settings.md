@@ -1,23 +1,23 @@
 ---
 title: サブ文字列コンポーネントの設定
-description: 文字列操作メソッドを使用して、Customer Journey Analyticsレポート内のディメンション値の目的の部分を取得する方法を説明します。 適用後、データ変換は遡及的かつ即座におこなわれます。
+description: 文字列操作メソッドを使用して、Customer Journey Analytics レポートでディメンション値の目的の部分を取得する方法を説明します。適用後、データ変換は遡及的かつ即座に行われます。
 feature: Data Views
 role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 343526.jpg
 kt: 10451
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
+exl-id: 0728ed4c-9a38-4e8f-8b08-175c68c36ea6
+source-git-commit: 47b47d26c68cf787aeb13769c5ae3f200b364abc
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
-
 # サブ文字列コンポーネントの設定
 
-文字列操作メソッドを使用して、Customer Journey Analyticsレポート内のディメンション値の目的の部分を取得する方法を説明します。 適用後、データ変換は遡及的かつ即座におこなわれます。
+文字列操作メソッドを使用して、Customer Journey Analytics レポートでディメンション値の目的の部分を取得する方法を説明します。適用後、データ変換は遡及的かつ即座に行われます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
 
