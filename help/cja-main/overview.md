@@ -9,15 +9,15 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
 source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '298'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 # Customer Journey Analytics チュートリアル
 
-ようこそ [!DNL Customer Journey Analytics] tutorials Site.  これらのチュートリアルを[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja)と併用すると、Adobe Analytics を使用してマルチチャネル顧客インサイトをかつてないほど早く得る方法をより深く理解できます。開始するには、Dynamic Tag Management アカウントで
+[!DNL Customer Journey Analytics] チュートリアルサイトへようこそ。これらのチュートリアルを[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja)と併用すると、Adobe Analytics を使用してマルチチャネル顧客インサイトをかつてないほど早く得る方法をより深く理解できます。開始するには、Dynamic Tag Management アカウントで
 
 * 最新の製品については、以下の **新機能** の節を参照してください。
 * **スタッフのおすすめ**&#x200B;ではお気に入りのコンテンツをいくつか紹介します。
