@@ -12,15 +12,15 @@ role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
 source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 
 ---
 
-# Customer Journey Analytics にクロスチャネル[!UICONTROL フィルター]を作成
+# Customer Journey Analytics でのクロスチャネル[!UICONTROL フィルター]の作成
 
-このビデオでは、複数のデータソースと複数のチャネルを利用する Customer Journey Analytics で[!UICONTROL フィルター]を作成する方法を説明します。また、[!UICONTROL ビジュアライゼーション]で、これらの[!UICONTROL フィルター]を組み合わせる方法も説明します。
+このビデオでは、複数のデータソースと複数のチャネルを利用する Customer Journey Analytics で[!UICONTROL フィルター]を作成する方法を説明します。また、[!UICONTROL ビジュアライゼーション]でこれらの[!UICONTROL フィルター]を組み合わせる方法も説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12)
 
