@@ -12,13 +12,13 @@ role: User
 level: Beginner
 exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
 source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
 ht-degree: 100%
 
 ---
 
-# Customer Journey Analytics のクロスチャネル[!UICONTROL アトリビューション]
+# Customer Journey Analytics でのクロスチャネル[!UICONTROL アトリビューション]
 
 このビデオでは、[!UICONTROL ビジュアライゼーション]を使用して、Customer Journey Analytics のチャネル全体で[!UICONTROL アトリビューション]（クレジットを付与）を表示する方法を説明します。
 
