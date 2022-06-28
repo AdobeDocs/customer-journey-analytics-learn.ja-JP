@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 217f742a945455eaa80e539a72bcd0f09dcc8c99
-workflow-type: ht
-source-wordcount: '265'
-ht-degree: 100%
+source-git-commit: ba1d644978617364017d655159e9f09d413f9f64
+workflow-type: tm+mt
+source-wordcount: '273'
+ht-degree: 97%
 
 ---
 
@@ -51,8 +51,10 @@ ht-degree: 100%
       + [クイックフィルターの作成](components/filters/create-a-quick-filter.md)
       + [クロスチャネルフィルターの作成](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Adobe Analytics セグメントの Customer Journey Analytics への移行](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-   + 注釈 {#annotations}
-      + [注釈の作成](components/create-an-annotation.md)
++ パネル {#panels}
+   + [次と前の項目パネルを設定](panels/configure-next-previous-item-panel.md)
++ 注釈 {#annotations}
+   + [注釈の作成](components/create-an-annotation.md)
 + ダッシュボード（スコアカード）{#dashboards}
    + [モバイルスコアカードの作成](dashboards/create-a-mobile-scorecard.md)
    + [エグゼクティブがモバイルスコアカードにアクセスするのを支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
