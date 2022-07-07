@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: ba1d644978617364017d655159e9f09d413f9f64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '273'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 97%
       + [クロスチャネルフィルターの作成](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Adobe Analytics セグメントの Customer Journey Analytics への移行](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
 + パネル {#panels}
-   + [次と前の項目パネルを設定](panels/configure-next-previous-item-panel.md)
+   + [次または前の項目パネルの設定](panels/configure-next-previous-item-panel.md)
 + 注釈 {#annotations}
    + [注釈の作成](components/create-an-annotation.md)
 + ダッシュボード（スコアカード）{#dashboards}
