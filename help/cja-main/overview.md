@@ -8,9 +8,9 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+source-git-commit: 96611ef3dc511a36b465fabac00723755ab195e4
 workflow-type: ht
-source-wordcount: '298'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -26,6 +26,8 @@ ht-degree: 100%
 
 Customer Journey Analytics を使用すると、共通の顧客 ID に基づいて Analysis Workspace のオンラインデータとオフラインデータを結び付ける方法を制御でき、最終的に、アトリビューション、セグメント化、フロー、フォールアウトなどを、顧客データセット全体をまたいで実行できます。
 
+<div id="whats-new-section">
+
 ## 最新情報
 
 * **[Adobe Analytics セグメントの Customer Journey Analytics への移動（ビデオ）](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
@@ -39,6 +41,10 @@ Customer Journey Analytics を使用すると、共通の顧客 ID に基づい�
 * **[クロスチャネルフィルターの作成（ビデオ）](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *複数のデータソースと複数のチャネルを利用する Customer Journey Analytics でのフィルターの作成*
+
+</div>
+
+<div id="staff-picks-section">
 
 ## スタッフのおすすめ
 
@@ -85,3 +91,4 @@ Customer Journey Analytics を使用すると、共通の顧客 ID に基づい�
   </td>
 </tr>
 </table>
+</div>
