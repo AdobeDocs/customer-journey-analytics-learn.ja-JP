@@ -8,10 +8,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: ff9842fca1ddc90393a7893c92163c71eb444259
+source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -41,6 +41,7 @@ Customer Journey Analytics を使用すると、共通の顧客 ID に基づい�
 * **[クロスチャネルフィルターの作成（ビデオ）](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *複数のデータソースと複数のチャネルを利用する Customer Journey Analytics でのフィルターの作成*
+
 </div>
 
 <div id="recs-overview-body-1"></div>
