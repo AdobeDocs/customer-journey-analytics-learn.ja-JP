@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 143f2dfb69c303e5dbe83a37efc88622ea1ddb21
+source-git-commit: 06eb1fea41a95769f2f4499ef2c11e834e211faa
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 98%
+source-wordcount: '295'
+ht-degree: 95%
 
 ---
 
@@ -67,6 +67,10 @@ ht-degree: 98%
 + エクスポート {#exporting}
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 用の Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
++ ユースケース {#use-cases}
+   + データビューのユースケース {#data-views-use-cases}
+      + [初回セッションと再セッションのレポート](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
+      + [日付フィールドのサポートを活用](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + ブループリント {#blueprints}
    + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=ja)
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html?lang=ja)
