@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 35958b61b24b54d5e963b621df980cebf52fcfe1
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 97%
 + エクスポート {#exporting}
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 用の Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
-      + [スケジュールCustomer Journey AnalyticsのReport Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
+      + [Report Builder を使用した Customer Journey Analytics ワークブックのスケジューリング](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
 + ユースケース {#use-cases}
    + データビューのユースケース {#data-views-use-cases}
       + [初回のセッションとリピートセッションのレポート](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
