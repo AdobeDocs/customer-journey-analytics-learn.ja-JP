@@ -1,26 +1,23 @@
 ---
-title: CJA での接続の詳細
-description: 接続の詳細エクスペリエンスでは、接続のデータセットのステータスと取り込みプロセスのステータスを確認できます。
+title: 接続設定の表示、トラブルシューティング、変更
+description: 接続マネージャを使用すると、接続のデータセット取り込みのステータスを確認できます。 また、このインターフェイスでは、Workspace で分析を開始するためのデータが使用可能な場合にも通知されます。
 feature: Connections
 topic: Administration
+doc-type: feature video
 role: Admin
 level: Beginner
-kt: 10221
 thumbnail: 342097.jpg
+kt: 10221
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
-source-git-commit: 846dd86b60d456469618d6f6ea9c26a726215687
-workflow-type: ht
-source-wordcount: '137'
-ht-degree: 100%
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 0%
 
 ---
 
-# CJA での接続の詳細
+# 接続設定の表示、トラブルシューティング、変更
 
-接続の詳細エクスペリエンスでは、接続のデータセットのステータスと取り込みプロセスのステータスを確認できます。
+接続マネージャを使用すると、接続のデータセット取り込みのステータスを確認できます。 また、このインターフェイスでは、Workspace で分析を開始するためのデータが使用可能な場合にも通知されます。 設定ミスによるデータの相違を識別し、データのインポート日を管理し、接続からデータセットを削除する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
-
-このステータスチェックを使用すると、データが使用可能になったタイミングを把握して、Analysis Workspace に移動して分析を開始できます。また、設定ミスによるデータの食い違いも特定できます。 スキップされた行または削除された行はありますか？「はい」の場合、いつ何行がスキップまたは削除されましたか？接続の設定の誤りが原因で CJA でデータがスキップされるケースはありましたか？
-
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=ja)を参照してください。

@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 35958b61b24b54d5e963b621df980cebf52fcfe1
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 100%
+source-wordcount: '299'
+ht-degree: 95%
 
 ---
 
@@ -23,9 +23,8 @@ ht-degree: 100%
    + [データの操作](data-prep/working-with-data-in-cja.md)
    + [Adobe Analytics データの取り込み、マッピング、変換](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
 + 接続 {#connections}
-   + [Platform でのデータソースへの接続](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
-   + [CJA での接続の詳細](connections/connections-details-experience-in-cja.md)
-   + [接続の作成とエクスペリエンスの編集](connections/cja-connections-creation-and-edit-experience.md)
+   + [Experience Platformデータソースに接続](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+   + [接続設定の表示、トラブルシューティング、変更](connections/connections-details-experience-in-cja.md)
    + [既存接続への過去データの追加](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + 訪問者の識別 {#visitor-id}
    + [CJA での ID の使用方法について](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
