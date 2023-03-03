@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 95%
    + [データの操作](data-prep/working-with-data-in-cja.md)
    + [Adobe Analytics データの取り込み、マッピング、変換](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
 + 接続 {#connections}
-   + [Experience Platformデータソースに接続](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+   + [Experience Platform データソースへの接続](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [接続設定の表示、トラブルシューティング、変更](connections/connections-details-experience-in-cja.md)
    + [既存接続への過去データの追加](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + 訪問者の識別 {#visitor-id}
