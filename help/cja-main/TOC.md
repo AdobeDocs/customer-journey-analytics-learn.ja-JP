@@ -4,8 +4,8 @@ user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/over
 type: Tutorial
 source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 98%
    + [接続への新しいデータの追加](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + 訪問者の識別 {#visitor-id}
    + [CJA での ID の使用方法について](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
-   + [見つからないユーザー ID の設定](visitor-id/configure-missing-person-id.md)
+   + [欠落しているユーザー ID の設定](visitor-id/configure-missing-person-id.md)
 + データビュー {#data-views}
    + [CJA のデータビュー設定の概要](data-views/overview-of-configuring-data-views-for-cja.md)
    + [データビューの基本設定](data-views/basic-configuration-for-data-views.md)
