@@ -1,6 +1,6 @@
 ---
-title: 見つからないユーザー ID のCustomer Journey Analytics
-description: 設定に利用できるユーザー ID を持たないデータセットに対して、どのように対処しますか？ どのように実行されたかを確認するには、このビデオをご覧ください。
+title: Customer Journey Analytics で欠落しているユーザー ID の設定
+description: 設定に使用できるユーザー ID がないデータセットへの対処方法？ その方法については、こちらのビデオをご覧ください。
 feature: Identity
 topics: topics
 activity: understand
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 last-substantial-update: 2023-04-03T00:00:00Z
 source-git-commit: 4af5db21dcdfb30865b09ef64f38e5252167c77c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 見つからないユーザー ID のCustomer Journey Analytics
+# Customer Journey Analytics で欠落しているユーザー ID の設定
 
-Customer Journey Analytics接続で設定する利用可能なユーザー ID を持たないデータセットに対して、どのように対処しますか？ どのように実行されたかを確認するには、このビデオをご覧ください。
+Customer Journey Analytics 接続で設定に使用できるユーザー ID がないデータセットへの対処方法？ その方法については、こちらのビデオをご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417726/?quality=12&learn=on)
