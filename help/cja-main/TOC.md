@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 87e4a545a36eb09dc35168bf8784d66b6a56e326
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '310'
 ht-degree: 98%
 
 ---
@@ -42,6 +42,9 @@ ht-degree: 98%
    + [データビューでのバインディングディメンション](data-views/binding-dimensions-in-data-views.md)
    + [データビューでの値なしオプションの設定](data-views/configure-no-value-options-in-data-views.md)
    + [データビューでのアトリビューション設定](data-views/attribution-settings-in-data-views.md)
++ Analysis Workspace {#analysis-workspace}
+   + ワークスペースプロジェクト {#workspace-projects}
+      + [Analysis Workspace の概要](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
 + ビジュアライゼーション {#visualizations}
    + [クロスチャネルビジュアライゼーションの作成](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [クロスチャネルアトリビューション](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -76,3 +79,4 @@ ht-degree: 98%
    + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=ja)
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html?lang=ja)
    + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=ja#customer-journey-analytics)
+
