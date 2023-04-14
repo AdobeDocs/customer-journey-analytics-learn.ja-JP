@@ -11,8 +11,8 @@ kt: 3955
 role: User
 level: Beginner
 exl-id: f835376c-36b8-45b6-a3fe-4efaf5fb6a12
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
-workflow-type: ht
+source-git-commit: 0a7d2eb934bfde453916a8211f1dc7b717bb5fe5
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 このビデオは、技術的な詳しい説明ではなく、[!UICONTROL 訪問者] ID を結び付けることで可能になったクロスチャネル[!UICONTROL ビジュアライゼーション]の調査を含め、[!UICONTROL ID] が Customer Journey Analytics の分析に与える影響の実践的な考察をおこないます。
 
->[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12&enable10seconds=on&speedcontrol=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja)を参照してください。

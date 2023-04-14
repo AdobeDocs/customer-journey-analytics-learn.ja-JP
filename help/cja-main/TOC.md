@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 0a7d2eb934bfde453916a8211f1dc7b717bb5fe5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '314'
+ht-degree: 98%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 0%
 + Analysis Workspace {#analysis-workspace}
    + ワークスペースプロジェクト {#workspace-projects}
       + [Analysis Workspace の概要](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+      + [新しいプロジェクトの構築](analysis-workspace/workspace-projects/build-a-new-project.md)
 + ビジュアライゼーション {#visualizations}
    + [クロスチャネルビジュアライゼーションの作成](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [クロスチャネルアトリビューション](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -80,3 +81,6 @@ ht-degree: 0%
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html?lang=ja)
    + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=ja#customer-journey-analytics)
 
+
+
+[def]: analysis-workspace/workspace-projects/build-a-new-project.md
