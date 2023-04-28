@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 8508b1e6e392a89a8e033baf06472da8e764e28e
+source-git-commit: 20114569963ebaf9c1feea4b5a2cc568d66e6985
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '324'
+ht-degree: 96%
 
 ---
 
@@ -55,6 +55,7 @@ ht-degree: 0%
       + [フィルターの概要](components/filters/introduction-to-filters-in-cja.md)
       + [クイックフィルターの作成](components/filters/create-a-quick-filter.md)
       + [クロスチャネルフィルターの作成](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [フィルターをディメンションとして使用](components/filters/use-filters-as-dimensions.md)
       + [Adobe Analytics セグメントの Customer Journey Analytics への移行](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + 計算指標 {#calc-metrics}
       + [Customer Journey Analytics における計算指標の概要](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
