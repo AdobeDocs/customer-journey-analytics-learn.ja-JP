@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 20114569963ebaf9c1feea4b5a2cc568d66e6985
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -14,8 +14,8 @@ ht-degree: 96%
 
 + [Customer Journey Analytics の概要](overview.md)
 + Customer Journey Analytics の基本 {#cja-basics}
-   + [Customer Journey Analyticsとは](cja-basics/what-is-customer-journey-analytics.md)
-   + [Customer Journey Analyticsの概要](cja-basics/understanding-customer-journey-analytics.md)
+   + [Customer Journey Analytics とは](cja-basics/what-is-customer-journey-analytics.md)
+   + [Customer Journey Analytics の概要](cja-basics/understanding-customer-journey-analytics.md)
    + [新しい用語と概念](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics のランディングページ](cja-basics/customer-journey-analytics-landing-page.md)
 + アーキテクチャ {#architecture}
