@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 20114569963ebaf9c1feea4b5a2cc568d66e6985
+source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '323'
 ht-degree: 100%
 
 ---
