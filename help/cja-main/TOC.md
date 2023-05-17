@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
+source-git-commit: 7b4c5bfd8f3fef5a8b52597958efbfeec98c3b45
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 95%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 100%
    + [データビューでの値なしオプションの設定](data-views/configure-no-value-options-in-data-views.md)
    + [データビューでのアトリビューション設定](data-views/attribution-settings-in-data-views.md)
 + Analysis Workspace {#analysis-workspace}
-   + ワークスペースプロジェクト {#workspace-projects}
+   + Workspace プロジェクト {#workspace-projects}
       + [Analysis Workspace の概要](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [新規プロジェクトの作成](analysis-workspace/workspace-projects/build-a-new-project.md)
 + ビジュアライゼーション {#visualizations}
@@ -62,6 +62,8 @@ ht-degree: 100%
       + [Adobe Analytics から Customer Journey Analytics への計算指標の移行](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + オーディエンス {#audiences}
       + [オーディエンスパブリッシング](components/audiences/audience-publishing-for-cja.md)
+   + データ要素 {#data-dictionary}
+      + [データ辞書を使用](components/data-dictionary/use-data-dictionary.md)
 + パネル {#panels}
    + [次または前の項目パネルの設定](panels/configure-next-previous-item-panel.md)
    + [実験パネルの使用](panels/use-the-experimentation-panel.md)
@@ -77,12 +79,9 @@ ht-degree: 100%
 + ユースケース {#use-cases}
    + データビューのユースケース {#data-views-use-cases}
       + [初回のセッションとリピートセッションのレポート](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [日付フィールドのサポートの活用](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [日付フィールドのサポートを使用](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + ブループリント {#blueprints}
    + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=ja)
-   + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html?lang=ja)
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=ja#customer-journey-analytics)
+   + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html?lang=ja)
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
 
-
-
-[def]: analysis-workspace/workspace-projects/build-a-new-project.md
