@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 7b4c5bfd8f3fef5a8b52597958efbfeec98c3b45
+source-git-commit: aac1b820fda0e1ea8c21938ae23f0e5b0034d7ab
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '329'
 ht-degree: 95%
 
 ---
@@ -50,6 +50,7 @@ ht-degree: 95%
 + ビジュアライゼーション {#visualizations}
    + [クロスチャネルビジュアライゼーションの作成](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [クロスチャネルアトリビューション](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+   + [インテリジェントキャプション](visualizations/intelligent-captions.md)
 + コンポーネント {#components}
    + フィルター（セグメント化） {#filters}
       + [フィルターの概要](components/filters/introduction-to-filters-in-cja.md)
