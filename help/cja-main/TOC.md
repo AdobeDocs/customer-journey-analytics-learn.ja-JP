@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: aac1b820fda0e1ea8c21938ae23f0e5b0034d7ab
+source-git-commit: 0c47553f32c814ff0425545787995afbcb8f89a4
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 95%
+source-wordcount: '338'
+ht-degree: 92%
 
 ---
 
@@ -47,6 +47,8 @@ ht-degree: 95%
    + Workspace プロジェクト {#workspace-projects}
       + [Analysis Workspace の概要](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [新規プロジェクトの作成](analysis-workspace/workspace-projects/build-a-new-project.md)
+   + キュレーションおよび共有 {#curate-and-share}
+      + [Analysis Workspaceの全員と共有](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
 + ビジュアライゼーション {#visualizations}
    + [クロスチャネルビジュアライゼーションの作成](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [クロスチャネルアトリビューション](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
