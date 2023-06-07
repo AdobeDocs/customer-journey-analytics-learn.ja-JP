@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0c47553f32c814ff0425545787995afbcb8f89a4
+source-git-commit: a7c99a0fefe5996978da6d9bc2564fe9341f2617
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 92%
+source-wordcount: '341'
+ht-degree: 91%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 92%
    + [データビューの基本設定](data-views/basic-configuration-for-data-views.md)
    + [データビューのコンポーネント設定](data-views/configuring-component-settings-in-data-views.md)
    + [データビューのコンポーネントタイプ設定](data-views/component-type-settings-in-data-views.md)
+   + [派生フィールドの作成](data-views/derived-fields-in-cja.md)
    + [データビューの指標の書式設定](data-views/formatting-metrics-in-data-views.md)
    + [サブ文字列コンポーネントの設定](data-views/configure-substring-component-settings.md)
    + [データビューでの指標値の包含または除外](data-views/include-or-exclude-metric-values-in-data-views.md)
