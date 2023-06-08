@@ -8,8 +8,8 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
-workflow-type: ht
+source-git-commit: afc741e79f6aee13094ab3c3493885ce91c38284
+workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 100%
 
@@ -31,16 +31,13 @@ Customer Journey Analytics を使用すると、共通の顧客 ID に基づい�
 ## 最新情報
 
 * **[Adobe Analytics セグメントの Customer Journey Analytics への移動（ビデオ）](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
-
-   *Customer Journey Analytics で Adobe Analytics セグメントを再作成する方法に関するヒントを説明します*
+  *Customer Journey Analytics で Adobe Analytics セグメントを再作成する方法に関するヒントを説明します*
 
 * **[Adobe Analytics から Customer Journey Analytics への計算指標の移行（ビデオ）](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
-
-   *Customer Journey Analytics で Adobe Analytics の計算指標を再作成する際のヒントを学ぶ*
+  *Customer Journey Analytics で Adobe Analytics の計算指標を再作成する際のヒントを学ぶ*
 
 * **[クロスチャネルフィルターの作成（ビデオ）](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
-
-   *複数のデータソースと複数のチャネルを利用する Customer Journey Analytics でのフィルターの作成*
+  *複数のデータソースと複数のチャネルを利用する Customer Journey Analytics でのフィルターの作成*
 
 </div>
 
@@ -84,11 +81,11 @@ Customer Journey Analytics を使用すると、共通の顧客 ID に基づい�
     <p>
   </td>
   <td>
-    <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+    <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
       <img alt="Customer Journey Analytics でのクロスチャネルアトリビューション" src="assets/31772.jpg" />
     </a>
     <div>
-      <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+      <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
     <strong>Customer Journey Analytics でのクロスチャネルアトリビューション</strong>
     </a>
     </div>

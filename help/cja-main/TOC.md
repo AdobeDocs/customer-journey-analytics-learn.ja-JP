@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
+source-git-commit: 69c2686d7f3e66058046a4348f13cb6d61009389
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 78%
+source-wordcount: '388'
+ht-degree: 76%
 
 ---
 
@@ -48,23 +48,30 @@ ht-degree: 78%
    + Workspace プロジェクト {#workspace-projects}
       + [Analysis Workspace の概要](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [新規プロジェクトの作成](analysis-workspace/workspace-projects/build-a-new-project.md)
+   + パネル {#panels}
+      + [次または前の項目パネルの設定](analysis-workspace/panels/configure-next-previous-item-panel.md)
+      + [実験パネルの使用](analysis-workspace/panels/use-the-experimentation-panel.md)
+   + ビジュアライゼーション {#visualizations}
+      + [クロスチャネルビジュアライゼーションの作成](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
+      + [クロスチャネルアトリビューション](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+      + [インテリジェントキャプションの作成](analysis-workspace/visualizations/intelligent-captions.md)
+      + [領域のビジュアライゼーションを追加](analysis-workspace/visualizations/add-area-visualizations.md)
+      + [棒グラフのビジュアライゼーションを追加](analysis-workspace/visualizations/add-bar-visualizations.md)
+      + [ブレットグラフビジュアライゼーションの追加](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
+      + [ドーナツビジュアライゼーションの追加](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [線のビジュアライゼーションを追加](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [マップのビジュアライゼーションの使用](analysis-workspace/visualizations/use-map-visualization.md)
+      + [概要ビジュアライゼーションの使用](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [テキストのビジュアライゼーションを追加](analysis-workspace/visualizations/add-text-visualizations.md)
+      + [散布図ビジュアライゼーションの使用](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [ツリーマップビジュアライゼーションの追加](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [完全に積み重ねられたビジュアライゼーションの作成](analysis-workspace/visualizations/create-stacked-visualizations.md)
+   + 注釈 {#annotations}
+      + [注釈を作成](analysis-workspace/annotations/create-an-annotation.md)
    + キュレーションおよび共有 {#curate-and-share}
       + [Analysis Workspaceの全員と共有](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-+ ビジュアライゼーション {#visualizations}
-   + [クロスチャネルビジュアライゼーションの作成](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
-   + [クロスチャネルアトリビューション](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [インテリジェントキャプションの作成](visualizations/intelligent-captions.md)
-   + [領域のビジュアライゼーションを追加](visualizations/add-area-visualizations.md)
-   + [棒グラフのビジュアライゼーションを追加](visualizations/add-bar-visualizations.md)
-   + [ブレットグラフビジュアライゼーションの追加](visualizations/add-bullet-graph-visualizations.md)
-   + [ドーナツビジュアライゼーションの追加](visualizations/add-donut-visualizations.md)
-   + [線のビジュアライゼーションを追加](visualizations/add-line-visualizations.md)
-   + [マップのビジュアライゼーションの使用](visualizations/use-map-visualization.md)
-   + [概要ビジュアライゼーションの使用](visualizations/use-summary-visualizations.md)
-   + [テキストのビジュアライゼーションを追加](visualizations/add-text-visualizations.md)
-   + [散布図ビジュアライゼーションの使用](visualizations/use-scatterplot-visualizations.md)
-   + [ツリーマップビジュアライゼーションの追加](visualizations/add-treemap-visualizations.md)
-   + [完全に積み重ねられたビジュアライゼーションの作成](visualizations/create-stacked-visualizations.md)
+   + ヒントとテクニック {#tips-and-tricks}
+      + [動的ドロップダウンフィルターの作成](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + コンポーネント {#components}
    + フィルター（セグメント化） {#filters}
       + [フィルターの概要](components/filters/introduction-to-filters-in-cja.md)
@@ -79,11 +86,6 @@ ht-degree: 78%
       + [オーディエンスパブリッシング](components/audiences/audience-publishing-for-cja.md)
    + データ要素 {#data-dictionary}
       + [データ辞書を使用](components/data-dictionary/use-data-dictionary.md)
-+ パネル {#panels}
-   + [次または前の項目パネルの設定](panels/configure-next-previous-item-panel.md)
-   + [実験パネルの使用](panels/use-the-experimentation-panel.md)
-+ 注釈 {#annotations}
-   + [注釈の作成](components/create-an-annotation.md)
 + ダッシュボード（スコアカード）{#dashboards}
    + [モバイルスコアカードの作成](dashboards/create-a-mobile-scorecard.md)
    + [エグゼクティブのモバイルスコアカードアクセスを支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
