@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a7c99a0fefe5996978da6d9bc2564fe9341f2617
+source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 91%
+source-wordcount: '381'
+ht-degree: 78%
 
 ---
 
@@ -53,7 +53,18 @@ ht-degree: 91%
 + ビジュアライゼーション {#visualizations}
    + [クロスチャネルビジュアライゼーションの作成](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [クロスチャネルアトリビューション](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [インテリジェントキャプション](visualizations/intelligent-captions.md)
+   + [インテリジェントキャプションの作成](visualizations/intelligent-captions.md)
+   + [領域のビジュアライゼーションを追加](visualizations/add-area-visualizations.md)
+   + [棒グラフのビジュアライゼーションを追加](visualizations/add-bar-visualizations.md)
+   + [ブレットグラフビジュアライゼーションの追加](visualizations/add-bullet-graph-visualizations.md)
+   + [ドーナツビジュアライゼーションの追加](visualizations/add-donut-visualizations.md)
+   + [線のビジュアライゼーションを追加](visualizations/add-line-visualizations.md)
+   + [マップのビジュアライゼーションの使用](visualizations/use-map-visualization.md)
+   + [概要ビジュアライゼーションの使用](visualizations/use-summary-visualizations.md)
+   + [テキストのビジュアライゼーションを追加](visualizations/add-text-visualizations.md)
+   + [散布図ビジュアライゼーションの使用](visualizations/use-scatterplot-visualizations.md)
+   + [ツリーマップビジュアライゼーションの追加](visualizations/add-treemap-visualizations.md)
+   + [完全に積み重ねられたビジュアライゼーションの作成](visualizations/create-stacked-visualizations.md)
 + コンポーネント {#components}
    + フィルター（セグメント化） {#filters}
       + [フィルターの概要](components/filters/introduction-to-filters-in-cja.md)
@@ -75,7 +86,7 @@ ht-degree: 91%
    + [注釈の作成](components/create-an-annotation.md)
 + ダッシュボード（スコアカード）{#dashboards}
    + [モバイルスコアカードの作成](dashboards/create-a-mobile-scorecard.md)
-   + [エグゼクティブがモバイルスコアカードにアクセスするのを支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [エグゼクティブのモバイルスコアカードアクセスを支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + エクスポート {#exporting}
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 用の Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
@@ -86,6 +97,6 @@ ht-degree: 91%
       + [日付フィールドのサポートを使用](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + ブループリント {#blueprints}
    + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=ja)
-   + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html?lang=ja)
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
+   + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
 
