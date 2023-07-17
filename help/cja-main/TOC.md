@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
+source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 74%
+source-wordcount: '434'
+ht-degree: 70%
 
 ---
 
@@ -75,6 +75,18 @@ ht-degree: 74%
       + [動的ドロップダウンフィルターの作成](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analyticsの概要](adobe-product-analytics/adobe-product-analytics-overview.md)
++ ガイド付き分析 {#guided-analysis}
+   + 影響 {#impact}
+      + [リリース影響分析](guided-analysis/impact/release-impact-analysis.md)
+      + [最初の使用の影響分析](guided-analysis/impact/first-use-impact-analysis.md)
+   + ファネル {#funnel}
+      + [漏斗摩擦解析](guided-analysis/funnel/funnel-friction-analysis.md)
+      + [ファネルコンバージョントレンド分析](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
+   + ユーザーの増加率 {#user-growth}
+      + [アクティブなユーザーの成長分析](guided-analysis/user-growth/active-user-growth-analysis.md)
+      + [純ユーザー成長分析](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + 傾向 {#trends}
+      + [使用状況トレンド分析](guided-analysis/trends/usage-trends-analysis.md)
 + コンポーネント {#components}
    + フィルター（セグメント化） {#filters}
       + [フィルターの概要](components/filters/introduction-to-filters-in-cja.md)
