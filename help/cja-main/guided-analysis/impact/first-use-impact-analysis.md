@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13671
 thumbnail: 3421661.jpeg
-source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
+source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 7%
@@ -18,7 +18,7 @@ ht-degree: 7%
 
 # 最初の使用の影響分析
 
-使用方法 **初回使用ビュー** (Adobe Product Analytics)：ユーザーが初めて製品機能を使用する前と後での主要指標のパフォーマンスの比較を示します。
+使用方法 **初回使用ビュー** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md)：ユーザーが初めて製品機能を使用する前と後での主要指標のパフォーマンスを比較したものです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
