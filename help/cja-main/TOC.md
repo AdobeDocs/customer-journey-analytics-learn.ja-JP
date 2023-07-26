@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 70%
 + データの準備と計画 {#data-prep}
    + [データの操作](data-prep/working-with-data-in-cja.md)
    + [Adobe Analytics データの取り込み、マッピング、変換](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
-   + [Adobe Analytics分類データの取り込みと使用](data-prep/ingest-and-use-analytics-classifications.md)
+   + [Adobe Analytics 分類データの取り込みと使用](data-prep/ingest-and-use-analytics-classifications.md)
 + 接続 {#connections}
    + [Experience Platform データソースへの接続](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [接続設定の表示、トラブルシューティング、変更](connections/connections-details-experience-in-cja.md)
@@ -56,36 +56,36 @@ ht-degree: 70%
       + [クロスチャネルビジュアライゼーションの作成](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [クロスチャネルアトリビューション](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
       + [インテリジェントキャプションの作成](analysis-workspace/visualizations/intelligent-captions.md)
-      + [領域のビジュアライゼーションを追加](analysis-workspace/visualizations/add-area-visualizations.md)
+      + [面グラフのビジュアライゼーションの追加](analysis-workspace/visualizations/add-area-visualizations.md)
       + [棒グラフのビジュアライゼーションを追加](analysis-workspace/visualizations/add-bar-visualizations.md)
-      + [ブレットグラフビジュアライゼーションの追加](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
-      + [ドーナツビジュアライゼーションの追加](analysis-workspace/visualizations/add-donut-visualizations.md)
-      + [線のビジュアライゼーションを追加](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [ブレットグラフのビジュアライゼーションの追加](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
+      + [ドーナツグラフのビジュアライゼーションの追加](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [線グラフのビジュアライゼーションの追加](analysis-workspace/visualizations/add-line-visualizations.md)
       + [マップのビジュアライゼーションの使用](analysis-workspace/visualizations/use-map-visualization.md)
-      + [概要ビジュアライゼーションの使用](analysis-workspace/visualizations/use-summary-visualizations.md)
-      + [テキストのビジュアライゼーションを追加](analysis-workspace/visualizations/add-text-visualizations.md)
-      + [散布図ビジュアライゼーションの使用](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
-      + [ツリーマップビジュアライゼーションの追加](analysis-workspace/visualizations/add-treemap-visualizations.md)
-      + [完全に積み重ねられたビジュアライゼーションの作成](analysis-workspace/visualizations/create-stacked-visualizations.md)
+      + [概要のビジュアライゼーションの使用](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [テキストのビジュアライゼーションの追加](analysis-workspace/visualizations/add-text-visualizations.md)
+      + [散布図のビジュアライゼーションの使用](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [ツリーマップのビジュアライゼーションの追加](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [完全な積み重ねグラフのビジュアライゼーションの作成](analysis-workspace/visualizations/create-stacked-visualizations.md)
    + 注釈 {#annotations}
       + [注釈を作成](analysis-workspace/annotations/create-an-annotation.md)
-   + キュレーションおよび共有 {#curate-and-share}
-      + [Analysis Workspaceの全員と共有](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
+   + キュレーションと共有 {#curate-and-share}
+      + [Analysis Workspace ですべてのユーザーと共有](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + ヒントとテクニック {#tips-and-tricks}
       + [動的ドロップダウンフィルターの作成](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
-   + [Adobe Product Analyticsの概要](adobe-product-analytics/adobe-product-analytics-overview.md)
+   + [Adobe Product Analytics の概要](adobe-product-analytics/adobe-product-analytics-overview.md)
 + ガイド付き分析 {#guided-analysis}
    + 影響 {#impact}
       + [リリース影響分析](guided-analysis/impact/release-impact-analysis.md)
       + [最初の使用の影響分析](guided-analysis/impact/first-use-impact-analysis.md)
    + ファネル {#funnel}
-      + [漏斗摩擦解析](guided-analysis/funnel/funnel-friction-analysis.md)
+      + [ファネル摩擦解析](guided-analysis/funnel/funnel-friction-analysis.md)
       + [ファネルコンバージョントレンド分析](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
    + ユーザーの増加率 {#user-growth}
       + [アクティブなユーザーの成長分析](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [純ユーザー成長分析](guided-analysis/user-growth/net-user-growth-analysis.md)
-   + 傾向 {#trends}
+      + [純ユーザー増加率分析](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + トレンド {#trends}
       + [使用状況トレンド分析](guided-analysis/trends/usage-trends-analysis.md)
 + コンポーネント {#components}
    + フィルター（セグメント化） {#filters}
@@ -100,10 +100,10 @@ ht-degree: 70%
    + オーディエンス {#audiences}
       + [オーディエンスパブリッシング](components/audiences/audience-publishing-for-cja.md)
    + データ要素 {#data-dictionary}
-      + [データ辞書を使用](components/data-dictionary/use-data-dictionary.md)
+      + [データ要素の使用](components/data-dictionary/use-data-dictionary.md)
 + ダッシュボード（スコアカード）{#dashboards}
    + [モバイルスコアカードの作成](dashboards/create-a-mobile-scorecard.md)
-   + [エグゼクティブのモバイルスコアカードアクセスを支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [モバイルスコアカードへのアクセスでのエグゼクティブの支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + エクスポート {#exporting}
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 用の Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
@@ -111,8 +111,8 @@ ht-degree: 70%
 + ユースケース {#use-cases}
    + データビューのユースケース {#data-views-use-cases}
       + [初回のセッションとリピートセッションのレポート](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [日付フィールドのサポートを使用](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [日付フィールドのサポートの使用](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + ブループリント {#blueprints}
    + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=ja)
-   + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
+   + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=ja)
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=ja)
