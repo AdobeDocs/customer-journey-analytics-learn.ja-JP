@@ -1,6 +1,6 @@
 ---
-title: Adobe Product Analyticsの概要
-description: Adobe Product Analyticsを使用すると、製品チームは、Customer Journey Analyticsの同じクロスチャネルデータに基づいて構築された、ガイド付き分析ワークフローを通じて、製品エクスペリエンスに関するデータとインサイトをセルフサービスできます。
+title: Adobe Product Analytics の概要
+description: Adobe Product Analytics を使用すると、製品チームは、Customer Journey Analytics の同じクロスチャネルデータに基づいて作成されたガイド付き分析ワークフローを通じて、製品エクスペリエンスに関するデータとインサイトをセルフサービスで得ることができます。
 feature: Guided Analysis
 role: User
 level: Intermediate
@@ -9,28 +9,28 @@ last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
 source-git-commit: b784a9e5c1adf41d0011140b22c15551cc86813f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '174'
-ht-degree: 30%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Product Analyticsの概要
+# Adobe Product Analytics の概要
 
-Adobe Product Analyticsを使用すると、製品チームは、Customer Journey Analyticsの同じクロスチャネルデータに基づいて構築された、ガイド付き分析ワークフローを通じて、製品エクスペリエンスに関するデータとインサイトをセルフサービスできます。
+Adobe Product Analytics を使用すると、製品チームは、Customer Journey Analytics の同じクロスチャネルデータに基づいて作成されたガイド付き分析ワークフローを通じて、製品エクスペリエンスに関するデータとインサイトをセルフサービスで得ることができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421621/?learn=on)
 
-Adobe Product Analyticsを使用すると、チームは次のことができます。
+Adobe Product Analytics を使用すると、チームは次のことを行うことができます。
 
-* [時間の経過に伴うユーザーエンゲージメントのパターンの把握](../guided-analysis/trends/usage-trends-analysis.md)
-* [製品のユーザーベースの増加と保持を追跡](../guided-analysis/user-growth/active-user-growth-analysis.md)
+* [時間の経過に伴うユーザーエンゲージメントのパターンを理解する](../guided-analysis/trends/usage-trends-analysis.md)
+* [製品のユーザーベースの成長と保持を追跡する](../guided-analysis/user-growth/active-user-growth-analysis.md)
 * [製品の摩擦の領域を特定する](../guided-analysis/funnel/funnel-friction-analysis.md)
-* [機能リリースの影響を測定し、最初に使用](../guided-analysis/impact/release-impact-analysis.md)
-* 製品に関する生涯の旅を通じて、ユーザーが関与し、育成する意味のあるセグメントを見つけ出す
+* [機能リリースと最初の使用の影響を測定する](../guided-analysis/impact/release-impact-analysis.md)
+* 製品のジャーニー全体を通したエンゲージメントと育成に役立つ、意味のあるユーザーセグメントを見つける
 * Analysis Workspace に接続して、より詳細な分析やアナリストとの共同作業を行う
 
 Adobe Product Analytics は、Customer Journey Analytics の有料アドオンです。この機能を使用できるように組織をプロビジョニングする場合は、アドビのアカウントチームにお問い合わせください。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/overview.html)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/overview.html?lang=ja)を参照してください。
