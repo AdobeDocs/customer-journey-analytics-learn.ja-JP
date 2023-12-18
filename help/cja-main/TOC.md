@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f4a115aac609e7aacf84ea17fad1f13d9fd5a268
+source-git-commit: 19e2106259bb4d9b13eaebebdb5ae076406b29cf
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 99%
+source-wordcount: '432'
+ht-degree: 94%
 
 ---
 
@@ -28,6 +28,7 @@ ht-degree: 99%
    + [Experience Platform データソースへの接続](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [接続設定の表示、トラブルシューティング、変更](connections/connections-details-experience-in-cja.md)
    + [接続への新しいデータの追加](connections/add-past-data-to-an-existing-connection-in-cja.md)
+   + [参照およびプロファイルデータの CJA 参照](connections/cja-lookup-data.md)
 + 訪問者の識別 {#visitor-id}
    + [CJA での ID の使用方法について](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [欠落しているユーザー ID の設定](visitor-id/configure-missing-person-id.md)
@@ -117,6 +118,6 @@ ht-degree: 99%
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列の使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=ja){target=_blank}
-   + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=ja){target=_blank}
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=ja){target=_blank}
+   + [Customer Journey Analyticsブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=ja){target=_blank}
+   + [デジタル行動データ統合シナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=ja){target=_blank}
+   + [コール偏向ジャーニー分析シナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=ja){target=_blank}
