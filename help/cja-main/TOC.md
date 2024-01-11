@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 19e2106259bb4d9b13eaebebdb5ae076406b29cf
+source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 94%
+source-wordcount: '435'
+ht-degree: 93%
 
 ---
 
@@ -32,6 +32,7 @@ ht-degree: 94%
 + 訪問者の識別 {#visitor-id}
    + [CJA での ID の使用方法について](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [欠落しているユーザー ID の設定](visitor-id/configure-missing-person-id.md)
+   + [ステッチの概要](visitor-id/overview-of-stitching.md)
 + データビュー {#data-views}
    + [CJA のデータビュー設定の概要](data-views/overview-of-configuring-data-views-for-cja.md)
    + [データビューの基本設定](data-views/basic-configuration-for-data-views.md)
