@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '435'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 93%
    + [Experience Platform データソースへの接続](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [接続設定の表示、トラブルシューティング、変更](connections/connections-details-experience-in-cja.md)
    + [接続への新しいデータの追加](connections/add-past-data-to-an-existing-connection-in-cja.md)
-   + [参照およびプロファイルデータの CJA 参照](connections/cja-lookup-data.md)
+   + [ルックアップデータおよびプロファイルデータの CJA ルックアップ](connections/cja-lookup-data.md)
 + 訪問者の識別 {#visitor-id}
    + [CJA での ID の使用方法について](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [欠落しているユーザー ID の設定](visitor-id/configure-missing-person-id.md)
@@ -104,11 +104,11 @@ ht-degree: 93%
       + [オーディエンスパブリッシング](components/audiences/audience-publishing-for-cja.md)
    + データ要素 {#data-dictionary}
       + [データ要素の使用](components/data-dictionary/use-data-dictionary.md)
-+ ダッシュボード（スコアカード）{#dashboards}
++ ダッシュボード（スコアカード） {#dashboards}
    + [モバイルスコアカードの作成](dashboards/create-a-mobile-scorecard.md)
    + [モバイルスコアカードへのアクセスでのエグゼクティブの支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
-+ エクスポート {#exporting}
-   + [フルテーブルエクスポート](exporting/full-table-export.md)
++ {#exporting} の書き出し
+   + [完全なテーブルの書き出し](exporting/full-table-export.md)
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 用の Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Report Builder を使用した Customer Journey Analytics ワークブックのスケジューリング](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
@@ -119,6 +119,6 @@ ht-degree: 93%
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列の使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analyticsブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=ja){target=_blank}
-   + [デジタル行動データ統合シナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=ja){target=_blank}
-   + [コール偏向ジャーニー分析シナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=ja){target=_blank}
+   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=ja){target=_blank}
+   + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=ja){target=_blank}
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=ja){target=_blank}
