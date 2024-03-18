@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
-workflow-type: ht
-source-wordcount: '435'
-ht-degree: 100%
+source-git-commit: 7304fe6e7961a788c01386366c7e2fa738703f86
+workflow-type: tm+mt
+source-wordcount: '441'
+ht-degree: 97%
 
 ---
 
@@ -79,17 +79,19 @@ ht-degree: 100%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics の概要](adobe-product-analytics/adobe-product-analytics-overview.md)
 + ガイド付き分析 {#guided-analysis}
-   + 影響 {#impact}
-      + [リリース影響分析](guided-analysis/impact/release-impact-analysis.md)
-      + [最初の使用の影響分析](guided-analysis/impact/first-use-impact-analysis.md)
    + ファネル {#funnel}
       + [ファネル摩擦解析](guided-analysis/funnel/funnel-friction-analysis.md)
       + [ファネルコンバージョントレンド分析](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
-   + ユーザーの増加率 {#user-growth}
-      + [アクティブなユーザーの成長分析](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [純ユーザー増加率分析](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + 影響 {#impact}
+      + [リリース影響分析](guided-analysis/impact/release-impact-analysis.md)
+      + [最初の使用の影響分析](guided-analysis/impact/first-use-impact-analysis.md)
    + トレンド {#trends}
       + [使用状況トレンド分析](guided-analysis/trends/usage-trends-analysis.md)
+   + ユーザーストリーム {#user-stream}
+      + [ユーザーストリームタイムライン分析](guided-analysis/user-stream/user-stream-timeline-analysis.md)
+   + ユーザーの増加率 {#user-growth}
+      + [アクティブなユーザーの成長分析](guided-analysis/user-growth/active-user-growth-analysis.md)
+      + [純ユーザー成長分析](guided-analysis/user-growth/net-user-growth-analysis.md)
 + コンポーネント {#components}
    + フィルター（セグメント化） {#filters}
       + [フィルターの概要](components/filters/introduction-to-filters-in-cja.md)
