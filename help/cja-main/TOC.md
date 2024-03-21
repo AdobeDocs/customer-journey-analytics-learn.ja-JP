@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 7304fe6e7961a788c01386366c7e2fa738703f86
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -91,7 +91,7 @@ ht-degree: 97%
       + [ユーザーストリームタイムライン分析](guided-analysis/user-stream/user-stream-timeline-analysis.md)
    + ユーザーの増加率 {#user-growth}
       + [アクティブなユーザーの成長分析](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [純ユーザー成長分析](guided-analysis/user-growth/net-user-growth-analysis.md)
+      + [純ユーザー増加率分析](guided-analysis/user-growth/net-user-growth-analysis.md)
 + コンポーネント {#components}
    + フィルター（セグメント化） {#filters}
       + [フィルターの概要](components/filters/introduction-to-filters-in-cja.md)
