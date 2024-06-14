@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 6fbbe2c319803fb380d884f9fd367fbdf0089a50
-workflow-type: ht
-source-wordcount: '452'
-ht-degree: 100%
+source-git-commit: 3e1d99084a2fe20dae9fad365995d232960429e8
+workflow-type: tm+mt
+source-wordcount: '457'
+ht-degree: 99%
 
 ---
 
@@ -81,6 +81,8 @@ ht-degree: 100%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics の概要](adobe-product-analytics/adobe-product-analytics-overview.md)
 + ガイド付き分析 {#guided-analysis}
+   + 機能マトリックス {#feature-matrix}
+      + [機能エンゲージメント分析](guided-analysis/feature-matrix/feature-engagement.md)
    + ファネル {#funnel}
       + [ファネル摩擦解析](guided-analysis/funnel/funnel-friction-analysis.md)
       + [ファネルコンバージョントレンド分析](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
