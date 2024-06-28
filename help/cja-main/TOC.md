@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3943a9ac0d9797f18882fadaa43ffbbc01727ab
+source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 96%
+source-wordcount: '486'
+ht-degree: 93%
 
 ---
 
@@ -40,6 +40,8 @@ ht-degree: 96%
    + [データビューのコンポーネント設定](data-views/configuring-component-settings-in-data-views.md)
    + [データビューのコンポーネントタイプ設定](data-views/component-type-settings-in-data-views.md)
    + [派生フィールドの作成](data-views/derived-fields-in-cja.md)
+   + [派生フィールドでの数学関数の使用](data-views/use-the-math-function-in-derived-fields.md)
+   + [派生フィールドでの Next 関数または Previous 関数の使用](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [データビューの指標の書式設定](data-views/formatting-metrics-in-data-views.md)
    + [サブ文字列コンポーネントの設定](data-views/configure-substring-component-settings.md)
    + [データビューでの指標値の包含または除外](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -130,6 +132,6 @@ ht-degree: 96%
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列の使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=ja){target=_blank}
+   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=ja){target=_blank}
    + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=ja){target=_blank}
