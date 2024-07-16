@@ -1,6 +1,6 @@
 ---
 title: リリース影響分析
-description: Adobe Product Analyticsのリリースビューの使用方法を説明します。このビューでは、特定の日付の前後における主要指標のパフォーマンスの比較を示しています。
+description: Customer Journey Analyticsでのリリースビューの使用方法を説明します。ここでは、指定した日付の前後に実行された主要指標を比較します。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13675
 thumbnail: 3421665.jpeg
-source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
+exl-id: 45ed4bf8-091e-4a08-a245-cc1ef226cbb9
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 9%
+source-wordcount: '66'
+ht-degree: 19%
 
 ---
 
-
 # リリース影響分析
 
-使用方法 **リリース表示** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md)：特定の日付の前後での主要指標のパフォーマンスを比較表示します。
+特定の日付の前後で主要指標がどのように実行されたかを比較する、Customer Journey Analyticsでの **リリースビュー** の使用方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 

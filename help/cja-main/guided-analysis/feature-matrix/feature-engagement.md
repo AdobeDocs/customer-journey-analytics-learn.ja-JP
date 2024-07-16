@@ -1,6 +1,6 @@
 ---
 title: 機能エンゲージメント分析
-description: Adobe Product Analyticsでの機能エンゲージメントビューの使用方法を説明します。 この分析は、製品の機能が使用される頻度と、使用するユーザーの数に関するインサイトを提供します。
+description: Customer Journey Analyticsでの機能エンゲージメントビューの使用方法を説明します。 この分析は、製品の機能が使用される頻度と、使用するユーザーの数に関するインサイトを提供します。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,7 +8,8 @@ doc-type: Feature Video
 jira: KT-15095
 thumbnail: 3429489.jpeg
 last-substantial-update: 2024-06-14T00:00:00Z
-source-git-commit: bd5225b31edace77b78e1a8b80ec9fcdc88ba6cc
+exl-id: 4fbe9012-58c9-4d32-9549-e382fc601f7f
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 7%
@@ -17,7 +18,7 @@ ht-degree: 7%
 
 # 機能エンゲージメント分析
 
-の使用方法を学ぶ **機能エンゲージメント表示** 。対象： [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md). この分析は、製品の機能が使用される頻度と、使用するユーザーの数に関するインサイトを提供します。 複数の機能を同時に比較して、最適なメリットを得ることができます。 これは、コア、機能、1 回限りの、疑わしい機能を理解することで、投資に関する意思決定に役立ちます。
+Customer Journey Analyticsでの **機能エンゲージメントビュー** の使用方法を説明します。 この分析は、製品の機能が使用される頻度と、使用するユーザーの数に関するインサイトを提供します。 複数の機能を同時に比較して、最適なメリットを得ることができます。 これは、コア、機能、1 回限りの、疑わしい機能を理解することで、投資に関する意思決定に役立ちます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
