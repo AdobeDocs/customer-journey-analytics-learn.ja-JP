@@ -1,6 +1,6 @@
 ---
-title: 用途 [!UICONTROL 概要] ビジュアライゼーション [!DNL Analysis Workspace] プロジェクト
-description: 使用方法 [!UICONTROL 概要] ビジュアライゼーション [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics].
+title: プロジェクトでの [!UICONTROL  概要 ] ビジュアライゼーション  [!DNL Analysis Workspace]  使用
+description: ' [!DNL Customer Journey Analytics] のプロジェクトで [!UICONTROL  概要 ] ビジュアライゼーションを使用す  [!DNL Analysis Workspace]  方法を説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13425
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 05d3f6c3-55a0-4135-a85d-87ff2695b734
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# 用途 [!UICONTROL 概要] ビジュアライゼーション [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics]
+# [!DNL Customer Journey Analytics] のプロジェクトでの [!UICONTROL  概要 ] ビジュアライゼーション [!DNL Analysis Workspace] 使用
 
-使用方法を学ぶ [!UICONTROL 概要] ビジュアライゼーション [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics]. これらのビジュアライゼーションは、プロジェクトで重要な多数をハイライトする場合に最適です。
+[!DNL Customer Journey Analytics] のプロジェクトで [!UICONTROL  概要 ] ビジュアライゼーション [!DNL Analysis Workspace] 使用する方法を説明します。 これらのビジュアライゼーションは、プロジェクトで重要な大きな数をハイライト表示する場合に最適です。
 
 >[!NOTE]
 >
->この [!DNL Analysis Workspace] ユーザーインターフェイスと機能は、 [!DNL Adobe Analytics] および [!DNL Customer Journey Analytics].
+>[!DNL Analysis Workspace] のユーザーインターフェイスと機能は、[!DNL Adobe Analytics] と [!DNL Customer Journey Analytics] で似ています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-詳しくは、 [!UICONTROL 概要] ビジュアライゼーションの場合、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html).
+[!UICONTROL  概要 ] ビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html) を参照してください。

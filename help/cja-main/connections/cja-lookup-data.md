@@ -19,8 +19,8 @@ ht-degree: 27%
 
 # ルックアップデータおよびプロファイルデータの CJA ルックアップ
 
-参照およびプロファイルデータに関する CJA 参照を使用すると、B2B の使用例で説明する人など、データ要素間のより深い関係を利用できます。  このビデオでは、参照データを参照およびプロファイルデータセットに追加する方法、および主要フィールドの計画とマッピングの方法について説明します。  キーと参照値の間に 1 対多の関係がある場合は、最新の値が使用されます。
+検索とプロファイルデータに対する CJA 検索を使用すると、ユーザーは、B2B のユースケースで人物とアカウントなど、データ要素間のより深い関係を利用できます。  このビデオでは、ルックアップデータセットとプロファイルデータセットにルックアップデータを追加する方法と、キーフィールドを計画およびマッピングする方法について説明します。  キーとルックアップ値の間に 1 対多の関係がある場合は、最新の値が使用されます。
 
-詳細なドキュメントについては、を参照してください。 [データセットのタイプ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en#dataset-types) および [アカウントレベルのデータをルックアップデータセットとして追加](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=en).
+詳細なドキュメントについては、[ データセットのタイプ ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en#dataset-types) および [ アカウントレベルのデータをルックアップデータセットとして追加 ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=en) を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)

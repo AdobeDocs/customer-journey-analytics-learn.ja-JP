@@ -1,6 +1,6 @@
 ---
-title: 追加 [!UICONTROL バー] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト
-description: 標準を追加および設定する方法について説明します [!UICONTROL バー] および [!UICONTROL 積み重ね棒] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics].
+title: プロジェクトへの [!UICONTROL  バー ] ビジュアライゼーション  [!DNL Analysis Workspace]  追加
+description: ' [!DNL Customer Journey Analytics] のプロジェクトに標準 [!UICONTROL  棒グラフ ] および [!UICONTROL  積み重ね棒グラフ ] ビジュアライゼーションを追加して設定する方法  [!DNL Analysis Workspace]  説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13402
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 3e4cf780-29ea-4a1b-92af-09e08a91a637
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# 追加 [!UICONTROL バー] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics]
+# [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL  バー ] ビジュアライゼーション [!DNL Analysis Workspace] 追加する
 
-標準を追加および設定する方法について説明します [!UICONTROL バー] および [!UICONTROL 積み重ね棒] ビジュアライゼーション [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics]. 使用方法 [!UICONTROL バー] 複数の指標をまたいで値を表すフォーメーションです。
+[!DNL Customer Journey Analytics] のプロジェクトに標準 [!UICONTROL  棒グラフ ] および [!UICONTROL  積み重ね棒グラフ ] ビジュアライゼーションを追加して設定 [!DNL Analysis Workspace] る方法を説明します。 これらは [!UICONTROL bar] 形式を使用して、複数の指標の値を表します。
 
 >[!NOTE]
 >
->この [!DNL Analysis Workspace] ユーザーインターフェイスと機能は、 [!DNL Adobe Analytics] および [!DNL Customer Journey Analytics].
+>[!DNL Analysis Workspace] のユーザーインターフェイスと機能は、[!DNL Adobe Analytics] と [!DNL Customer Journey Analytics] で似ています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
-詳しくは、 [!UICONTROL バー] ビジュアライゼーションの場合、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).
+[!UICONTROL  棒グラフ ] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html) を参照してください。

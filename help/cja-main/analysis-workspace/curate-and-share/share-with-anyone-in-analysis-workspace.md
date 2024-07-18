@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspaceの全員と共有
-description: Workspace の他のユーザーとの共有機能について説明します。 この機能を使用して、Adobe Analyticsまたは CJA へのアクセス権を持たないユーザー（組織外の受信者を含む）に Workspace プロジェクトへの読み取り専用アクセス権を付与できます。
+title: Analysis Workspace で誰とでも共有
+description: Workspaceの任意のユーザーと共有機能について説明します。 この機能を使用すると、Adobe Analyticsまたは CJA へのアクセス権を持たないユーザー（組織外の受信者を含む）に、Workspace プロジェクトへの読み取り専用アクセス権を付与できます。
 feature: Curate and Share
 role: User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-06T00:00:00Z
 jira: KT-13435
 thumbnail: 3420093.jpeg
-source-git-commit: 0c47553f32c814ff0425545787995afbcb8f89a4
+exl-id: 1ee94404-f4b0-4185-82df-341d091963db
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 16%
+source-wordcount: '98'
+ht-degree: 20%
 
 ---
 
+# Analysis Workspace で誰とでも共有
 
-# Analysis Workspaceの全員と共有
-
-Workspace の「他のユーザーと共有」機能について説明します。 この機能を使用して、Adobe AnalyticsまたはCustomer Journey Analyticsへのアクセス権を持たないユーザー（組織外の受信者を含む）に Workspace プロジェクトへの読み取り専用アクセス権を付与できます。
+Workspaceの「すべてのユーザーと共有」機能について説明します。 この機能を使用すると、組織外の受信者など、Adobe AnalyticsやCustomer Journey Analyticsへのアクセス権を持たないユーザーにWorkspace プロジェクトへの読み取り専用アクセス権を付与できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
 

@@ -1,6 +1,6 @@
 ---
-title: 追加 [!UICONTROL ドーナツ] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト
-description: 追加と設定の方法を説明します [!UICONTROL ドーナツ] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics].
+title: '[!UICONTROL  ドーナツ ] ビジュアライゼーションをプロジェクト  [!DNL Analysis Workspace]  追加'
+description: ' [!DNL Customer Journey Analytics] のプロジェクトに [!UICONTROL  ドーナツ ] ビジュアライゼーションを追加し  [!DNL Analysis Workspace]  設定する方法を説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13405
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 6c4d5e47-37dd-453f-b59a-c21dbc5a30cd
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# 追加 [!UICONTROL ドーナツ] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics]
+# [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL  ドーナツ ] ビジュアライゼーション [!DNL Analysis Workspace] 追加する
 
-追加と設定の方法を説明します [!UICONTROL ドーナツ] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics]. このビジュアライゼーションは、数項目の合計の割合を比較する場合に最適です。
+[!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL  ドーナツ ] ビジュアライゼーションを追加し、設定する方法 [!DNL Analysis Workspace] 説明します。 このビジュアライゼーションは、数個の項目で、合計のパーセンテージを比較する場合に使用するのに最適です。
 
 >[!NOTE]
 >
->この [!DNL Analysis Workspace] ユーザーインターフェイスと機能は、 [!DNL Adobe Analytics] および [!DNL Customer Journey Analytics].
+>[!DNL Analysis Workspace] のユーザーインターフェイスと機能は、[!DNL Adobe Analytics] と [!DNL Customer Journey Analytics] で似ています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-詳しくは、 [!UICONTROL ドーナツ] ビジュアライゼーションの場合、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html).
+[!UICONTROL  ドーナツ ] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html) を参照してください。

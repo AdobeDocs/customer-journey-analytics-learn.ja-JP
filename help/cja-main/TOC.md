@@ -123,7 +123,7 @@ ht-degree: 93%
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 用の Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Report Builder を使用した Customer Journey Analytics ワークブックのスケジューリング](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Experience Platformの統合 {#experience-platform-integration}
++ Experience Platform統合 {#experience-platform-integration}
    + [Adobe Journey Optimizerのレポート機能の強化](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + ユースケース {#use-cases}
    + データビューのユースケース {#data-views-use-cases}

@@ -1,6 +1,6 @@
 ---
-title: 追加 [!UICONTROL 行] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト
-description: 追加と設定の方法を説明します [!UICONTROL 行] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics].
+title: プロジェクトへの [!UICONTROL  ライン ] ビジュアライゼーション  [!DNL Analysis Workspace]  追加
+description: ' [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL  折れ線グラフ ] ビジュアライゼーションを追加して設定する方法  [!DNL Analysis Workspace]  説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13406
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 8d3b23b0-a542-4aaf-99fc-d4de9d11585f
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 11%
+source-wordcount: '65'
+ht-degree: 1%
 
 ---
 
-# 追加 [!UICONTROL 行] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics]
+# [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL  折れ線グラフ ] ビジュアライゼーション [!DNL Analysis Workspace] 追加する
 
-追加と設定の方法を説明します [!UICONTROL 行] ビジュアライゼーション [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics]. このビジュアライゼーションは、時間の経過に伴う値の変化を示す線で指標を表します。
+[!DNL Customer Journey Analytics] のプロジェクトに [!UICONTROL  折れ線グラフ ] ビジュアライゼーションを追加して設定 [!DNL Analysis Workspace] る方法を説明します。 このビジュアライゼーションでは、時間の経過に伴う値の変化を示す線で指標が表されます。
 
 >[!NOTE]
 >
->この [!DNL Analysis Workspace] ユーザーインターフェイスと機能は、 [!DNL Adobe Analytics] および [!DNL Customer Journey Analytics].
+>[!DNL Analysis Workspace] のユーザーインターフェイスと機能は、[!DNL Adobe Analytics] と [!DNL Customer Journey Analytics] で似ています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-詳しくは、 [!UICONTROL 行] ビジュアライゼーションの場合、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=ja).
+[!UICONTROL  折れ線グラフ ] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=ja) を参照してください。

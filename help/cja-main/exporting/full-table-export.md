@@ -1,5 +1,5 @@
 ---
-title: フルテーブルの書き出しをCustomer Journey Analytics
+title: Customer Journey Analyticsでの完全なテーブル書き出し
 description: Customer Journey Analyticsから AEP データランディングゾーンとSnowflakeの両方へのテーブル配信の基本的な設定について説明します。
 feature: Curate and Share
 role: User
@@ -8,18 +8,18 @@ doc-type: Feature Video
 last-substantial-update: 2023-11-01T00:00:00Z
 jira: KT-14282
 thumbnail: 3425389.jpeg
-source-git-commit: f4a115aac609e7aacf84ea17fad1f13d9fd5a268
+exl-id: 1659b296-3fef-4497-9700-5799e3494737
+source-git-commit: e9a4d44c508329593ce1ef4a5007e031220cda22
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 7%
+source-wordcount: '106'
+ht-degree: 0%
 
 ---
 
+# Customer Journey Analyticsでの完全なテーブル書き出し
 
-# フルテーブルの書き出しをCustomer Journey Analytics
-
-Customer Journey Analyticsから AEP データランディングゾーンとSnowflakeの両方へのテーブル配信の基本的な設定について説明します。 詳細なドキュメントについては、を参照してください。 [Customer Journey Analyticsレポートをクラウドにエクスポート](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=ja).
+Customer Journey Analyticsから AEP データランディングゾーンとSnowflakeの両方へのテーブル配信の基本的な設定について説明します。 詳細なドキュメントについては、[ クラウドへのCustomer Journey Analyticsレポートの書き出し ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=ja) を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
 
-「フルテーブルエクスポート」を使用すると、1 回限りまたはスケジュール設定で、レポートのすべての行を含む連結テーブルを、クラウドの宛先に安全に配信できます。  さらに、新しい書き出しコンポーネントマネージャーを使用すると、すべての配信を簡単に管理できます。
+「完全なテーブルの書き出し」を使用すると、ユーザーは、レポートのすべての行を含んだ連結テーブルを、1 回またはスケジュールに従ってクラウド宛先に安全に配信できます。  また、新しい書き出しコンポーネントマネージャーは、すべての配信を簡単に管理できます。

@@ -1,6 +1,6 @@
 ---
-title: 追加 [!UICONTROL ブレットグラフ] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト
-description: 方法 [!UICONTROL 箇条書きグラフ] を使用し、 [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics].
+title: '[!UICONTROL  ブレットグラフ ] ビジュアライゼーションをプロジェクト  [!DNL Analysis Workspace]  追加'
+description: '[!UICONTROL  ブレット グラフ ] の使用方法と、 [!DNL Customer Journey Analytics] のプロジェクトにブレット グラフを追加する方法  [!DNL Analysis Workspace]  ついて説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13403
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 3456b70a-02f6-442b-b38b-458b422d525d
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# 追加 [!UICONTROL ブレットグラフ] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics]
+# [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL  ブレットグラフ ] ビジュアライゼーション [!DNL Analysis Workspace] 追加する
 
-方法 [!UICONTROL 箇条書きグラフ] を使用し、 [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics]. このグラフは、目標値と目標値の比較または測定方法を示します。
+[!UICONTROL  ブレット グラフ ] の使用方法と、[!DNL Customer Journey Analytics] でプロジェクトに追加する方法 [!DNL Analysis Workspace] 説明します。 このグラフは、興味の値を目標と比較する方法または目標に対して測定する方法を示しています。
 
 >[!NOTE]
 >
->この [!DNL Analysis Workspace] ユーザーインターフェイスと機能は、 [!DNL Adobe Analytics] および [!DNL Customer Journey Analytics].
+>[!DNL Analysis Workspace] のユーザーインターフェイスと機能は、[!DNL Adobe Analytics] と [!DNL Customer Journey Analytics] で似ています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-詳しくは、 [!UICONTROL ブレットグラフ] ビジュアライゼーションの場合、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html).
+[!UICONTROL  ブレットグラフ ] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html) を参照してください。

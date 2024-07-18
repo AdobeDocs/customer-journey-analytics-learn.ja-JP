@@ -1,6 +1,6 @@
 ---
-title: 追加 [!UICONTROL テキスト] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト
-description: 追加と設定の方法を説明します [!UICONTROL テキスト] ビジュアライゼーション [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics].
+title: プロジェクトへの [!UICONTROL  テキスト ] ビジュアライゼーション  [!DNL Analysis Workspace]  追加
+description: ' [!DNL Customer Journey Analytics] のプロジェクトで [!UICONTROL  テキスト ] ビジュアライゼーションを追加し、設定する方法  [!DNL Analysis Workspace]  説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13426
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: f4ddd3fb-af0b-4594-9cde-81829885b611
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-# 追加 [!UICONTROL テキスト] ビジュアライゼーションの [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics]
+# [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL  テキスト ] ビジュアライゼーション [!DNL Analysis Workspace] 追加する
 
-追加と設定の方法を説明します [!UICONTROL テキスト] ビジュアライゼーション [!DNL Analysis Workspace] プロジェクト [!DNL Customer Journey Analytics]. このビジュアライゼーションは、指標に関する懸念を伝えたり、プロジェクト内の他のデータにコンテキストを追加したりする場合に役立ちます。
+[!DNL Customer Journey Analytics] のプロジェクトに [!UICONTROL  テキスト ] ビジュアライゼーションを追加し、設定 [!DNL Analysis Workspace] る方法を説明します。 このビジュアライゼーションは、指標に関する懸念を伝える場合や、プロジェクト内の他のデータにコンテキストを追加する場合に役立ちます。
 
 >[!NOTE]
 >
->この [!DNL Analysis Workspace] ユーザーインターフェイスと機能は、 [!DNL Adobe Analytics] および [!DNL Customer Journey Analytics].
+>[!DNL Analysis Workspace] のユーザーインターフェイスと機能は、[!DNL Adobe Analytics] と [!DNL Customer Journey Analytics] で似ています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-詳しくは、 [!UICONTROL テキスト] ビジュアライゼーションの場合、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html).
+[!UICONTROL  テキスト ] ビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html) を参照してください。
