@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
+source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
 workflow-type: tm+mt
 source-wordcount: '486'
-ht-degree: 93%
+ht-degree: 92%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 93%
    + [データビューの基本設定](data-views/basic-configuration-for-data-views.md)
    + [データビューのコンポーネント設定](data-views/configuring-component-settings-in-data-views.md)
    + [データビューのコンポーネントタイプ設定](data-views/component-type-settings-in-data-views.md)
+   + [概要レベルのデータソースの作成](data-views/create-summary-level-data-sources.md)
    + [派生フィールドの作成](data-views/derived-fields-in-cja.md)
    + [派生フィールドでの数学関数の使用](data-views/use-the-math-function-in-derived-fields.md)
    + [派生フィールドでの Next 関数または Previous 関数の使用](data-views/use-the-next-previous-function-in-derived-fields.md)
@@ -67,7 +68,6 @@ ht-degree: 93%
       + [ブレットグラフのビジュアライゼーションの追加](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [ドーナツグラフのビジュアライゼーションの追加](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [線グラフのビジュアライゼーションの追加](analysis-workspace/visualizations/add-line-visualizations.md)
-      + [マップのビジュアライゼーションの使用](analysis-workspace/visualizations/use-map-visualization.md)
       + [概要のビジュアライゼーションの使用](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [テキストのビジュアライゼーションの追加](analysis-workspace/visualizations/add-text-visualizations.md)
       + [散布図のビジュアライゼーションの使用](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
