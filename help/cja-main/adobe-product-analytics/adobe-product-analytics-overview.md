@@ -9,9 +9,9 @@ last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
 exl-id: 725787ed-9dae-427a-bd69-c8f0ccadf2ed
-source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
+source-git-commit: a12aab44755d21c78afb03beba39feddeecfdabc
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '140'
 ht-degree: 100%
 
 ---
@@ -31,6 +31,4 @@ Adobe Product Analytics を使用すると、チームは次のことを行う�
 * 製品のジャーニー全体を通したエンゲージメントと育成に役立つ、意味のあるユーザーセグメントを見つける
 * Analysis Workspace に接続して、より詳細な分析やアナリストとの共同作業を行う
 
-Adobe Product Analytics は、Customer Journey Analytics の有料アドオンです。この機能を使用できるように組織をプロビジョニングする場合は、アドビのアカウントチームにお問い合わせください。
-
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/overview.html?lang=ja)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/guided-analysis/overview)を参照してください。
