@@ -9,7 +9,7 @@ last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
 exl-id: 725787ed-9dae-427a-bd69-c8f0ccadf2ed
-source-git-commit: a12aab44755d21c78afb03beba39feddeecfdabc
+source-git-commit: 8c3ecaf1bc54aa9d0d099dd5542b65a04d8ec5a8
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
@@ -24,10 +24,10 @@ Adobe Product Analytics を使用すると、製品チームは、Customer Journ
 
 Adobe Product Analytics を使用すると、チームは次のことを行うことができます。
 
-* [時間の経過に伴うユーザーエンゲージメントのパターンを理解する](../guided-analysis/trends/usage-trends-analysis.md)
-* [製品のユーザーベースの成長と保持を追跡する](../guided-analysis/user-growth/active-user-growth-analysis.md)
-* [製品の摩擦の領域を特定する](../guided-analysis/funnel/funnel-friction-analysis.md)
-* [機能リリースと最初の使用の影響を測定する](../guided-analysis/impact/release-impact-analysis.md)
+* [時間の経過に伴うユーザーエンゲージメントのパターンを理解する](../guided-analysis/trends.md)
+* [製品のユーザーベースの成長と保持を追跡する](../guided-analysis/active-growth.md)
+* [製品の摩擦の領域を特定する](../guided-analysis/funnel.md)
+* [機能リリースと最初の使用の影響を測定する](../guided-analysis/release-impact.md)
 * 製品のジャーニー全体を通したエンゲージメントと育成に役立つ、意味のあるユーザーセグメントを見つける
 * Analysis Workspace に接続して、より詳細な分析やアナリストとの共同作業を行う
 

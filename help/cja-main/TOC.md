@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
+source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '455'
 ht-degree: 92%
 
 ---
@@ -83,24 +83,17 @@ ht-degree: 92%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics の概要](adobe-product-analytics/adobe-product-analytics-overview.md)
 + ガイド付き分析 {#guided-analysis}
-   + 機能マトリックス {#feature-matrix}
-      + [機能エンゲージメント分析](guided-analysis/feature-matrix/feature-engagement.md)
-   + ファネル {#funnel}
-      + [ファネル摩擦解析](guided-analysis/funnel/funnel-friction-analysis.md)
-      + [ファネルコンバージョントレンド分析](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
-   + 影響 {#impact}
-      + [リリース影響分析](guided-analysis/impact/release-impact-analysis.md)
-      + [最初の使用の影響分析](guided-analysis/impact/first-use-impact-analysis.md)
-   + 保持 {#retention}
-      + [リテンション率分析](guided-analysis/retention/retention-rates-analysis.md)
-   + トレンド {#trends}
-      + [頻度トレンド分析](guided-analysis/trends/frequency-trends-analysis.md)
-      + [使用状況トレンド分析](guided-analysis/trends/usage-trends-analysis.md)
-   + ユーザーストリーム {#user-stream}
-      + [ユーザーストリームタイムライン分析](guided-analysis/user-stream/user-stream-timeline-analysis.md)
-   + ユーザーの増加率 {#user-growth}
-      + [アクティブなユーザーの成長分析](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [純ユーザー増加率分析](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + [活発な成長](guided-analysis/active-growth.md)
+   + [コンバージョントレンド](guided-analysis/conversion-trends.md)
+   + [エンゲージメント](guided-analysis/engagement.md)
+   + [初回使用時の影響](guided-analysis/first-use-impact.md)
+   + [頻度](guided-analysis/frequency.md)
+   + [ファネル](guided-analysis/funnel.md)
+   + [純増加率](guided-analysis/net-growth.md)
+   + [リリースの影響](guided-analysis/release-impact.md)
+   + [定着](guided-analysis/retention.md)
+   + [タイムライン](guided-analysis/timeline.md)
+   + [傾向](guided-analysis/trends.md)
 + コンポーネント {#components}
    + フィルター（セグメント化） {#filters}
       + [フィルターの概要](components/filters/introduction-to-filters-in-cja.md)
