@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 4d8c7a84ef9a70b0a071a776dc531182bad2462a
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '460'
 ht-degree: 92%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 92%
    + Workspace プロジェクト {#workspace-projects}
       + [Analysis Workspace の概要](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [新規プロジェクトの作成](analysis-workspace/workspace-projects/build-a-new-project.md)
+      + ジャーニー分析 {#journey-analysis}
+         + [ジャーニーキャンバスビジュアライゼーション](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + パネル {#panels}
       + [次または前の項目パネルの設定](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [実験パネルの使用](analysis-workspace/panels/use-the-experimentation-panel.md)
@@ -83,17 +85,17 @@ ht-degree: 92%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics の概要](adobe-product-analytics/adobe-product-analytics-overview.md)
 + ガイド付き分析 {#guided-analysis}
-   + [活発な成長](guided-analysis/active-growth.md)
+   + [アクティブな増加率](guided-analysis/active-growth.md)
    + [コンバージョントレンド](guided-analysis/conversion-trends.md)
    + [エンゲージメント](guided-analysis/engagement.md)
-   + [初回使用時の影響](guided-analysis/first-use-impact.md)
+   + [初回使用の影響](guided-analysis/first-use-impact.md)
    + [頻度](guided-analysis/frequency.md)
    + [ファネル](guided-analysis/funnel.md)
    + [純増加率](guided-analysis/net-growth.md)
    + [リリースの影響](guided-analysis/release-impact.md)
-   + [定着](guided-analysis/retention.md)
-   + [タイムライン](guided-analysis/timeline.md)
-   + [傾向](guided-analysis/trends.md)
+   + [リテンション](guided-analysis/retention.md)
+   + [Timeline](guided-analysis/timeline.md)
+   + [トレンド](guided-analysis/trends.md)
 + コンポーネント {#components}
    + フィルター（セグメント化） {#filters}
       + [フィルターの概要](components/filters/introduction-to-filters-in-cja.md)
