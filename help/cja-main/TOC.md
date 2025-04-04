@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c64a6d08fea9782339f939102e0dc3b6ccf56d1c
+source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '474'
 ht-degree: 91%
 
 ---
@@ -112,6 +112,9 @@ ht-degree: 91%
       + [オーディエンスパブリッシング](components/audiences/audience-publishing-for-cja.md)
    + データ要素 {#data-dictionary}
       + [データ要素の使用](components/data-dictionary/use-data-dictionary.md)
++ コンテンツ分析 {#content-analytics}
+   + [はじめに](content-analytics/introduction-to-content-analytics.md)
+   + [仕組み](content-analytics/how-it-works.md)
 + ダッシュボード（スコアカード） {#dashboards}
    + [モバイルスコアカードの作成](dashboards/create-a-mobile-scorecard.md)
    + [モバイルスコアカードへのアクセスでのエグゼクティブの支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
