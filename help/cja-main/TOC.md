@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 91%
+source-wordcount: '473'
+ht-degree: 84%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 91%
 # Customer Journey Analytics チュートリアル {#tutorials}
 
 + [Customer Journey Analytics の概要](overview.md)
-+ Customer Journey Analytics の基本 {#cja-basics}
++ Customer Journey Analyticsの基本 {#cja-basics}
    + [Customer Journey Analytics とは](cja-basics/what-is-customer-journey-analytics.md)
    + [Customer Journey Analytics の概要](cja-basics/understanding-customer-journey-analytics.md)
    + [新しい用語と概念](cja-basics/new-terms-and-concepts-in-cja.md)
@@ -53,7 +53,7 @@ ht-degree: 91%
    + [データビューでのアトリビューション設定](data-views/attribution-settings-in-data-views.md)
    + [通貨換算](data-views/currency-conversion.md)
 + Analysis Workspace {#analysis-workspace}
-   + Workspace プロジェクト {#workspace-projects}
+   + ワークスペースプロジェクト {#workspace-projects}
       + [Analysis Workspace の概要](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [新規プロジェクトの作成](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace テンプレート](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
@@ -80,14 +80,14 @@ ht-degree: 91%
    + 注釈 {#annotations}
       + [注釈を作成](analysis-workspace/annotations/create-an-annotation.md)
    + キュレーションと共有 {#curate-and-share}
-      + [Analysis Workspace ですべてのユーザーと共有](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
+      + [Analysis Workspace で誰とでも共有](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + ヒントとテクニック {#tips-and-tricks}
-      + [動的ドロップダウンフィルターの作成](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [動的ドロップダウンセグメントの作成](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics の概要](adobe-product-analytics/adobe-product-analytics-overview.md)
 + ガイド付き分析 {#guided-analysis}
    + [Workspaceでのガイド付き分析の使用](guided-analysis/guided-analysis-in-workspace.md)
-   + [アクティブな増加率](guided-analysis/active-growth.md)
+   + [アクティブな増加](guided-analysis/active-growth.md)
    + [コンバージョントレンド](guided-analysis/conversion-trends.md)
    + [エンゲージメント](guided-analysis/engagement.md)
    + [初回使用の影響](guided-analysis/first-use-impact.md)
@@ -99,11 +99,11 @@ ht-degree: 91%
    + [Timeline](guided-analysis/timeline.md)
    + [トレンド](guided-analysis/trends.md)
 + コンポーネント {#components}
-   + フィルター（セグメント化） {#filters}
-      + [フィルターの概要](components/filters/introduction-to-filters-in-cja.md)
-      + [クイックフィルターの作成](components/filters/create-a-quick-filter.md)
-      + [クロスチャネルフィルターの作成](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-      + [フィルターをディメンションとして使用](components/filters/use-filters-as-dimensions.md)
+   + セグメント {#filters}
+      + [セグメント：概要](components/filters/introduction-to-filters-in-cja.md)
+      + [クイックセグメントの作成](components/filters/create-a-quick-filter.md)
+      + [クロスチャネルセグメントの作成](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [ディメンションとしてのセグメントの使用](components/filters/use-filters-as-dimensions.md)
       + [Adobe Analytics セグメントの Customer Journey Analytics への移行](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + 計算指標 {#calc-metrics}
       + [Customer Journey Analytics における計算指標の概要](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
@@ -118,12 +118,12 @@ ht-degree: 91%
 + ダッシュボード（スコアカード） {#dashboards}
    + [モバイルスコアカードの作成](dashboards/create-a-mobile-scorecard.md)
    + [モバイルスコアカードへのアクセスでのエグゼクティブの支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
-+ {#exporting} の書き出し
++ エクスポート {#exporting}
    + [完全なテーブルの書き出し](exporting/full-table-export.md)
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 用の Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Report Builder を使用した Customer Journey Analytics ワークブックのスケジューリング](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Experience Platform Integration {#experience-platform-integration}
++ Experience Platformの統合 {#experience-platform-integration}
    + [Adobe Journey Optimizerのレポート機能の強化](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + ユースケース {#use-cases}
    + データビューのユースケース {#data-views-use-cases}
@@ -133,5 +133,5 @@ ht-degree: 91%
       + [オブジェクトの配列の使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
    + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
