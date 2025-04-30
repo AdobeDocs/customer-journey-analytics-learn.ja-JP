@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
+source-git-commit: a2fd948c72f78995ab979e4256bcf461697c2897
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '478'
 ht-degree: 84%
 
 ---
@@ -62,6 +62,7 @@ ht-degree: 84%
    + パネル {#panels}
       + [次または前の項目パネルの設定](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [実験パネルの使用](analysis-workspace/panels/use-the-experimentation-panel.md)
+      + [クイックインサイトパネルの使用](analysis-workspace/panels/use-the-quick-insights-panel.md)
    + ビジュアライゼーション {#visualizations}
       + [クロスチャネルビジュアライゼーションの作成](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [クロスチャネルアトリビューション](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -110,7 +111,7 @@ ht-degree: 84%
       + [Adobe Analytics から Customer Journey Analytics への計算指標の移行](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + オーディエンス {#audiences}
       + [オーディエンスパブリッシング](components/audiences/audience-publishing-for-cja.md)
-   + データ要素 {#data-dictionary}
+   + データ辞書 {#data-dictionary}
       + [データ要素の使用](components/data-dictionary/use-data-dictionary.md)
 + コンテンツ分析 {#content-analytics}
    + [はじめに](content-analytics/introduction-to-content-analytics.md)
