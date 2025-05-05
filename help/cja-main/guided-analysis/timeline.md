@@ -21,4 +21,4 @@ ht-degree: 18%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/guided-analysis/streams/timeline)を参照してください。

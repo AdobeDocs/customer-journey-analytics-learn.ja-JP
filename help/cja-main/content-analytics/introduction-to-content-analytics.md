@@ -18,7 +18,7 @@ ht-degree: 2%
 
 コンテンツのパフォーマンスの測定は困難な場合があり、多くの場合、推測や非効率につながります。 Content Analyticsは、トーン、画像、カラー、メッセージングなど、コンテンツが何で効果的かを深く理解することで、推測する作業をなくします。 エンゲージメントを促進する要因やコンテンツを最適化する方法といった重要な質問に対する回答を示します。
 
-詳しくは、Content Analytics[ ドキュメント ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} を参照してください。
+詳しくは、Content Analytics[ ドキュメント ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} を参照してください。
 
 ## はじめに
 

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 [!DNL Content Analytics] とCustomer Journey AnalyticsおよびExperience Platformとの連携方法について説明します。
 
-詳しくは、Content Analytics[ ドキュメント ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} を参照してください。
+詳しくは、Content Analytics[ ドキュメント ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457423/?learn=on&enablevpops)

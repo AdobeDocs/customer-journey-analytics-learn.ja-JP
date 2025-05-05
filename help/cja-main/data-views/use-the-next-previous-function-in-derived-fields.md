@@ -21,4 +21,4 @@ Customer Journey Analyticsで「Next」関数または「Previous」関数を使
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-dataviews/derived-fields)を参照してください。

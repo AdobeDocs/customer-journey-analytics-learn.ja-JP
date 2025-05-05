@@ -5,9 +5,9 @@ solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 type: Tutorial
 solution-title: Customer Journey Analytics
-solution-hub-url: https://docs.adobe.com/content/help/en/customer-journey-analytics-learn/tutorials/overview.html
+solution-hub-url: https://docs.adobe.com/content/help/ja-JP/customer-journey-analytics-learn/tutorials/overview.html
 getting-started-title: Experience League
-getting-started-url: https://experienceleague.adobe.com/
+getting-started-url: https://experienceleague.adobe.com/ja
 tutorials-title: Tutorials
 tutorials-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 git-repo: https://github.com/AdobeDocs/customer-journey-analytics-learn.ja-JP

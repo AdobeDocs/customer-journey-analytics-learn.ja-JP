@@ -22,4 +22,4 @@ ht-degree: 19%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=ja)を参照してください。

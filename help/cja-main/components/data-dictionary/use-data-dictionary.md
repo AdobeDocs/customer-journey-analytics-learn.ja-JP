@@ -22,4 +22,4 @@ Customer Journey Analytics用Analysis Workspaceのデータディクショナリ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-Customer Journey Analytics用Analysis Workspaceのデータディクショナリについては、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html) を参照してください。
+Customer Journey Analytics用Analysis Workspaceのデータディクショナリについては、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html?lang=ja) を参照してください。

@@ -26,4 +26,4 @@ ht-degree: 9%
 
 [!UICONTROL &#x200B; 分類 &#x200B;] データの [!DNL Adobe Analytics] ソースコネクタについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=ja) を参照してください。
 
-Customer Journey Analyticsの派生フィールド機能については、このビデオを参照してください。 この機能について詳しくは、[ ビデオ ](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html) または [ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=ja) を参照してください。
+Customer Journey Analyticsの派生フィールド機能については、このビデオを参照してください。 この機能について詳しくは、[ ビデオ ](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html?lang=ja) または [ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=ja) を参照してください。

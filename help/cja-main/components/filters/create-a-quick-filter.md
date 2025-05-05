@@ -18,7 +18,7 @@ ht-degree: 14%
 
 # クイックセグメントの作成
 
-[!DNL Customer Journey Analytics] プロジェクトで直接 [!UICONTROL &#x200B; クイックセグメント &#x200B;] を作成し、完全な [!UICONTROL &#x200B; セグメントビルダー &#x200B;] の複雑さを回避します。 この機能は、簡単な条件に基づいてコンポーネントデータをセグメント化し、結果をすぐに確認できる便利な方法です。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/quick-filters)を参照してください。
+[!DNL Customer Journey Analytics] プロジェクトで直接 [!UICONTROL &#x200B; クイックセグメント &#x200B;] を作成し、完全な [!UICONTROL &#x200B; セグメントビルダー &#x200B;] の複雑さを回避します。 この機能は、簡単な条件に基づいてコンポーネントデータをセグメント化し、結果をすぐに確認できる便利な方法です。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/cja-segments/quick-filters)を参照してください。
 
 >[!NOTE]
 >

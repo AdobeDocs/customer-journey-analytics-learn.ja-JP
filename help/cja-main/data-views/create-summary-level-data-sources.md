@@ -22,4 +22,4 @@ Customer Journey Analyticsでは、キャンペーンや商品データなど、
 
 ## その他のリソース
 
-* 詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data) を参照してください。
+* 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-dataviews/summary-data) を参照してください。
