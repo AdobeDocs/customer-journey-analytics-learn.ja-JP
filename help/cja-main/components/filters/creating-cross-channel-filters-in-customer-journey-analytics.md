@@ -18,12 +18,12 @@ ht-degree: 7%
 
 ---
 
-# Customer Journey Analyticsでのクロスチャネル [!UICONTROL  セグメント ] の作成
+# Customer Journey Analyticsでのクロスチャネル [!UICONTROL &#x200B; セグメント &#x200B;] の作成
 
-複数のデータソースとチャネルを使用するAdobe Customer Journey Analyticsで [!UICONTROL  セグメント ] を作成する方法を説明します。 さらに、[!UICONTROL  ビジュアライゼーション ] で [!UICONTROL  セグメント ] を組み合わせる方法についても説明します。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)を参照してください。
+複数のデータソースとチャネルを使用するAdobe Customer Journey Analyticsで [!UICONTROL &#x200B; セグメント &#x200B;] を作成する方法を説明します。 さらに、[!UICONTROL &#x200B; ビジュアライゼーション &#x200B;] で [!UICONTROL &#x200B; セグメント &#x200B;] を組み合わせる方法についても説明します。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)を参照してください。
 
 >[!NOTE]
 >
-> Customer Journey Analytics インターフェイスの「[!UICONTROL  フィルター ]」の名前は「[!UICONTROL  セグメント ]」に変更されました。
+> Customer Journey Analytics インターフェイスの「[!UICONTROL &#x200B; フィルター &#x200B;]」の名前は「[!UICONTROL &#x200B; セグメント &#x200B;]」に変更されました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12&learn=on)

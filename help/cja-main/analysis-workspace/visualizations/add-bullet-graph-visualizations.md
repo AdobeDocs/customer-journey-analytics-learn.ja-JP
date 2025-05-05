@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL  ブレットグラフ ] ビジュアライゼーションをプロジェクト  [!DNL Analysis Workspace]  追加'
-description: '[!UICONTROL  ブレット グラフ ] の使用方法と、 [!DNL Customer Journey Analytics] のプロジェクトにブレット グラフを追加する方法  [!DNL Analysis Workspace]  ついて説明します。'
+title: '[!UICONTROL &#x200B; ブレットグラフ &#x200B;] ビジュアライゼーションをプロジェクト  [!DNL Analysis Workspace]  追加'
+description: '[!UICONTROL &#x200B; ブレット グラフ &#x200B;] の使用方法と、 [!DNL Customer Journey Analytics] のプロジェクトにブレット グラフを追加する方法  [!DNL Analysis Workspace]  ついて説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL  ブレットグラフ ] ビジュアライゼーション [!DNL Analysis Workspace] 追加する
+# [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL &#x200B; ブレットグラフ &#x200B;] ビジュアライゼーション [!DNL Analysis Workspace] 追加する
 
-[!UICONTROL  ブレット グラフ ] の使用方法と、[!DNL Customer Journey Analytics] でプロジェクトに追加する方法 [!DNL Analysis Workspace] 説明します。 このグラフは、興味の値を目標と比較する方法または目標に対して測定する方法を示しています。
+[!UICONTROL &#x200B; ブレット グラフ &#x200B;] の使用方法と、[!DNL Customer Journey Analytics] でプロジェクトに追加する方法 [!DNL Analysis Workspace] 説明します。 このグラフは、興味の値を目標と比較する方法または目標に対して測定する方法を示しています。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-[!UICONTROL  ブレットグラフ ] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html) を参照してください。
+[!UICONTROL &#x200B; ブレットグラフ &#x200B;] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html) を参照してください。

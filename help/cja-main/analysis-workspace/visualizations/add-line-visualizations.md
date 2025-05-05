@@ -1,6 +1,6 @@
 ---
-title: プロジェクトへの [!UICONTROL  ライン ] ビジュアライゼーション  [!DNL Analysis Workspace]  追加
-description: ' [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL  折れ線グラフ ] ビジュアライゼーションを追加して設定する方法  [!DNL Analysis Workspace]  説明します。'
+title: プロジェクトへの [!UICONTROL &#x200B; ライン &#x200B;] ビジュアライゼーション  [!DNL Analysis Workspace]  追加
+description: ' [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL &#x200B; 折れ線グラフ &#x200B;] ビジュアライゼーションを追加して設定する方法  [!DNL Analysis Workspace]  説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 1%
 
 ---
 
-# [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL  折れ線グラフ ] ビジュアライゼーション [!DNL Analysis Workspace] 追加する
+# [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL &#x200B; 折れ線グラフ &#x200B;] ビジュアライゼーション [!DNL Analysis Workspace] 追加する
 
-[!DNL Customer Journey Analytics] のプロジェクトに [!UICONTROL  折れ線グラフ ] ビジュアライゼーションを追加して設定 [!DNL Analysis Workspace] る方法を説明します。 このビジュアライゼーションでは、時間の経過に伴う値の変化を示す線で指標が表されます。
+[!DNL Customer Journey Analytics] のプロジェクトに [!UICONTROL &#x200B; 折れ線グラフ &#x200B;] ビジュアライゼーションを追加して設定 [!DNL Analysis Workspace] る方法を説明します。 このビジュアライゼーションでは、時間の経過に伴う値の変化を示す線で指標が表されます。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-[!UICONTROL  折れ線グラフ ] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=ja) を参照してください。
+[!UICONTROL &#x200B; 折れ線グラフ &#x200B;] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=ja) を参照してください。

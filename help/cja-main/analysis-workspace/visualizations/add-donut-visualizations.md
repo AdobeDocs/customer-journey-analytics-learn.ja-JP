@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL  ドーナツ ] ビジュアライゼーションをプロジェクト  [!DNL Analysis Workspace]  追加'
-description: ' [!DNL Customer Journey Analytics] のプロジェクトに [!UICONTROL  ドーナツ ] ビジュアライゼーションを追加し  [!DNL Analysis Workspace]  設定する方法を説明します。'
+title: '[!UICONTROL &#x200B; ドーナツ &#x200B;] ビジュアライゼーションをプロジェクト  [!DNL Analysis Workspace]  追加'
+description: ' [!DNL Customer Journey Analytics] のプロジェクトに [!UICONTROL &#x200B; ドーナツ &#x200B;] ビジュアライゼーションを追加し  [!DNL Analysis Workspace]  設定する方法を説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL  ドーナツ ] ビジュアライゼーション [!DNL Analysis Workspace] 追加する
+# [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL &#x200B; ドーナツ &#x200B;] ビジュアライゼーション [!DNL Analysis Workspace] 追加する
 
-[!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL  ドーナツ ] ビジュアライゼーションを追加し、設定する方法 [!DNL Analysis Workspace] 説明します。 このビジュアライゼーションは、数個の項目で、合計のパーセンテージを比較する場合に使用するのに最適です。
+[!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL &#x200B; ドーナツ &#x200B;] ビジュアライゼーションを追加し、設定する方法 [!DNL Analysis Workspace] 説明します。 このビジュアライゼーションは、数個の項目で、合計のパーセンテージを比較する場合に使用するのに最適です。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-[!UICONTROL  ドーナツ ] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html) を参照してください。
+[!UICONTROL &#x200B; ドーナツ &#x200B;] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html) を参照してください。

@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL  ツリーマップ ] ビジュアライゼーションを  [!DNL Analysis Workspace] projects に追加します'
-description: ' [!DNL Customer Journey Analytics] のプロジェクトで [!UICONTROL  ツリーマップ ] ビジュアライゼーションを追加し  [!DNL Analysis Workspace]  設定する方法を説明します。'
+title: '[!UICONTROL &#x200B; ツリーマップ &#x200B;] ビジュアライゼーションを  [!DNL Analysis Workspace] projects に追加します'
+description: ' [!DNL Customer Journey Analytics] のプロジェクトで [!UICONTROL &#x200B; ツリーマップ &#x200B;] ビジュアライゼーションを追加し  [!DNL Analysis Workspace]  設定する方法を説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL  ツリーマップ ] ビジュアライゼーションを [!DNL Customer Journey Analytics] の [!DNL Analysis Workspace] プロジェクトに追加します
+# [!UICONTROL &#x200B; ツリーマップ &#x200B;] ビジュアライゼーションを [!DNL Customer Journey Analytics] の [!DNL Analysis Workspace] プロジェクトに追加します
 
-[!DNL Customer Journey Analytics] のプロジェクトに [!UICONTROL  ツリーマップ ] ビジュアライゼーションを追加し、設定 [!DNL Analysis Workspace] る方法を説明します。 このビジュアライゼーションでは、ネストされた長方形のセットとして階層データが作成され、他の方法では見つけるのが困難なパターンを簡単に確認できます。
+[!DNL Customer Journey Analytics] のプロジェクトに [!UICONTROL &#x200B; ツリーマップ &#x200B;] ビジュアライゼーションを追加し、設定 [!DNL Analysis Workspace] る方法を説明します。 このビジュアライゼーションでは、ネストされた長方形のセットとして階層データが作成され、他の方法では見つけるのが困難なパターンを簡単に確認できます。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-[!UICONTROL  ツリーマップ ] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html) を参照してください。
+[!UICONTROL &#x200B; ツリーマップ &#x200B;] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html) を参照してください。
