@@ -22,6 +22,6 @@ ht-degree: 100%
 
 その他のチャネルから Customer Journey Analytics の接続に新しいデータを追加して、分析からより多くの価値を引き出します。さらに、この新しいデータを結合する際の要件と、設定を使用して対処する分析とレポートへの影響を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36513/?learn=on&quality=12&learn=on&captions=jpn)
 
 クロスチャネル分析について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=ja)を参照してください。

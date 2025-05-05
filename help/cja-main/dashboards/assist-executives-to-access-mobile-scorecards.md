@@ -20,6 +20,6 @@ ht-degree: 100%
 
 エグゼクティブが [!DNL Analytics] ダッシュボードモバイルアプリケーションを使用して、[!DNL Customer Journey Analytics] で作成されたモバイルスコアカードにアクセスできるよう支援します。モバイルスコアカードは、いつでも主要パフォーマンス指標と詳細ビュー（分類）にアクセスできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444837/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=ja)を参照してください。

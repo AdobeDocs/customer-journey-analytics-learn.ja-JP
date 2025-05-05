@@ -20,4 +20,4 @@ ht-degree: 52%
 
 Customer Journey Analyticsで時系列のビジュアライゼーションに予測数値を追加する方法を説明します。 詳細なドキュメントについては、[ 予測の概要 ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"} を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428021/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443834/?learn=on&captions=jpn)

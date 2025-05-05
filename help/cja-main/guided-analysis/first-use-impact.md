@@ -20,6 +20,6 @@ ht-degree: 9%
 
 Customer Journey Analyticsでの **初回使用の影響** を調べ、ユーザーが初めて製品機能を使用する前と後に実行された主要指標の比較を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423498/?learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=ja)を参照してください。

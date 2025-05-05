@@ -22,6 +22,6 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL ビジュアライゼーション]を使用して、Customer Journey Analytics のチャネル全体で[!UICONTROL アトリビューション]（クレジットを付与）を表示する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33736/?quality=12&learn=on&captions=jpn)
 
 Customer Journey Analytics について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja)を参照してください。

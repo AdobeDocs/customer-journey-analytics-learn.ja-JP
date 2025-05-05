@@ -19,4 +19,4 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL データビュー]設定の[!UICONTROL コンポーネント]画面で指標を書式設定するためのオプションについて説明します。また、[!UICONTROL コンポーネント]をさらに活用するのに役立ついくつかのヒントについても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332806/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412366/?quality=12&learn=on&captions=jpn)

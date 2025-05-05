@@ -22,6 +22,6 @@ ht-degree: 100%
 
 このビデオでは、Customer Journey Analytics で[!UICONTROL 計算指標]を作成するための基本を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33738/?quality=12&learn=on&captions=jpn)
 
 Customer Journey Analytics について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja)を参照してください。

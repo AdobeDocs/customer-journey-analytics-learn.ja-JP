@@ -20,6 +20,6 @@ ht-degree: 15%
 
 Customer Journey Analyticsの **エンゲージメント** が、製品の機能が使用される頻度と使用するユーザーの数に関するインサイトを提供する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447468?captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement)を参照してください。

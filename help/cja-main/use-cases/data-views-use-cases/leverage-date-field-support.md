@@ -20,6 +20,6 @@ ht-degree: 100%
 
 日付フィールドのサポートにより、Customer Journey Analytics 内の日付および日時フィールドの連携機能が追加されます。日付または日時フィールドがどのように表示されるかを選択したり、含む／除外機能で日付専用の論理演算子を使用して表示内容をフィルタリングしたりできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412322/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416829/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=ja#date)を参照してください。

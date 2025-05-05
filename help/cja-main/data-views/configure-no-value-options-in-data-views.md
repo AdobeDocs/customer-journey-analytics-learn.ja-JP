@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Customer Journey Analytics でのデータビューの設定時に、レポートに「値なし」オプションを表示するかどうかと表示方法を選択できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/333113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412943/?quality=12&learn=on&captions=jpn)

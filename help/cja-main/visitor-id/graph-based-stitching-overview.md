@@ -20,7 +20,7 @@ ht-degree: 4%
 
 グラフベースのステッチは、ID グラフの機能を利用して、Experience Platformアプリケーション間で ID を調整します。 この機能を使用すると、共通のユーザー ID を使用して、より多くのデータセットをCustomer Journey Analyticsで結合できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448717/?learn=on&captions=jpn)
 
 ID グラフを使用したグラフベースのステッチにより、次を通じて顧客ジャーニーをより詳細に把握できます。
 

@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Adobe Product Analytics を使用すると、製品チームは、Customer Journey Analytics の同じクロスチャネルデータに基づいて作成されたガイド付き分析ワークフローを通じて、製品エクスペリエンスに関するデータとインサイトをセルフサービスで得ることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421621/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423512/?learn=on&captions=jpn)
 
 Adobe Product Analytics を使用すると、チームは次のことを行うことができます。
 

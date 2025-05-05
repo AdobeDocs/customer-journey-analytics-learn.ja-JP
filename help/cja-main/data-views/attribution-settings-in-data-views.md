@@ -20,4 +20,4 @@ ht-degree: 100%
 
 各ディメンションには、ディメンション値への値の割り当て方法をシステムが把握できるよう、（どの値にコンバージョンのクレジットを付与するかを決定するための）配分設定と有効期限（値の持続期間）を設定する必要があります。同様に、指標にはアトリビューションモデルとルックバックウィンドウも連携して設定する必要があります。このビデオでは、これらすべての重要な設定について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412955/?quality=12&enable10seconds=on&speedcontrol=on&captions=jpn)
