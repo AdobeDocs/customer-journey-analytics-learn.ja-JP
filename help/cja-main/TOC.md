@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: badc0b76feaa157a48b37350f9594bf85055cd5d
+source-git-commit: 91fc9e0831f5538ea1d0f6d42c537c3705b4c30e
 workflow-type: tm+mt
 source-wordcount: '528'
 ht-degree: 76%
@@ -133,31 +133,31 @@ ht-degree: 76%
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列の使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
 + Adobe Summit {#summit}
    + 2025年 {#2025}
       + ショートパンツ {#shorts}
-         + [ビデオ簡略](./summit/2025/shorts/algorithmic-attribution--a-game-changer-for-marketers.md)
-         + [ビデオ簡略](./summit/2025/shorts/analytics-easy-mode--simplifying-workspace-for-all-users.md)
+         + [ビデオ簡略](./summit/2025/shorts/algorithmic-attribution-a-game-changer-for-marketers.md)
+         + [ビデオ簡略](./summit/2025/shorts/analytics-easy-mode-simplifying-workspace-for-all-users.md)
          + [ビデオ簡略](./summit/2025/shorts/anomaly-detection-in-customer-journey-analytics.md)
-         + [ビデオ簡略](./summit/2025/shorts/audience-agent--proactive-audience-health-monitoring.md)
+         + [ビデオ簡略](./summit/2025/shorts/audience-agent-proactive-audience-health-monitoring.md)
          + [ビデオ簡略](./summit/2025/shorts/best-practices-for-implementing-customer-journey-analytics.md)
          + [ビデオ簡略](./summit/2025/shorts/breaking-data-limits-with-summary-data-sources.md)
-         + [ビデオ簡略](./summit/2025/shorts/content-analytics--ai-powered-insights-for-creative-assets.md)
-         + [ビデオ簡略](./summit/2025/shorts/data-as-a-product--planning-your-cja-implementation.md)
-         + [ビデオ簡略](./summit/2025/shorts/data-insights-agent--empowering-self-service-analytics.md)
-         + [ビデオ簡略](./summit/2025/shorts/derived-fields--user-state-change-metrics.md)
-         + [ビデオ簡略](./summit/2025/shorts/gamifying-workspace--unlock-achievements-in-customer-journey-analytics.md)
+         + [ビデオ簡略](./summit/2025/shorts/content-analytics-ai-powered-insights-for-creative-assets.md)
+         + [ビデオ簡略](./summit/2025/shorts/data-as-a-product-planning-your-cja-implementation.md)
+         + [ビデオ簡略](./summit/2025/shorts/data-insights-agent-empowering-self-service-analytics.md)
+         + [ビデオ簡略](./summit/2025/shorts/derived-fields-user-state-change-metrics.md)
+         + [ビデオ簡略](./summit/2025/shorts/gamifying-workspace-unlock-achievements-in-customer-journey-analytics.md)
          + [ビデオ簡略](./summit/2025/shorts/graph-based-stitching-for-customer-journey-analytics.md)
          + [ビデオ簡略](./summit/2025/shorts/how-ai-assistant-transforms-data-insights-in-adobe-experience-platform.md)
          + [ビデオ簡略](./summit/2025/shorts/how-genai-enhances-customer-journey-analytics.md)
          + [ビデオ簡略](./summit/2025/shorts/identity-stitching-in-customer-journey-analytics.md)
          + [ビデオ簡略](./summit/2025/shorts/implementation-best-practices-for-customer-journey-analytics.md)
-         + [ビデオ簡略](./summit/2025/shorts/in-line-derived-fields--real-time-data-transformation-in-cja.md)
-         + [ビデオ簡略](./summit/2025/shorts/introducing-adobe-s-agent-orchestrator--the-next-era-of-genai-innovation.md)
-         + [ビデオ簡略](./summit/2025/shorts/journey-canvas--visualizing-complex-funnels.md)
+         + [ビデオ簡略](./summit/2025/shorts/in-line-derived-fields-real-time-data-transformation-in-cja.md)
+         + [ビデオ簡略](./summit/2025/shorts/introducing-adobe-s-agent-orchestrator-the-next-era-of-genai-innovation.md)
+         + [ビデオ簡略](./summit/2025/shorts/journey-canvas-visualizing-complex-funnels.md)
          + [ビデオ簡略](./summit/2025/shorts/run-and-operate-strategies-for-scaling-adobe-implementations.md)
          + [ビデオ簡略](./summit/2025/shorts/the-strategic-imperative-of-customer-analytics.md)
          + [ビデオ簡略](./summit/2025/shorts/three-types-of-cja-implementation-projects.md)
