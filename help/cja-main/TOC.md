@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c208de47f17e39a023aff40dcb97c95dc64bb958
+source-git-commit: 892162d27f81c7b09b0cf018df2254ef80bb9b0e
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 83%
+source-wordcount: '488'
+ht-degree: 82%
 
 ---
 
@@ -113,10 +113,12 @@ ht-degree: 83%
    + オーディエンス {#audiences}
       + [オーディエンスパブリッシング](components/audiences/audience-publishing-for-cja.md)
    + データ辞書 {#data-dictionary}
-      + [データ要素の使用](components/data-dictionary/use-data-dictionary.md)
+      + [データ辞書の使用](components/data-dictionary/use-data-dictionary.md)
 + コンテンツ分析 {#content-analytics}
    + [はじめに](content-analytics/introduction-to-content-analytics.md)
    + [仕組み](content-analytics/how-it-works.md)
+   + [設定を作成](content-analytics/create-configuration.md)
+   + [設定を編集](content-analytics/edit-configuration.md)
 + ダッシュボード（スコアカード） {#dashboards}
    + [モバイルスコアカードの作成](dashboards/create-a-mobile-scorecard.md)
    + [モバイルスコアカードへのアクセスでのエグゼクティブの支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
@@ -134,6 +136,6 @@ ht-degree: 83%
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列の使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
