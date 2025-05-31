@@ -20,4 +20,4 @@ ht-degree: 0%
 グラフベースのステッチにより、複数のデータセットをシームレスに統合し、統合された顧客ビューを作成して実用的なインサイトを得る方法を説明します。
 
 <!-- 62_S112_3442459_199_graphbased-stitching-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458317/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460211/?learn=on&enablevpops=true&captions=jpn)

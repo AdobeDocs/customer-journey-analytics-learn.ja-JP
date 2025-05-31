@@ -20,4 +20,4 @@ ht-degree: 0%
 ジェネレーティブ AI が、インサイトを提供し、ユーザーを強化し、データ分析をよりアクセスしやすくすることで、Customer Journey Analyticsをどのように変革しているかをご確認ください。
 
 <!-- 62_S106_3442453_47_how-genai-enhances-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458377/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459984/?learn=on&enablevpops=true&captions=jpn)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Workspaceのゲーミフィケーション機能を使用して、ユーザーが成果を通じてCustomer Journey Analyticsを探索し、習得し、スキルの構築と共同作業を可能にする方法を説明します。
 
 <!-- 72_S102_3442449_228_gamifying-workspace-unlock-achievements-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458360/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460199/?learn=on&enablevpops=true&captions=jpn)

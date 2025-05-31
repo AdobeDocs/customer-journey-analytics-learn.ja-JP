@@ -20,4 +20,4 @@ ht-degree: 0%
 Customer Journey Analytics実装プロジェクトには、概念実証、暫定マルチチャネルのユースケース、完全な実装の 3 種類があります。
 
 <!-- 62_S113_3442460_77_three-types-of-cja-implementation-projects -->
->[!VIDEO](https://video.tv.adobe.com/v/3458341/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3463016/?learn=on&enablevpops=true&captions=jpn)
