@@ -20,4 +20,4 @@ ht-degree: 0%
 Analytics のイージーモードでAnalysis Workspaceの隠された機能が表示され、強力なツールに簡単にアクセスしてワークフローを効率化する方法を説明します。
 
 <!-- 62_S102_3442449_82_analytics-easy-mode-simplifying-workspace-for-all-users -->
->[!VIDEO](https://video.tv.adobe.com/v/3458343/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459716/?learn=on&enablevpops=true&captions=jpn)

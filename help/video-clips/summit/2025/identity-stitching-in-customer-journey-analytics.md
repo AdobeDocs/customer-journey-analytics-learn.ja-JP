@@ -20,4 +20,4 @@ ht-degree: 0%
 CJAでの 2 種類の ID ステッチ（フィールドベースとグラフベース）と、それらを使用してオムニチャネル分析を有効にする方法を調べます。
 
 <!-- 62_S113_3442460_74_identity-stitching-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458335/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459990/?learn=on&enablevpops=true&captions=jpn)

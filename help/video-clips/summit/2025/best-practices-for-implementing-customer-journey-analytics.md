@@ -20,4 +20,4 @@ ht-degree: 0%
 概念実証、中間ソリューション、完全な実装戦略など、Customer Journey Analytics実装のベストプラクティスがわかります。
 
 <!-- 62_S113_3442460_211_best-practices-for-implementing-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458311/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460067/?learn=on&enablevpops=true&captions=jpn)
