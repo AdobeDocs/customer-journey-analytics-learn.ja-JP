@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 892162d27f81c7b09b0cf018df2254ef80bb9b0e
+source-git-commit: 30b9c77ed997915fe358cb1e976b5ff10ccdc516
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 82%
+source-wordcount: '493'
+ht-degree: 83%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 82%
    + [データの操作](data-prep/working-with-data-in-cja.md)
    + [Adobe Analytics データの取り込み、マッピング、変換](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
    + [Adobe Analytics 分類データの取り込みと使用](data-prep/ingest-and-use-analytics-classifications.md)
++ アクセス制御 {#access-control}
+   + [権限の設定](permissions/set-up-permissions.md)
 + 接続 {#connections}
    + [Experience Platform データソースへの接続](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [接続設定の表示、トラブルシューティング、変更](connections/connections-details-experience-in-cja.md)
@@ -134,8 +136,8 @@ ht-degree: 82%
       + [初回のセッションとリピートセッションのレポート](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [日付フィールドのサポートの使用](use-cases/data-views-use-cases/leverage-date-field-support.md)
    + 複雑なデータ {#complex-data}
-      + [オブジェクトの配列の使用](use-cases/complex-data/object-arrays-in-cja.md)
+      + [オブジェクトの配列を使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
