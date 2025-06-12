@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 30b9c77ed997915fe358cb1e976b5ff10ccdc516
+source-git-commit: beb59cee00d1c5667a90c177acf45370351a5385
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 83%
+source-wordcount: '504'
+ht-degree: 82%
 
 ---
 
@@ -54,6 +54,10 @@ ht-degree: 83%
    + [データビューでの値なしオプションの設定](data-views/configure-no-value-options-in-data-views.md)
    + [データビューでのアトリビューション設定](data-views/attribution-settings-in-data-views.md)
    + [通貨換算](data-views/currency-conversion.md)
++ Data Insights エージェント {#data-insights-agent}
+   + [はじめに](data-insights-agent/introduction-to-the-data-insights-agent.md)
+   + [ユースケース](data-insights-agent/data-insights-agent-use-cases.md)
+   + [Data Insights Agentの使用](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
    + ワークスペースプロジェクト {#workspace-projects}
       + [Analysis Workspace の概要](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
@@ -138,6 +142,6 @@ ht-degree: 83%
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列を使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
