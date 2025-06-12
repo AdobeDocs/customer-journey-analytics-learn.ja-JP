@@ -19,6 +19,6 @@ ht-degree: 0%
 
 自然言語クエリ、リアルタイムビジュアライゼーション、フリーフォームテーブルを使用して、分析を効率化します。 マーケティング戦略開発、キャンペーン管理、ビジネスパフォーマンスレポート全体で効率を高めます。 この AI を活用したソリューションは、マーケターが瞬時にインサイトを得られるようにし、アナリストが戦略的タスクに割り当てられるようにし、顧客体験を強化し、プロアクティブな意思決定を可能にします。
 
-詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"} を参照してください。
+詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"} を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463896/?learn=on&enablevpops)
