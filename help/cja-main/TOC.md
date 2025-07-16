@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 27d553634dad11f8c0a9554ed8079d7d87169f32
+source-git-commit: d4d041a42a28b93bd74bb3d4a79929cd06513dea
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '511'
 ht-degree: 82%
 
 ---
@@ -114,6 +114,8 @@ ht-degree: 82%
       + [クロスチャネルセグメントの作成](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [ディメンションとしてのセグメントの使用](components/filters/use-filters-as-dimensions.md)
       + [Adobe Analytics セグメントの Customer Journey Analytics への移行](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + ディメンション {#dimensions}
++[ イベントの深度 ](components/dimensions/event-depth-in-cja.md)
    + 計算指標 {#calc-metrics}
       + [Customer Journey Analytics における計算指標の概要](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [Adobe Analytics から Customer Journey Analytics への計算指標の移行](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
@@ -143,6 +145,6 @@ ht-degree: 82%
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列を使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
