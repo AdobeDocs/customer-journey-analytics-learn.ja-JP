@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 43788fcc098682cd2ad7c2f8cbd19fa6c3c03918
+source-git-commit: 5e70dad9cf7b4ea90209a8070dc8acf17f84f96e
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '513'
 ht-degree: 82%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 82%
       + [Analysis Workspace の概要](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [新規プロジェクトの作成](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace テンプレート](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
+      + [Workspaceコメント](analysis-workspace/workspace-projects/workspace-commenting.md)
       + ジャーニー分析 {#journey-analysis}
          + [ジャーニーキャンバスビジュアライゼーション](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + パネル {#panels}
@@ -145,6 +146,6 @@ ht-degree: 82%
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列を使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
