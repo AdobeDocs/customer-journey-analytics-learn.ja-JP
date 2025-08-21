@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: b532468bae9fef1793e44d55203d1d52e9356d6e
+source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 81%
+source-wordcount: '542'
+ht-degree: 80%
 
 ---
 
@@ -42,9 +42,6 @@ ht-degree: 81%
    + [データビューのコンポーネント設定](data-views/configuring-component-settings-in-data-views.md)
    + [データビューのコンポーネントタイプ設定](data-views/component-type-settings-in-data-views.md)
    + [概要レベルのデータソースの作成](data-views/create-summary-level-data-sources.md)
-   + [派生フィールドの作成](data-views/derived-fields-in-cja.md)
-   + [派生フィールドでの数学関数の使用](data-views/use-the-math-function-in-derived-fields.md)
-   + [派生フィールドでの Next 関数または Previous 関数の使用](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [データビューの指標の書式設定](data-views/formatting-metrics-in-data-views.md)
    + [サブ文字列コンポーネントの設定](data-views/configure-substring-component-settings.md)
    + [データビューでの指標値の包含または除外](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -54,6 +51,14 @@ ht-degree: 81%
    + [データビューでの値なしオプションの設定](data-views/configure-no-value-options-in-data-views.md)
    + [データビューでのアトリビューション設定](data-views/attribution-settings-in-data-views.md)
    + [通貨換算](data-views/currency-conversion.md)
+   + 派生フィールド{#derived-fields}
+      + [派生フィールドの作成](data-views/derived-fields/derived-fields-in-cja.md)
+      + [数学関数の使用](data-views/derived-fields/use-the-math-function-in-derived-fields.md)
+      + [Next 関数または Previous 関数の使用](data-views/derived-fields/use-the-next-previous-function-in-derived-fields.md)
+      + [イベントの深度をカスタマイズ](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
+      + [型キャストを使用](data-views/derived-fields/use-typecasting-in-derived-fields.md)
+      + [イベント間の時間を計算するには、日付計算を使用します](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
+
 + Data Insights エージェント {#data-insights-agent}
    + [はじめに](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [ユースケース](data-insights-agent/data-insights-agent-use-cases.md)
@@ -152,6 +157,6 @@ ht-degree: 81%
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列を使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
