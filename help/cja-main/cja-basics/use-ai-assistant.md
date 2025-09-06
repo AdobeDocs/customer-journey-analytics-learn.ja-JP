@@ -21,4 +21,4 @@ Customer Journey Analyticsの AI アシスタントを使用すると、概念�
 
 詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"} を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471136/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471145/?learn=on&captions=jpn)
