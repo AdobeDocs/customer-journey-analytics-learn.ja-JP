@@ -22,4 +22,4 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=ja)を参照してください。
