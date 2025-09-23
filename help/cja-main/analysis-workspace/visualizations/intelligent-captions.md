@@ -1,6 +1,6 @@
 ---
 title: インテリジェントキャプションの作成
-description: ビジュアライゼーションでインテリジェントキャプションを有効にして、データに関して自動的に作成される自然言語のインサイトを取得する方法について説明します。
+description: ビジュアライゼーションでインテリジェントキャプションを有効にし、データに関して自動的に作成される自然言語のインサイトを取得する方法について説明します。
 feature: Visualizations
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 98%
 
 # インテリジェントキャプションの作成
 
-ビジュアライゼーションでインテリジェントキャプションを有効にして、データに関して自動的に作成される自然言語のインサイトを取得する方法について説明します。
+ビジュアライゼーションでインテリジェントキャプションを有効にし、データに関して自動的に作成される自然言語のインサイトを取得する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443139/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=ja)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en)を参照してください。
