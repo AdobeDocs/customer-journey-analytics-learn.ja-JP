@@ -20,4 +20,4 @@ ht-degree: 100%
 
 キャンペーンの開始、データの問題、休日などのイベントが発生した場合に、[!DNL Customer Journey Analytics] プロジェクトで[!UICONTROL 注釈]を作成する方法を説明します。この機能は、これらの日付または日付範囲における指標の相違をユーザーに通知します。
 
->[!VIDEO](https://video.tv.adobe.com/v/343742/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410237/?quality=12&learn=on&captions=jpn)

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 このビデオでは、他の指標のサブセットである新しい指標の作成と設定の方法と、これをデータビューの非常に強力な分析ツールにすることができる使用例について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412949/?quality=12&learn=on&captions=jpn)

@@ -23,6 +23,6 @@ ht-degree: 100%
 
 このビデオでは、Adobe Experience Platform との接続や統合の仕組みを含め、Customer Journey Analytics のアーキテクチャについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330411/?learn=on&quality=12&captions=jpn)
 
 Customer Journey Analytics について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja)を参照してください。

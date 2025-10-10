@@ -20,4 +20,4 @@ ht-degree: 0%
 
 接続マネージャーを使用すると、接続のデータセット取り込みのステータスを確認できます。また、このインターフェイスでは、Workspace で分析を開始するためのデータが使用可能な場合にも通知されます。設定の誤りによるデータの不一致を識別する方法、データの読み込み日を管理する方法、接続からデータセットを削除する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345573/?quality=12&learn=on&captions=jpn)

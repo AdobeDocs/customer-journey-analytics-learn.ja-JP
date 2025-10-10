@@ -22,4 +22,4 @@ ht-degree: 27%
 
 詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"} を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463897/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463920/?learn=on&enablevpops&captions=jpn)

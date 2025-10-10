@@ -20,4 +20,4 @@ ht-degree: 0%
 Customer Journey Analyticsで概要データソースを使用して、マーケティングコストのレポートを作成し、広告費用対効果を計算し、企業目標を追跡する方法を説明します。
 
 <!-- 72_S103_3442450_161_breaking-data-limits-with-summary-data-sources -->
->[!VIDEO](https://video.tv.adobe.com/v/3458347/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460077/?learn=on&enablevpops=true&captions=jpn)

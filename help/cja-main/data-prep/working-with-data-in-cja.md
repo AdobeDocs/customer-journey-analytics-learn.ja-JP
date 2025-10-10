@@ -22,6 +22,6 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL データセット] [!UICONTROL スキーマ]を Customer Journey Analytics（CJA）内の変数に変換する方法および CJA が非常に大きな基数をどのように処理するかを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36106/?quality=12&learn=on&captions=jpn)
 
 Customer Journey Analytics について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja)を参照してください。

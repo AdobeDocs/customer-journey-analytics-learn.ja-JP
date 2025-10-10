@@ -19,6 +19,6 @@ ht-degree: 100%
 
 新しい接続エクスペリエンスでは、クライアントが周期的なデータ保持期間の有効化、イベントのタイムスタンプに基づくバックフィルデータの有効化とリクエストおよびデータセット別の既存データのインポートを行える新機能が追加されました。
 
->[!VIDEO](https://video.tv.adobe.com/v/343044/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409301/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=ja)を参照してください。

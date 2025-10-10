@@ -20,6 +20,6 @@ ht-degree: 18%
 
 Customer Journey Analyticsの **純増加率** が、特定の期間におけるユーザーの増加率や失敗率に関するインサイトを提供する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423463/?learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=ja)を参照してください。

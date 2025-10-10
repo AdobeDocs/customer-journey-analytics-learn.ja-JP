@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe Audience Agentがオーディエンスの正常性をプロアクティブに監視して問題を特定し、時間を節約してエンゲージメントを向上させるための、実用的なソリューションを提案する方法を紹介します。
 
 <!-- 62_S653_3442539_203_audience-agent-proactive-audience-health-monitoring -->
->[!VIDEO](https://video.tv.adobe.com/v/3458303/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460056/?learn=on&enablevpops=true&captions=jpn)

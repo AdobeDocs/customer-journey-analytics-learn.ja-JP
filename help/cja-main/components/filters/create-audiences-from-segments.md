@@ -22,4 +22,4 @@ ht-degree: 25%
 
 詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"} を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471274/?learn=on&captions=jpn)

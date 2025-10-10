@@ -20,4 +20,4 @@ ht-degree: 23%
 
 Analysis Workspaceの **ガイド付き分析** を使用して、ガイド付きワークフローを通じて高品質のデータインサイトをセルフサービスで提供します。 この機能により、分析への簡単なアクセス、作成、保存、再利用が可能になり、ユーザーの保持追跡やfunnel分析などのタスクを合理化できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449320/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449498/?learn=on&captions=jpn)

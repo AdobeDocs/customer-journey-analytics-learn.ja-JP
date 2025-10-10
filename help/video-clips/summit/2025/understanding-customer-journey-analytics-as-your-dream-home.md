@@ -20,4 +20,4 @@ ht-degree: 0%
 進化するビジネスニーズを満たす新しい要件と機能を備えた、Customer Journey Analytics（CJA）を夢の故郷と考える方法を説明します。
 
 <!-- 62_S113_3442460_95_understanding-customer-journey-analytics-as-your-dream-home -->
->[!VIDEO](https://video.tv.adobe.com/v/3458327/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3462969/?learn=on&enablevpops=true&captions=jpn)

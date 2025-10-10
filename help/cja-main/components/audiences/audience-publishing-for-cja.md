@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Customer Journey Analytics から Adobe Experience Platform リアルタイム顧客プロファイルにオーディエンスを公開して、セグメントのアクティベーションや、よりパーソナライズされたジャーニーオーケストレーションを行う方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412474/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/audiences/audiences-overview.html?lang=ja)を参照してください。

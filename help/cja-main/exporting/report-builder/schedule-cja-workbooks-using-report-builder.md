@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Customer Journey Analytics の Report Builder でワークブックをスケジューリングする方法を説明します。ワークブックのスケジューリングにより、ユーザーは、最新のデータで Report Builder ワークブックの更新プロセスを自動化して、事前に定義された定期的なスケジュールで関係者に送信できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413079/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417506/?quality=12&learn=on&captions=jpn)

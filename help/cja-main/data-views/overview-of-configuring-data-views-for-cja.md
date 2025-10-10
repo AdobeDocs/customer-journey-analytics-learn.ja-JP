@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Customer Journey Analytics のデータビューは、Adobe Analytics の仮想レポートスイートに似ています。CJA に取り込まれるデータを、レポーティングや分析に最も役に立つように設定することができます。このビデオでは、Customer Journey Analytics のデータビューの設定について概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35110/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345558/?quality=12&learn=on&captions=jpn)
 
 データビューに関するビデオには、さらに、データの有用性を高める特定の機能を重点的に説明しているものもあるので、併せて参照してください。
 

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Customer Journey Analytics のデータビューでコンポーネントを設定する際に、フィールドを指標とディメンションのどちらにするかを選択できます。多くの場合、文字列はディメンション、数値は指標にする必要があります。ただし、切り替えたほうがよいユースケースがいくつかあります。ご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/333112/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412937/?quality=12&learn=on&captions=jpn)

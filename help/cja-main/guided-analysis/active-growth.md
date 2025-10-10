@@ -20,6 +20,6 @@ ht-degree: 16%
 
 Customer Journey Analyticsの **アクティブな増加** が、特定の期間におけるユーザーの増加に関するインサイトを、新規、繰り返し、復帰、休眠状態のユーザーごとに分割して提供する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423396/?learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=ja)を参照してください。

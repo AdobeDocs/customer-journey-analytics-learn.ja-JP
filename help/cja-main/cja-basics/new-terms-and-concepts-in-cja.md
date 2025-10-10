@@ -22,6 +22,6 @@ ht-degree: 100%
 
 このビデオでは、Customer Journey Analytics の主要な用語や概念、Adobe Analytics の用語や概念へのマッピング方法および Customer Journey Analytics インターフェイスでの表示場所について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36107/?quality=12&learn=on&captions=jpn)
 
 Customer Journey Analytics について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja)を参照してください。

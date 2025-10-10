@@ -21,4 +21,4 @@ ht-degree: 0%
 
 [!DNL Analysis Workspace] は、からのデータの調査と視覚化に使用される、柔軟なフリーフォーム分析環境です。 [!DNL Experience Platform]. プロジェクトとダッシュボードの作成に使用する基本的なコンポーネントについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418008/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450597/?quality=12&learn=on&captions=jpn)

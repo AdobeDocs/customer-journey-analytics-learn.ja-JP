@@ -19,7 +19,7 @@ ht-degree: 8%
 
 Customer Journey Analyticsでは、キャンペーンや商品データなど、個々の ID で整理されていないデータを集計および分析できる概要レベルのデータをサポートしています。 接続の作成、データビューの設定、概要データとイベントデータの組み合わせなど、概要データをExperience Platformに統合して包括的なレポートを作成するプロセスについて説明します。 この機能により、キャンペーンのパフォーマンスに関するより深いインサイトが得られ、CJA内でのレポートの柔軟性が向上します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433305/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449410/?quality=12&learn=on&captions=jpn)
 
 ## その他のリソース
 

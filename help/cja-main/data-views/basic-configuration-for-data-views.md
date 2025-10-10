@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Customer Journey Analytics で、Adobe Experience Platform の[!UICONTROL データセット]に[!UICONTROL 接続]を作成したら、[!UICONTROL 接続]の[!UICONTROL データ表示]を作成して、Platform の Analysis Workspace のデータを使用できるようにする必要があります。このビデオでは、[!UICONTROL データ表示]の基本的な設定に関する手順を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/30186/?quality=12&enable10seconds=on&speedcontrol=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412372/?quality=12&enable10seconds=on&speedcontrol=on&captions=jpn)
 
 ## その他のリソース
 

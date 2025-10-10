@@ -21,4 +21,4 @@ Customer Journey Analytics派生フィールドのマスター日数計算 日�
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-dataviews/derived-fields)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471066/?learn=on&captions=jpn)
