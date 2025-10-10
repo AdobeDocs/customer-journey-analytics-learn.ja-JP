@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-[!UICONTROL &#x200B; ツリーマップ &#x200B;] のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html) を参照してください。
+[!UICONTROL &#x200B; ツリーマップ &#x200B;] のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=ja) を参照してください。

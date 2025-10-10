@@ -22,4 +22,4 @@ Customer Journey Analyticsで製品のイベントに対するユーザーエン
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends/frequency)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/guided-analysis/trends/frequency)を参照してください。

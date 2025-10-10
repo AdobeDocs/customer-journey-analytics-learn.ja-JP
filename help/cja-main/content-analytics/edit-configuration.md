@@ -20,6 +20,6 @@ ht-degree: 30%
 
 名前、データビュー、エクスペリエンスキャプチャ設定を調整して、[!DNL Content Analytics] 設定を効率的に編集します。 このアクションは、指標を自動的に更新し、最適化されたインサイトを得られるよう、Content Analytics タグ拡張機能を使用して微調整を行います。
 
-詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"} を参照してください。
+詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"} を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458439/?learn=on&enablevpops)
