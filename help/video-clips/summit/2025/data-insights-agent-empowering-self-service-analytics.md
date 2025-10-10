@@ -20,4 +20,4 @@ ht-degree: 0%
 Data Insights Agentを使用して、自然言語での質問を行い、すぐに実用的なインサイトを得る方法を説明します。
 
 <!-- 62_S106_3442453_59_data-insights-agent-empowering-selfservice-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3459880/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3458304/?learn=on&enablevpops=true)

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Customer Journey Analytics で[!UICONTROL データビュー]を設定する際に、数値ディメンションを定義済みのグループにまとめて設定することで、テーブルで使用できる項目数を数値の範囲に限定できます。このビデオでは、この機能の設定方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412360/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/332864/?quality=12&learn=on)

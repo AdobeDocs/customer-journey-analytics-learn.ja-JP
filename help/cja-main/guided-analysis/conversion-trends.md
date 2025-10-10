@@ -1,6 +1,6 @@
 ---
 title: コンバージョントレンド
-description: Customer Journey Analyticsのコンバージョントレンドでファネルコンバージョン率の経時的な変化を追跡する方法を説明します。
+description: Customer Journey Analyticsのコンバージョントレンドで、funnelのコンバージョン率の経時的な変化を追跡する方法を説明します。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 25%
 
 # コンバージョントレンド
 
-Customer Journey Analyticsの **コンバージョントレンド** でファネルコンバージョン率の経時的な変化を追跡する方法を説明します。
+Customer Journey Analyticsでfunnelのコンバージョン率の経時的な変化を追跡する方法を **コンバージョンのトレンド** で説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423489/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=ja)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html)を参照してください。

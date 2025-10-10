@@ -10,8 +10,8 @@ kt: 7584
 exl-id: 373356d6-a446-4c46-97d3-d6faaff06e51
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL データビュー]設定の[!UICONTROL コンポーネント]画面で指標を書式設定するためのオプションについて説明します。また、[!UICONTROL コンポーネント]をさらに活用するのに役立ついくつかのヒントについても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412366/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/332806/?quality=12&learn=on)

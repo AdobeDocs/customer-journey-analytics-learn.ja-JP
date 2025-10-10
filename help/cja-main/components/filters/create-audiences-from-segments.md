@@ -1,6 +1,6 @@
 ---
 title: セグメントからのオーディエンスの作成
-description: オーディエンスを作成し、Customer Journey AnalyticsからReal-Time Customer Data Platformに公開する方法を説明します。
+description: オーディエンスを作成し、Customer Journey Analytics から Real-Time Customer Data Platform に公開する方法について説明します。
 feature: Segments
 role: Admin, User
 level: Beginner, Intermediate
@@ -8,10 +8,11 @@ doc-type: Feature Video
 duration: 336
 last-substantial-update: 2025-08-25T00:00:00Z
 jira: KT-17503
-source-git-commit: bdce32ca64fd14aeb760113b8df6ca96988069ce
+exl-id: d8d2eaf8-1928-49d9-8b94-bc0a2621f649
+source-git-commit: 64dfabb4b66c19b1b2c66de971e247071d151e2f
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 1%
+ht-degree: 25%
 
 ---
 
@@ -21,4 +22,4 @@ ht-degree: 1%
 
 詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"} を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471274/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)

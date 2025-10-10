@@ -1,6 +1,6 @@
 ---
-title: プロジェクトでの [!UICONTROL &#x200B; 概要 &#x200B;] ビジュアライゼーション  [!DNL Analysis Workspace]  使用
-description: ' [!DNL Customer Journey Analytics] のプロジェクトで [!UICONTROL &#x200B; 概要 &#x200B;] ビジュアライゼーションを使用す  [!DNL Analysis Workspace]  方法を説明します。'
+title: プロジェクトでの [!UICONTROL  概要 ] ビジュアライゼーション  [!DNL Analysis Workspace]  使用
+description: '[!UICONTROL  のプロジェクトで ] 概要  [!DNL Analysis Workspace]  ビジュアライゼーションを使用す  [!DNL Customer Journey Analytics] 方法を説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Customer Journey Analytics] のプロジェクトでの [!UICONTROL &#x200B; 概要 &#x200B;] ビジュアライゼーション [!DNL Analysis Workspace] 使用
+# [!UICONTROL  のプロジェクトでの ] 概要 [!DNL Analysis Workspace] ビジュアライゼーション [!DNL Customer Journey Analytics] 使用
 
-[!DNL Customer Journey Analytics] のプロジェクトで [!UICONTROL &#x200B; 概要 &#x200B;] ビジュアライゼーション [!DNL Analysis Workspace] 使用する方法を説明します。 これらのビジュアライゼーションは、プロジェクトで重要な大きな数をハイライト表示する場合に最適です。
+[!UICONTROL  のプロジェクトで ] 概要 [!DNL Analysis Workspace] ビジュアライゼーション [!DNL Customer Journey Analytics] 使用する方法を説明します。 これらのビジュアライゼーションは、プロジェクトで重要な大きな数をハイライト表示する場合に最適です。
 
 >[!NOTE]
 >
 >[!DNL Analysis Workspace] のユーザーインターフェイスと機能は、[!DNL Adobe Analytics] と [!DNL Customer Journey Analytics] で似ています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3417462/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-[!UICONTROL &#x200B; 概要 &#x200B;] ビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=ja) を参照してください。
+[!UICONTROL  概要 ] ビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html) を参照してください。

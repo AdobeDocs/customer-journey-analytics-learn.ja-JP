@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobeの AI アシスタントが、瞬時のデータインサイトを提供し、自然言語クエリと実用的な結果でワークフローを変換する方法を説明します。
 
 <!-- 72_S653_3442539_81_how-ai-assistant-transforms-data-insights-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3459913/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3458305/?learn=on&enablevpops=true)

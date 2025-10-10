@@ -1,6 +1,6 @@
 ---
 title: ファネル
-description: Customer Journey Analyticsのファネルが、商品の重要なユーザージャーニーを視覚的に表現し、フリクションがある場所を判断するのに役立つ仕組みを説明します。
+description: Customer Journey Analyticsのfunnelが、製品における重要なユーザージャーニーを視覚的にどのように表現し、どこで不具合があるかを判断する方法を説明します。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,12 +18,12 @@ ht-degree: 8%
 
 # ファネル
 
-Customer Journey Analyticsの **ファネル** が、商品における重要なユーザージャーニーを視覚的に表現し、フリクションがある場所を判断するのに役立つ方法を説明します。
+Customer Journey Analyticsの **0}funnel} が、商品における重要なユーザージャーニーを視覚的に表現し、摩擦がある場所を判断する際に役立つ方法を説明します。**
 
->[!VIDEO](https://video.tv.adobe.com/v/3431281/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 
-また、1 つのファネルステップで複数のイベントを比較し、「フォークされたファネル」を作成することもできます。 この「フォークされたファネル」を使用すると、2 つのジャーニーの摩擦を並べて比較できます。これは、ステップオプションがある場合や、ファネル内で A/B 実験が実行されている場合に役立ちます。
+また、「フォークされたfunnel」を作成して、1 つのfunnel手順で複数のイベントを比較することもできます。 この「フォークされたfunnel」を使用すると、2 つのジャーニーを並べて摩擦を比較できます。これは、ステップオプションがある場合や、funnel内で A/B 実験が実行されている場合に役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445800/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/guided-analysis/funnel/friction)を参照してください。

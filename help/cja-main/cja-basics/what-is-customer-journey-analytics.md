@@ -11,8 +11,8 @@ thumbnail: 3418680.jpeg
 exl-id: 2537a4db-517b-40d5-b1c2-42350736eb75
 source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Customer Journey Analytics（CJA）を使用すると、Adobe Experience Platform で利用可能な任意のデータを使用して、チャネル全体で顧客のジャーニーを分析し、Analysis Workspace の機能を活用して迅速なインサイトを得ることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439449/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3418680/?quality=12&learn=on)

@@ -22,6 +22,6 @@ ht-degree: 100%
 
 このビデオは、技術的な詳しい説明ではなく、[!UICONTROL 訪問者] ID を結び付けることで可能になったクロスチャネル[!UICONTROL ビジュアライゼーション]の調査を含め、[!UICONTROL ID] が Customer Journey Analytics の分析に与える影響の実践的な考察をおこないます。
 
->[!VIDEO](https://video.tv.adobe.com/v/34690/?learn=on&quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja)を参照してください。

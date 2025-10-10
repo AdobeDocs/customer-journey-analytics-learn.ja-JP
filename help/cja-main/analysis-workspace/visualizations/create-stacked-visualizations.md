@@ -1,6 +1,6 @@
 ---
-title: プロジェクトでの [!UICONTROL &#x200B; 完全に積み重ねられた棒 &#x200B;] ビジュアライゼーション  [!DNL Analysis Workspace]  作成
-description: のプロジェクトで生の値ではなくパーセンテージを使用して [!UICONTROL &#x200B; 完全に積み重ねられた棒グラフ &#x200B;] ビジュアライゼーションを設定する方法を説明します  [!DNL Analysis Workspace]  [!DNL Customer Journey Analytics]。
+title: プロジェクトでの [!UICONTROL  完全に積み重ねられた棒 ] ビジュアライゼーション  [!DNL Analysis Workspace]  作成
+description: のプロジェクトで生の値ではなくパーセンテージを使用して [!UICONTROL  完全に積み重ねられた棒グラフ ] ビジュアライゼーションを設定する方法を説明します  [!DNL Analysis Workspace]  [!DNL Customer Journey Analytics]。
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Customer Journey Analytics] のプロジェクトに [!UICONTROL &#x200B; 完全に積み重ねられた棒 &#x200B;] ビジュアライゼーション [!DNL Analysis Workspace] 作成します
+# [!UICONTROL  のプロジェクトに ] 完全に積み重ねられた棒 [!DNL Analysis Workspace] ビジュアライゼーション [!DNL Customer Journey Analytics] 作成します
 
-[!DNL Customer Journey Analytics] のプロジェクトで、生の値ではなくパーセンテージを使用して [!UICONTROL &#x200B; 完全に積み重ねられた棒 &#x200B;] ビジュアライゼーション（100%） [!DNL Analysis Workspace] 設定する方法を説明します。
+[!UICONTROL  のプロジェクトで、生の値ではなくパーセンテージを使用して ] 完全に積み重ねられた棒 [!DNL Analysis Workspace] ビジュアライゼーション（100%） [!DNL Customer Journey Analytics] 設定する方法を説明します。
 
 >[!NOTE]
 >
 >[!DNL Analysis Workspace] のユーザーインターフェイスと機能は、[!DNL Adobe Analytics] と [!DNL Customer Journey Analytics] で似ています。
 
->[!VIDEO](https://video.tv.adobe.com/v/27416/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-[!UICONTROL &#x200B; 完全に積み重ねられた変数 &#x200B;] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=ja) を参照してください。
+[!UICONTROL  完全に積み重ねられた変数 ] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html) を参照してください。

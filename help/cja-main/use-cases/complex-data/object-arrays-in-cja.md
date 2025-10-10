@@ -1,5 +1,5 @@
 ---
-title: オブジェクトの配列の使用
+title: オブジェクトの配列を使用
 description: CJA のプロファイルおよびルックアップデータセットのオブジェクト配列を利用して、接続からデータビュー、ワークスペースに至るまで、B2B および B2C 分析を強化する方法を説明します。
 feature: Use Cases
 role: Data Architect, Data Engineer
@@ -20,6 +20,6 @@ ht-degree: 89%
 
 CJA のプロファイルおよびルックアップデータセットのオブジェクト配列を利用して、接続からデータビュー、ワークスペースに至るまで、B2B および B2C 分析を強化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445258/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=ja)を参照してください。

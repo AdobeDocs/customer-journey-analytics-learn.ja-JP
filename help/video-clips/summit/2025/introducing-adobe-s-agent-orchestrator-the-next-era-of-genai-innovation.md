@@ -20,4 +20,4 @@ ht-degree: 0%
 AdobeのAgent Orchestratorについて、およびインテリジェントエージェントを通じてリアルタイムの高度にパーソナライズされたカスタマーエクスペリエンスを可能にする方法について説明します。
 
 <!-- 62_S653_3442539_67_introducing-adobes-agent-orchestrator-the-next-era-of-genai-innovation -->
->[!VIDEO](https://video.tv.adobe.com/v/3460045/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3458307/?learn=on&enablevpops=true)

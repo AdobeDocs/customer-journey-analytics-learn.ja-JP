@@ -1,6 +1,6 @@
 ---
 title: データディクショナリの使用
-description: Customer Journey Analytics用Analysis Workspaceのデータディクショナリについて説明します。 この機能は、ユーザーと管理者がプロジェクトで使用されるコンポーネントを追跡し、理解するのに役立ちます。 
+description: Customer Journey Analytics用Analysis Workspaceのデータ要素について説明します。 この機能は、ユーザーと管理者がプロジェクトで使用されるコンポーネントを追跡し、理解するのに役立ちます。 
 topic: Administration
 doc-type: feature video
 thumbnail: 3418028.jpg
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # データディクショナリの使用
 
-Customer Journey Analytics用Analysis Workspaceのデータディクショナリについて説明します。 この機能は、ユーザーと管理者がプロジェクトで使用されるコンポーネントを追跡し、理解するのに役立ちます。 
+Customer Journey Analytics用Analysis Workspaceのデータ要素について説明します。 この機能は、ユーザーと管理者がプロジェクトで使用されるコンポーネントを追跡し、理解するのに役立ちます。 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-Customer Journey Analytics用Analysis Workspaceのデータディクショナリについては、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html?lang=ja) を参照してください。
+Analysis Workspace for Customer Journey Analyticsのデータディクショナリについては、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html) を参照してください。

@@ -1,6 +1,6 @@
 ---
 title: Content Analytics - レポート
-description: Content Analyticsがアセットトラッキングを自動化し、ビュー数、クリック数、コンバージョン数など、web サイトのコンテンツパフォーマンスに関する詳細なレポートを提供する仕組みを説明します。
+description: Content Analytics がアセットトラッキングを自動化し、ビュー数、クリック数、コンバージョン数など、web サイトのコンテンツパフォーマンスに関する詳細なレポートを提供する仕組みについて説明します。
 feature: Content Analytics
 role: Architect, Leader, User
 level: Beginner
@@ -8,10 +8,11 @@ doc-type: Feature Video
 duration: 318
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-17461
-source-git-commit: 889305cbdb9e9301445c511b82aafa51a0ab6069
+exl-id: 4fd96924-f753-411c-97b7-f37c149590c1
+source-git-commit: f99d50912a49532c660f2b3990be4f91bd2ae51a
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 
@@ -19,6 +20,6 @@ ht-degree: 0%
 
 [!DNL Content Analytics] でアセットのトラッキングを自動化し、ビュー数、クリック数、コンバージョン数などの web サイトのコンテンツパフォーマンスに関する詳細なレポートを提供する方法を説明します。 アセット ID とエクスペリエンス ID、色や感情などのメタデータ、テンプレート生成のビジュアライゼーションからのインサイトを活用して、コンテンツ戦略を最適化する方法を説明します。
 
-詳しくは、Content Analytics[ ドキュメント ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/report/report){target="_blank"} を参照してください。
+詳しくは、Content Analytics[ ドキュメント ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report){target="_blank"} を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3473038/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3473037/?learn=on&enablevpops)

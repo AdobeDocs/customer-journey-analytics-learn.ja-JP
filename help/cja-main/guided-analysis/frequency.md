@@ -1,6 +1,6 @@
 ---
 title: 頻度
-description: Customer Journey Analyticsの頻度を使用して、商品のイベントに対するユーザーエンゲージメントを分析する方法を説明します。
+description: Customer Journey Analyticsの頻度を使用して、商品のイベントに対するユーザーエンゲージメントを分析する方法について説明します。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 20%
 
 # 頻度
 
-Customer Journey Analyticsの **頻度** を使用して、商品のイベントに対するユーザーエンゲージメントを分析する方法を説明します。
+Customer Journey Analyticsで製品のイベントに対するユーザーエンゲージメントを分析する方法 **頻度** について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435803/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/guided-analysis/trends/frequency)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends/frequency)を参照してください。

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 特定のディメンション値の次または前の項目を識別する、テーブルおよびビジュアライゼーションをすばやく生成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411118/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/344430/?quality=12&learn=on)

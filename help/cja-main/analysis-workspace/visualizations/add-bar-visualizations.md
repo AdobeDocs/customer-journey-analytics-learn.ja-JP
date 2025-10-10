@@ -1,6 +1,6 @@
 ---
-title: プロジェクトへの [!UICONTROL &#x200B; バー &#x200B;] ビジュアライゼーション  [!DNL Analysis Workspace]  追加
-description: ' [!DNL Customer Journey Analytics] のプロジェクトに標準 [!UICONTROL &#x200B; 棒グラフ &#x200B;] および [!UICONTROL &#x200B; 積み重ね棒グラフ &#x200B;] ビジュアライゼーションを追加して設定する方法  [!DNL Analysis Workspace]  説明します。'
+title: プロジェクトへの [!UICONTROL  バー ] ビジュアライゼーション  [!DNL Analysis Workspace]  追加
+description: '[!UICONTROL  のプロジェクトに標準 ] 棒グラフ [!UICONTROL  および ] 積み重ね棒グラフ  [!DNL Analysis Workspace]  ビジュアライゼーションを追加して設定する方法  [!DNL Customer Journey Analytics] 説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL &#x200B; バー &#x200B;] ビジュアライゼーション [!DNL Analysis Workspace] 追加する
+# [!UICONTROL  でプロジェクトに ] バー [!DNL Analysis Workspace] ビジュアライゼーション [!DNL Customer Journey Analytics] 追加する
 
-[!DNL Customer Journey Analytics] のプロジェクトに標準 [!UICONTROL &#x200B; 棒グラフ &#x200B;] および [!UICONTROL &#x200B; 積み重ね棒グラフ &#x200B;] ビジュアライゼーションを追加して設定 [!DNL Analysis Workspace] る方法を説明します。 これらは [!UICONTROL bar] 形式を使用して、複数の指標の値を表します。
+[!UICONTROL  のプロジェクトに標準 ] 棒グラフ [!UICONTROL  および ] 積み重ね棒グラフ [!DNL Analysis Workspace] ビジュアライゼーションを追加して設定 [!DNL Customer Journey Analytics] る方法を説明します。 これらは [!UICONTROL bar] 形式を使用して、複数の指標の値を表します。
 
 >[!NOTE]
 >
 >[!DNL Analysis Workspace] のユーザーインターフェイスと機能は、[!DNL Adobe Analytics] と [!DNL Customer Journey Analytics] で似ています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416775/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
-[!UICONTROL &#x200B; 棒グラフ &#x200B;] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=ja) を参照してください。
+[!UICONTROL  棒グラフ ] のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html) を参照してください。

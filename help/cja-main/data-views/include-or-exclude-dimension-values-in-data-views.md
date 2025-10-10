@@ -20,7 +20,7 @@ ht-degree: 100%
 
 この[!UICONTROL データビュー]設定機能を使用すると、ディメンションの値をフィルタリングすることで、Customer Journey Analytics でプロジェクトを作成する際のアナリストの負担を減らすことができます。（アナリストから感謝された後で）あなたは私に感謝することになるでしょう。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412354/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/332906/?quality=12&learn=on)
 
 ## その他のリソース
 

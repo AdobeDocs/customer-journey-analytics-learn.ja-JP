@@ -1,6 +1,6 @@
 ---
 title: プロジェクトへのエリア ビジュアライゼーション  [!DNL Analysis Workspace]  追加
-description: ' [!DNL Customer Journey Analytics] のプロジェクトに面グラフおよび積み重ね面グラフのビジュアライゼーション  [!DNL Analysis Workspace]  追加する方法を説明します。'
+description: ' [!DNL Analysis Workspace]  のプロジェクトに面グラフおよび積み重ね面グラフのビジュアライゼーション  [!DNL Customer Journey Analytics] 追加する方法を説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Customer Journey Analytics] でプロジェクトに [!UICONTROL &#x200B; エリア ビジュアライゼーション &#x200B;][!DNL Analysis Workspace] 追加
+# [!UICONTROL  でプロジェクトに ] エリア ビジュアライゼーション [!DNL Analysis Workspace][!DNL Customer Journey Analytics] 追加
 
-[!DNL Customer Journey Analytics] のプロジェクトに [!UICONTROL &#x200B; 面グラフ &#x200B;] および [!UICONTROL &#x200B; 積み重ね面グラフ &#x200B;] ビジュアライゼーションを追加する方法 [!DNL Analysis Workspace] 説明します。 これらのビジュアライゼーションは、複数の指標があり、2 つ以上の指標の積集合に基づいて領域を視覚化する場合に使用するのに最適です。
+[!UICONTROL  のプロジェクトに ] 面グラフ [!UICONTROL  および ] 積み重ね面グラフ [!DNL Analysis Workspace] ビジュアライゼーションを追加する方法 [!DNL Customer Journey Analytics] 説明します。 これらのビジュアライゼーションは、複数の指標があり、2 つ以上の指標の積集合に基づいて領域を視覚化する場合に使用するのに最適です。
 
 >[!NOTE]
 >
 >[!DNL Analysis Workspace] のユーザーインターフェイスと機能は、[!DNL Adobe Analytics] と [!DNL Customer Journey Analytics] で似ています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416774/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-[!UICONTROL &#x200B; エリア &#x200B;] ビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html?lang=ja) を参照してください。
+[!UICONTROL  エリア ] ビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html) を参照してください。

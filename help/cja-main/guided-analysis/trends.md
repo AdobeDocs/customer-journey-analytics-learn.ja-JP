@@ -1,6 +1,6 @@
 ---
-title: 傾向
-description: 製品のパフォーマンスやユーザーエンゲージメントに関する貴重なインサイトを経時的に提供する、Customer Journey Analyticsのトレンドについて説明します。
+title: トレンド
+description: 製品のパフォーマンスやユーザーエンゲージメントに関する価値のあるinsightを経時的に提供する、Customer Journey Analyticsのトレンドについて説明します。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -16,10 +16,10 @@ ht-degree: 18%
 
 ---
 
-# 傾向
+# トレンド
 
-製品のパフォーマンスやユーザーエンゲージメントの推移に関する貴重なインサイトを提供する、Customer Journey Analyticsの **トレンド** について説明します。
+製品のパフォーマンスやユーザーエンゲージメントに関する価値のあるinsightを経時的に提供する、Customer Journey Analyticsの **トレンド** について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423442/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=ja)を参照してください。

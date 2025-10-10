@@ -1,6 +1,6 @@
 ---
 title: グラフベースのステッチの概要
-description: グラフベースのステッチは、ID グラフの機能を利用して、Experience Platformアプリケーション間で ID を調整します。 この機能を使用すると、共通のユーザー ID を使用して、より多くのデータセットをCustomer Journey Analyticsで結合できます。
+description: グラフベースのステッチは、ID グラフの機能を利用して、Experience Platform アプリケーション間で ID を調整します。 この機能を使用すると、共通のユーザー ID を使用して、Customer Journey Analyticsでより多くのデータセットを結合できます。
 feature: Stitching
 role: Admin, Developer
 level: Intermediate
@@ -18,9 +18,9 @@ ht-degree: 4%
 
 # グラフベースのステッチの概要
 
-グラフベースのステッチは、ID グラフの機能を利用して、Experience Platformアプリケーション間で ID を調整します。 この機能を使用すると、共通のユーザー ID を使用して、より多くのデータセットをCustomer Journey Analyticsで結合できます。
+グラフベースのステッチは、ID グラフの機能を利用して、Experience Platform アプリケーション間で ID を調整します。 この機能を使用すると、共通のユーザー ID を使用して、Customer Journey Analyticsでより多くのデータセットを結合できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448717/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
 
 ID グラフを使用したグラフベースのステッチにより、次を通じて顧客ジャーニーをより詳細に把握できます。
 

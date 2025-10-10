@@ -13,8 +13,8 @@ level: Beginner
 exl-id: a44b1f31-005e-4f44-b941-60e44aeea605
 source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 このビデオでは、Customer Journey Analytics で[!UICONTROL 計算指標]を作成するための基本を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33738/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12&learn=on)
 
 Customer Journey Analytics について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja)を参照してください。

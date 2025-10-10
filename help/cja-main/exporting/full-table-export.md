@@ -1,6 +1,6 @@
 ---
 title: Customer Journey Analyticsでの完全なテーブル書き出し
-description: Customer Journey Analyticsから AEP データランディングゾーンとSnowflakeの両方へのテーブル配信の基本的な設定について説明します。
+description: AEPからCustomer Journey Analytics データランディングゾーンとSnowflakeの両方へのテーブル配信の基本的な設定について説明します。
 feature: Curate and Share
 role: User
 level: Intermediate
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Customer Journey Analyticsでの完全なテーブル書き出し
 
-Customer Journey Analyticsから AEP データランディングゾーンとSnowflakeの両方へのテーブル配信の基本的な設定について説明します。 詳細なドキュメントについては、[ クラウドへのCustomer Journey Analyticsレポートの書き出し ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=ja) を参照してください。
+AEPからCustomer Journey Analytics データランディングゾーンとSnowflakeの両方へのテーブル配信の基本的な設定について説明します。 詳細なドキュメントについては、[Customer Journey Analytics レポートのクラウドへの書き出し ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=ja) を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
 

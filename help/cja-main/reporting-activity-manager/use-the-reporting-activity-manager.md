@@ -8,7 +8,8 @@ doc-type: feature video
 thumbnail: 3470314.jpg
 kt: 17502
 last-substantial-update: 2025-07-30T00:00:00Z
-source-git-commit: 1dccea5dd18050c5205c585795186f8a1ec889f7
+exl-id: bf2102a9-d536-4e68-9fa2-2ca1012f9858
+source-git-commit: bd75a896aeba400289bb7766ab191cba1b06df06
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 10%
@@ -19,6 +20,6 @@ ht-degree: 10%
 
 [!DNL Customer Journey Analytics] のレポートアクティビティマネージャーを使用して、組織接続全体のレポート処理能力を監視および管理します。 このビデオでは、主要指標へのアクセス、パフォーマンス問題のトラブルシューティング、システム効率の最適化について説明します。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470315/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)

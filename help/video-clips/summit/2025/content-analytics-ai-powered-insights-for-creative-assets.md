@@ -20,4 +20,4 @@ ht-degree: 0%
 Content Analyticsを紹介します。これは、AI を使用してクリエイティブアセットとそのパフォーマンスを分析するCJAの新機能です。
 
 <!-- 62_S103_3442450_115_content-analytics-aipowered-insights-for-creative-assets -->
->[!VIDEO](https://video.tv.adobe.com/v/3462958/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3458352/?learn=on&enablevpops=true)
