@@ -20,6 +20,6 @@ ht-degree: 25%
 
 オーディエンスを作成し、Customer Journey AnalyticsからReal-Time Customer Data Platformに公開する方法を説明します。 このビデオでは、セグメントの作成、オーディエンスの更新頻度の定義、Journey Optimizerまたはサードパーティアプリケーションでのキャンペーンに関するインサイトの活用について説明します。
 
-詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"} を参照してください。
+詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"} を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)

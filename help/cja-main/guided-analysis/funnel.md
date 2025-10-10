@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # ファネル
 
-Customer Journey Analyticsの **0}funnel} が、商品における重要なユーザージャーニーを視覚的に表現し、摩擦がある場所を判断する際に役立つ方法を説明します。**
+Customer Journey Analyticsの **0&rbrace;funnel&rbrace; が、商品における重要なユーザージャーニーを視覚的に表現し、摩擦がある場所を判断する際に役立つ方法を説明します。**
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 

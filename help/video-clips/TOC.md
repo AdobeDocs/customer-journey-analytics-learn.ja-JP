@@ -37,4 +37,4 @@ ht-degree: 1%
       + [ビデオ簡略](./summit/2025/run-and-operate-strategies-for-scaling-adobe-implementations.md)
       + [ビデオ簡略](./summit/2025/the-strategic-imperative-of-customer-analytics.md)
       + [ビデオ簡略](./summit/2025/three-types-of-cja-implementation-projects.md)
-      + [ ビデオ簡略 ](./summit/2025/understanding-customer-journey-analytics-as-your-dream-home.md)
+      + [&#x200B; ビデオ簡略 &#x200B;](./summit/2025/understanding-customer-journey-analytics-as-your-dream-home.md)

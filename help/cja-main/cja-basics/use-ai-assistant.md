@@ -20,6 +20,6 @@ ht-degree: 26%
 
 Customer Journey Analyticsの AI アシスタントを使用すると、概念を学んだり、問題をトラブルシューティングしたり、ワークフローを最適化したりできます。 CJAExperience Leagueのドキュメントに基づいてトレーニングされた対話型 AI は、初心者から専門家まで幅広く対応できます。
 
-詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"} を参照してください。
+詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"} を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471136/?learn=on)

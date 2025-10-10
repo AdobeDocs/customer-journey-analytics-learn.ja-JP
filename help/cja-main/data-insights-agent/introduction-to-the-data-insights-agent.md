@@ -19,7 +19,7 @@ ht-degree: 30%
 
 AdobeのExperience Platform Agent Orchestratorを活用した [!DNL Data Insights Agent] は、マーケターやビジネスユーザー向けのカスタマーエクスペリエンスオーケストレーションに革命をもたらします。 ジェネレーティブ AI を活用して、自然言語のクエリを通じてリアルタイムのパーソナライズされたインサイトを提供し、従来のアナリストのボトルネックを解消します。
 
-詳しくは、Data Insights Agent[ ドキュメント ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"} を参照してください。
+詳しくは、Data Insights Agent[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"} を参照してください。
 
 ## はじめに
 
