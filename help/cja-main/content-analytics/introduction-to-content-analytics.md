@@ -77,7 +77,7 @@ Content Analyticsは、AI とExperience Platformのインフラストラクチ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="create-configuration.md" title="Content Analytics – 設定を作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458438/?format=jpeg&nocache=1742338375674" alt="Content Analytics – 設定を作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458444/?captions=jpn&format=jpeg&nocache=1742338375674" alt="Content Analytics – 設定を作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -100,7 +100,7 @@ Content Analyticsは、AI とExperience Platformのインフラストラクチ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="edit-configuration.md" title="Content Analytics – 設定を編集" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458439/?format=jpeg&nocache=1742338375690" alt="Content Analytics – 設定を編集"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458443/?captions=jpn&format=jpeg&nocache=1742338375690" alt="Content Analytics – 設定を編集"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
