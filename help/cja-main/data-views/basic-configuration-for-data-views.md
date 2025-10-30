@@ -23,5 +23,5 @@ Customer Journey Analytics で、Adobe Experience Platform の[!UICONTROL デー
 
 ## その他のリソース
 
-* [Customer Journey Analytics - データビューに関するドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=ja){target="_blank"}。
+* [Customer Journey Analytics - データビューに関するドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=ja){target="_blank"}。
 

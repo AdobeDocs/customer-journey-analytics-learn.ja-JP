@@ -1,6 +1,6 @@
 ---
-title: プロジェクトへの [!UICONTROL  テキスト ] ビジュアライゼーション  [!DNL Analysis Workspace]  追加
-description: '[!UICONTROL  のプロジェクトで ] テキスト  [!DNL Analysis Workspace]  ビジュアライゼーションを追加し、設定する方法  [!DNL Customer Journey Analytics] 説明します。'
+title: プロジェクトへの [!UICONTROL &#x200B; テキスト &#x200B;] ビジュアライゼーション  [!DNL Analysis Workspace]  追加
+description: '[!UICONTROL &#x200B; のプロジェクトで &#x200B;] テキスト  [!DNL Analysis Workspace]  ビジュアライゼーションを追加し、設定する方法  [!DNL Customer Journey Analytics] 説明します。'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL  でプロジェクトに ] テキスト [!DNL Analysis Workspace] ビジュアライゼーション [!DNL Customer Journey Analytics] 追加する
+# [!UICONTROL &#x200B; でプロジェクトに &#x200B;] テキスト [!DNL Analysis Workspace] ビジュアライゼーション [!DNL Customer Journey Analytics] 追加する
 
-[!UICONTROL  のプロジェクトに ] テキスト [!DNL Analysis Workspace] ビジュアライゼーションを追加し、設定 [!DNL Customer Journey Analytics] る方法を説明します。 このビジュアライゼーションは、指標に関する懸念を伝える場合や、プロジェクト内の他のデータにコンテキストを追加する場合に役立ちます。
+[!UICONTROL &#x200B; のプロジェクトに &#x200B;] テキスト [!DNL Analysis Workspace] ビジュアライゼーションを追加し、設定 [!DNL Customer Journey Analytics] る方法を説明します。 このビジュアライゼーションは、指標に関する懸念を伝える場合や、プロジェクト内の他のデータにコンテキストを追加する場合に役立ちます。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-[!UICONTROL  テキスト ] ビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"} を参照してください。
+[!UICONTROL &#x200B; テキスト &#x200B;] ビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"} を参照してください。
