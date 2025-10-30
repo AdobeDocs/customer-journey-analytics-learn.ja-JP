@@ -9,7 +9,7 @@ thumbnail: 3464718.jpg
 kt: 17504
 last-substantial-update: 2025-07-08T00:00:00Z
 exl-id: 5412e4a2-e3d8-4c46-9432-4aa134043593
-source-git-commit: a3eec99806a31df26eefde97f348802cd26e8d05
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 12%
@@ -20,6 +20,6 @@ ht-degree: 12%
 
 [!DNL Customer Journey Analytics] のアトリビューションパネルの使用方法を説明します。 このビデオでは、成功指標を定義する方法、アトリビューションモデルを選択および比較する方法、棒グラフ、ベン図、チャネルフローなどのビジュアライゼーションをカスタマイズしてカスタマージャーニーのインタラクションに関するインサイトを得る方法を説明します。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/panels/attribution)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/panels/attribution){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464723/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3464718/?learn=on)

@@ -9,7 +9,7 @@ last-substantial-update: 2025-08-21T00:00:00Z
 jira: KT-18790
 thumbnail: 3471041.jpeg
 exl-id: 98eef481-259e-4729-945c-8701f1216954
-source-git-commit: aa5c836356364534d19030292870a214cc29f55d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 10%
@@ -20,6 +20,6 @@ ht-degree: 10%
 
 Customer Journey Analytics派生フィールドでイベントの深度を設定して、Analytics でページの深度、内部検索の深度などをカスタマイズする方法について説明します。 この機能を使用すると、ユーザーの行動を正確に追跡し、データ駆動型のインサイトを強化できます。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-dataviews/derived-fields)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471044/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)

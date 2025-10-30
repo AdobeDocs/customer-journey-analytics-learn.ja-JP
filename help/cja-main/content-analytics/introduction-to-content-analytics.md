@@ -8,24 +8,24 @@ duration: 650
 last-substantial-update: 2025-05-13T00:00:00Z
 jira: KT-17556
 exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
-source-git-commit: 929fc1cc499262a35ad76d3b4109c2ed175debe0
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 34%
 
 ---
 
 # Content Analyticsについて
 
-コンテンツのパフォーマンスの測定は困難な場合があり、多くの場合、推測や非効率につながります。 Content Analyticsは、トーン、画像、カラー、メッセージングなど、コンテンツが何で効果的かを深く理解することで、推測する作業をなくします。 エンゲージメントを促進する要因やコンテンツを最適化する方法といった重要な質問に対する回答を示します。
+コンテンツのパフォーマンスの測定は困難な場合があり、多くの場合、推測や非効率につながります。 Content Analyticsは、トーン、画像、カラー、メッセージなど、コンテンツが何を効果的にするのかに関する深いインサイトを提供することで、推測を排除します。 エンゲージメントを促進する要因やコンテンツを最適化する方法といった重要な質問に対する回答を示します。
 
-詳しくは、Content Analytics[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} を参照してください。
+詳しくは、Content Analytics[ ドキュメント ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} を参照してください。
 
 ## はじめに
 
 Content Analyticsは、AI とExperience Platformのインフラストラクチャを使用して、コンテンツが効果的な理由を明らかにします。 チームは、エンゲージメントをより適切に最適化し、コンバージョンを推進し、よりスマートでデータに基づいた決定を行うことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457311/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
 
 
 ## 仕組み
@@ -41,7 +41,7 @@ Content Analyticsは、AI とExperience Platformのインフラストラクチ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics – 仕組み" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457428/?format=jpeg&nocache=1742338375674&captions=jpn" alt="Content Analytics – 仕組み"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics – 仕組み"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -77,7 +77,7 @@ Content Analyticsは、AI とExperience Platformのインフラストラクチ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="create-configuration.md" title="Content Analytics – 設定を作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458444/?captions=jpn&format=jpeg&nocache=1742338375674" alt="Content Analytics – 設定を作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458438/?format=jpeg&nocache=1742338375674" alt="Content Analytics – 設定を作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -100,7 +100,7 @@ Content Analyticsは、AI とExperience Platformのインフラストラクチ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="edit-configuration.md" title="Content Analytics – 設定を編集" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458443/?captions=jpn&format=jpeg&nocache=1742338375690" alt="Content Analytics – 設定を編集"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458439/?format=jpeg&nocache=1742338375690" alt="Content Analytics – 設定を編集"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +134,7 @@ Content Analyticsは、AI とExperience Platformのインフラストラクチ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics - レポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473038/?format=jpeg&nocache=1742338375674&captions=jpn" alt="Content Analytics - レポート"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics - レポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

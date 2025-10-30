@@ -9,7 +9,7 @@ last-substantial-update: 2023-06-08T00:00:00Z
 jira: KT-13460
 thumbnail: 3420315.jpeg
 exl-id: b67e8ae2-17c9-44b6-b62d-3adb1019c5fd
-source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 8%
@@ -18,10 +18,10 @@ ht-degree: 8%
 
 # Analysis Workspaceでの動的ドロップダウンセグメントの作成
 
-ディメンション全体に基づいてドロップダウンセグメントを作成する方法を説明します。 Dimensionの項目は、レポートパネルで使用された日付範囲に基づいて動的に更新されます。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/cja-segments/create-filters)を参照してください。
+ディメンション全体に基づいてドロップダウンセグメントを作成する方法を説明します。 Dimensionの項目は、レポートパネルで使用された日付範囲に基づいて動的に更新されます。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}を参照してください。
 
 >[!NOTE]
 >
-> Customer Journey Analytics インターフェイスの「[!UICONTROL &#x200B; フィルター &#x200B;]」の名前は「[!UICONTROL &#x200B; セグメント &#x200B;]」に変更されました。
+> Customer Journey Analytics インターフェイスの「[!UICONTROL  フィルター ]」の名前は「[!UICONTROL  セグメント ]」に変更されました。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446817/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)

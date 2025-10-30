@@ -11,10 +11,10 @@ thumbnail: 32549.jpg
 kt: 3965
 last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 100%
 
 ---
 
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 その他のチャネルから Customer Journey Analytics の接続に新しいデータを追加して、分析からより多くの価値を引き出します。さらに、この新しいデータを結合する際の要件と、設定を使用して対処する分析とレポートへの影響を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36513/?learn=on&quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12&learn=on)
 
-クロスチャネル分析について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=ja)を参照してください。
+クロスチャネル分析について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=ja){target="_blank"}を参照してください。

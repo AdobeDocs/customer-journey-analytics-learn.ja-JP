@@ -9,7 +9,7 @@ last-substantial-update: 2023-06-06T00:00:00Z
 jira: KT-13435
 thumbnail: 3420093.jpeg
 exl-id: 1ee94404-f4b0-4185-82df-341d091963db
-source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 20%
@@ -20,6 +20,6 @@ ht-degree: 20%
 
 Workspaceの「すべてのユーザーと共有」機能について説明します。 この機能を使用すると、組織外の受信者など、Adobe AnalyticsやCustomer Journey Analyticsへのアクセス権を持たないユーザーにWorkspace プロジェクトへの読み取り専用アクセス権を付与できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452450/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=ja#share-public-link)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=ja#share-public-link){target="_blank"}を参照してください。
