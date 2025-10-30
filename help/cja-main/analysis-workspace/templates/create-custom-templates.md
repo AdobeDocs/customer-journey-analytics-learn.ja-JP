@@ -22,4 +22,4 @@ Customer Journey Analyticsでカスタムテンプレートを作成する方法
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/templates/create-templates){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470923/?captions=jpn&learn=on)

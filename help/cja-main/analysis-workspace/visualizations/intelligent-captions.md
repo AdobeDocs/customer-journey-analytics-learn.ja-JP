@@ -20,6 +20,6 @@ ht-degree: 98%
 
 ビジュアライゼーションでインテリジェントキャプションを有効にし、データに関して自動的に作成される自然言語のインサイトを取得する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443139/?captions=jpn&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=ja){target="_blank"}を参照してください。

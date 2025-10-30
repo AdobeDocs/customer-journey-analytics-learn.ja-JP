@@ -25,6 +25,6 @@ ht-degree: 0%
 >
 >[!DNL Analysis Workspace] のユーザーインターフェイスと機能は、[!DNL Adobe Analytics] と [!DNL Customer Journey Analytics] で似ています。
 
->[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328270/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL &#x200B; テキスト &#x200B;] ビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=ja){target="_blank"} を参照してください。

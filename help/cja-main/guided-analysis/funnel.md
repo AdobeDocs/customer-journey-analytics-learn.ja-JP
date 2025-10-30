@@ -20,10 +20,10 @@ ht-degree: 8%
 
 Customer Journey Analyticsの **0&rbrace;funnel&rbrace; が、商品における重要なユーザージャーニーを視覚的に表現し、摩擦がある場所を判断する際に役立つ方法を説明します。**
 
->[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431281/?captions=jpn&learn=on)
 
 また、「フォークされたfunnel」を作成して、1 つのfunnel手順で複数のイベントを比較することもできます。 この「フォークされたfunnel」を使用すると、2 つのジャーニーを並べて摩擦を比較できます。これは、ステップオプションがある場合や、funnel内で A/B 実験が実行されている場合に役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445800/?captions=jpn&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/guided-analysis/funnel/friction){target="_blank"}を参照してください。

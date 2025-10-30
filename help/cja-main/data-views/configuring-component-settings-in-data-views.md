@@ -19,7 +19,7 @@ ht-degree: 100%
 
 このビデオでは、Customer Journey Analytics で[!UICONTROL データビュー]を設定する際に、各[!UICONTROL コンポーネント]（指標とディメンション）で設定する基本的なコンポーネント設定をいくつか紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332788/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412346/?captions=jpn&quality=12&learn=on)
 
 ## その他のリソース
 

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 初回のセッションとリピートセッション機能は、ユーザーの初回のセッションとリピートセッションを区別する機能を提供します。これは、レポートに適用される 13 か月のルックバックによって実現されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412321/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416835/?captions=jpn&quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=ja#new-repeat){target="_blank"}を参照してください。

@@ -22,4 +22,4 @@ ht-degree: 10%
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470315/?captions=jpn&learn=on)

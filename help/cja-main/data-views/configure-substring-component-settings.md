@@ -19,6 +19,6 @@ ht-degree: 100%
 
 文字列操作メソッドを使用して、Customer Journey Analytics レポートでディメンション値の目的の部分を取得する方法を説明します。適用後、データ変換は遡及的かつ即座に行われます。
 
->[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411149/?captions=jpn&quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html?lang=ja){target="_blank"}を参照してください。

@@ -22,4 +22,4 @@ ht-degree: 75%
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3458210/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3458288/?captions=jpn&learn=on)

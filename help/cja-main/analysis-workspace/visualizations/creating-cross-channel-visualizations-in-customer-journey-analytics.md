@@ -22,6 +22,6 @@ ht-degree: 100%
 
 このビデオでは、Customer Journey Analytics を使用して、[!UICONTROL 訪問者]ごとのデータのマージなど、複数のチャネルをまたいだ複数の[!UICONTROL データセット]からのデータを含めた[!UICONTROL ビジュアライゼーション]を作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33735/?captions=jpn&quality=12&learn=on)
 
 Customer Journey Analytics について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja){target="_blank"}を参照してください。

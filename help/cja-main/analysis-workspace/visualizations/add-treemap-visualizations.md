@@ -25,6 +25,6 @@ ht-degree: 0%
 >
 >[!DNL Analysis Workspace] のユーザーインターフェイスと機能は、[!DNL Adobe Analytics] と [!DNL Customer Journey Analytics] で似ています。
 
->[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417454/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL &#x200B; ツリーマップ &#x200B;] のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=ja){target="_blank"} を参照してください。

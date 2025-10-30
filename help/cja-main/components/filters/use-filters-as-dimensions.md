@@ -24,4 +24,4 @@ Analysis Workspace プロジェクトでディメンションとして使用さ�
 >
 > Customer Journey Analytics インターフェイスの「[!UICONTROL &#x200B; フィルター &#x200B;]」の名前は「[!UICONTROL &#x200B; セグメント &#x200B;]」に変更されました。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449063/?captions=jpn&learn=on&quality=12)

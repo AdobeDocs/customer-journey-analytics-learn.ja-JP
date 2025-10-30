@@ -20,4 +20,4 @@ ht-degree: 37%
 
 Adobe Journey Optimizerでは、新しいレポート機能とオーケストレーション機能を利用できます。 Journey Optimizerのこれらの機能強化には、データソースの追加、高度なカスタマイズ、データ操作、分析などを通じて、Customer Journey Analyticsとの相互運用性の向上や価値の拡張も含まれています。 ドキュメントについて詳しくは、[新しいレポートインターフェイスの基本を学ぶ](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channel-report/report-gs-cja){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443152/?captions=jpn&learn=on)

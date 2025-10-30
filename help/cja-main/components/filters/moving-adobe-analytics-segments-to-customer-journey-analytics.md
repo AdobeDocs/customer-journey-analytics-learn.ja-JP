@@ -23,6 +23,6 @@ ht-degree: 100%
 
 このビデオでは、Customer Journey Analytics で Adobe Analytics [!UICONTROL セグメント]を「[!UICONTROL フィルター]」として再作成する際のヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36022/?captions=jpn&quality=12&learn=on)
 
 Customer Journey Analytics について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja){target="_blank"}を参照してください。

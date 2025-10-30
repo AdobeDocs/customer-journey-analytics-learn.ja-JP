@@ -20,6 +20,6 @@ ht-degree: 100%
 
 このビデオでは、Analytics 変数を新しいカスタムフィールドにマッピングしたり、変換と計算を実行するなどのデータ操作機能を含め、Analytics データのデータ準備機能を使用する方法を説明します。これらのアクティビティは、Experience Platform 内の Analytics のソース接続ワークフローで行われます。
 
->[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430254?captions=jpn&quality=12&learn=on)
 
 詳しくは、[Adobe Analytics ソースコネクタのドキュメント](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=ja){target="_blank"}および[データ準備機能のドキュメント](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=ja){target="_blank"}を参照してください。

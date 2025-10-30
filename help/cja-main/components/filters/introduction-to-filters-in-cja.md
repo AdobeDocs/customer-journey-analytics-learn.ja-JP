@@ -24,4 +24,4 @@ ht-degree: 20%
 >
 > Customer Journey Analytics インターフェイスの「[!UICONTROL &#x200B; フィルター &#x200B;]」の名前は「[!UICONTROL &#x200B; セグメント &#x200B;]」に変更されました。
 
->[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36104/?captions=jpn&quality=12&learn=on)
