@@ -18,7 +18,7 @@ ht-degree: 9%
 
 # Analysis Workspace プロジェクトのディメンションとしての [!DNL segments] の使用
 
-Analysis Workspace プロジェクトでディメンションとして使用されるセグメントを比較および視覚化する方法について説明します。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}を参照してください。
+Analysis Workspace プロジェクトでディメンションとして使用されるセグメントを比較および視覚化する方法について説明します。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}を参照してください。
 
 >[!NOTE]
 >

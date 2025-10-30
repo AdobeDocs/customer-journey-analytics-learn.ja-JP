@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # Analysis Workspaceでの動的ドロップダウンセグメントの作成
 
-ディメンション全体に基づいてドロップダウンセグメントを作成する方法を説明します。 Dimensionの項目は、レポートパネルで使用された日付範囲に基づいて動的に更新されます。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}を参照してください。
+ディメンション全体に基づいてドロップダウンセグメントを作成する方法を説明します。 Dimensionの項目は、レポートパネルで使用された日付範囲に基づいて動的に更新されます。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}を参照してください。
 
 >[!NOTE]
 >

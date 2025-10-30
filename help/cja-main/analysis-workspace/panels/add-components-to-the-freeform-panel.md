@@ -20,6 +20,6 @@ ht-degree: 75%
 
 フリーフォームパネルを使用すると、柔軟性に優れたドラッグ＆ドロップのインターフェイスを介して、カスタマーエクスペリエンスのデータを調査、比較、関連付けることができます。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458210/?learn=on)
