@@ -23,4 +23,4 @@ ht-degree: 27%
 
 詳細なドキュメントについては、[&#x200B; データセットのタイプ &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=ja#dataset-types){target="_blank"} および [&#x200B; アカウントレベルのデータをルックアップデータセットとして追加 &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=ja){target="_blank"} を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449871/?captions=jpn&learn=on)
