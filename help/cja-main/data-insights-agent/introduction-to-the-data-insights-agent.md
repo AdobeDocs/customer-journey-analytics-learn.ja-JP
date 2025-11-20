@@ -19,13 +19,13 @@ ht-degree: 30%
 
 AdobeのExperience Platform Agent Orchestratorを活用した [!DNL Data Insights Agent] は、マーケターやビジネスユーザー向けのカスタマーエクスペリエンスオーケストレーションに革命をもたらします。 ジェネレーティブ AI を活用して、自然言語のクエリを通じてリアルタイムのパーソナライズされたインサイトを提供し、従来のアナリストのボトルネックを解消します。
 
-詳しくは、Data Insights Agent[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"} を参照してください。
+詳しくは、Data Insights Agent[ ドキュメント ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"} を参照してください。
 
 ## はじめに
 
 Customer Journey Analyticsの [!DNL Data Insights Agent] について説明します。 この AI 主導のソリューションは、マーケターやビジネスの関係者に即時に透明なインサイトを提供し、遅延や広範なトレーニングを排除すると同時に、アナリストを戦略的なタスクに解放します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463898/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3463894/?learn=on&enablevpops)
 
 
 ## Data Insights Agentのユースケース
@@ -41,7 +41,7 @@ Customer Journey Analyticsの [!DNL Data Insights Agent] について説明し�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="data-insights-agent-use-cases.md" title="Data Insights Agentのユースケース" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463909/?format=jpeg&nocache=1742338375674&captions=jpn" alt="Data Insights Agentのユースケース"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463896/?format=jpeg&nocache=1742338375674" alt="Data Insights Agentのユースケース"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -75,7 +75,7 @@ Customer Journey Analyticsの [!DNL Data Insights Agent] について説明し�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="use-the-data-insights-agent.md" title="Data Insights Agentの使用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463920/?format=jpeg&nocache=1742338375674&captions=jpn" alt="Data Insights Agentの使用"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463897/?format=jpeg&nocache=1742338375674" alt="Data Insights Agentの使用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
