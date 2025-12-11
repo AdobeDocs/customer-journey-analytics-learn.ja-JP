@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 thumbnail: 32112.jpg
 kt: 3964
-role: Data Engineer, Data Architect
+role: Developer
 level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL データセット] [!UICONTROL スキーマ]を Customer Journey Analytics（CJA）内の変数に変換する方法および CJA が非常に大きな基数をどのように処理するかを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36106/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
 
 Customer Journey Analytics について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja){target="_blank"}を参照してください。
