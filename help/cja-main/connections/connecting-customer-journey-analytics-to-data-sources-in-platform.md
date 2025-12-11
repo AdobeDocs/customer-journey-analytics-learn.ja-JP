@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Customer Journey Analytics では、Adobe Experience Platform に取り込まれたデータセットを活用します。ワークスペースでデータ分析を開始する前に、接続を作成する必要があります。Customer Journey Analytics のアーキテクチャ、ユースケース、計画、必要な権限、接続を作成する手順について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/30140/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35087/?captions=jpn&quality=12&learn=on)

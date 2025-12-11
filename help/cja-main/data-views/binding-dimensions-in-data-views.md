@@ -18,4 +18,4 @@ ht-degree: 100%
 
 バインディングディメンションは Customer Journey Analytics の魅力的な機能の 1 つで、より精密な永続性配分を目的として、あるディメンションを選んで別のディメンションに接続することができます。ユーザーのジャーニー全体を通して様々な値を受け取る状況になることが多く、それらの成功指標の配分方法を決定する必要があります。バインディングディメンションは、いくつかの主要なシナリオに対処するうえで役に立つ手段の 1 つです。
 
->[!VIDEO](https://video.tv.adobe.com/v/342694/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409294/?captions=jpn&quality=12&learn=on)
