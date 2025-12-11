@@ -20,6 +20,6 @@ ht-degree: 27%
 
 [!DNL Content Analytics] でアセットのトラッキングを自動化し、ビュー数、クリック数、コンバージョン数などの web サイトのコンテンツパフォーマンスに関する詳細なレポートを提供する方法を説明します。 アセット ID とエクスペリエンス ID、色や感情などのメタデータ、テンプレート生成のビジュアライゼーションからのインサイトを活用して、コンテンツ戦略を最適化する方法を説明します。
 
-詳しくは、Content Analytics[ ドキュメント ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report){target="_blank"} を参照してください。
+詳しくは、Content Analytics[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report){target="_blank"} を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473037/?learn=on&enablevpops)
