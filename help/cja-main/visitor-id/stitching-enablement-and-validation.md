@@ -20,4 +20,4 @@ ht-degree: 0%
 
 このビデオでは、任意のイベントデータセットでステッチを有効にする手順について説明します。 さらに、データセットでステッチを有効にすると、異なる指標やディメンションを表示するのに役立ち、それらが機能していることと、もたらされる値を検証するために使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478120/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478121/?captions=jpn&learn=on&enablevpops)
