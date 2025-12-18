@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: afff13a5436d054e664fc8f41d08a2ebbfa6e532
+source-git-commit: 8d706b04feb7b869569a41d7c0a682b81c67e199
 workflow-type: tm+mt
-source-wordcount: '576'
-ht-degree: 76%
+source-wordcount: '577'
+ht-degree: 75%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 76%
    + [CJA での ID の使用方法について](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [欠落しているユーザー ID の設定](visitor-id/configure-missing-person-id.md)
    + [ステッチの概要](visitor-id/overview-of-stitching.md)
-   + [グラフベースのステッチの概要](visitor-id/graph-based-stitching-overview.md)
+   + [ステッチの有効化と検証](visitor-id/stitching-enablement-and-validation.md)
 + データビュー {#data-views}
    + [CJA のデータビュー設定の概要](data-views/overview-of-configuring-data-views-for-cja.md)
    + [データビューの基本設定](data-views/basic-configuration-for-data-views.md)
@@ -63,7 +63,7 @@ ht-degree: 76%
       + [イベントの深度をカスタマイズ](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
       + [型キャストを使用](data-views/derived-fields/use-typecasting-in-derived-fields.md)
       + [イベント間の時間を計算するには、日付計算を使用します](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
-+ Data Insights エージェント {#data-insights-agent}
++ Data Insights Agent {#data-insights-agent}
    + [はじめに](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [ユースケース](data-insights-agent/data-insights-agent-use-cases.md)
    + [Data Insights Agentの使用](data-insights-agent/use-the-data-insights-agent.md)
@@ -119,7 +119,7 @@ ht-degree: 76%
    + [純増加率](guided-analysis/net-growth.md)
    + [リリースの影響](guided-analysis/release-impact.md)
    + [リテンション](guided-analysis/retention.md)
-   + [Timeline](guided-analysis/timeline.md)
+   + [タイムライン](guided-analysis/timeline.md)
    + [トレンド](guided-analysis/trends.md)
 + コンポーネント {#components}
    + セグメント {#filters}
@@ -163,6 +163,6 @@ ht-degree: 76%
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列を使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
