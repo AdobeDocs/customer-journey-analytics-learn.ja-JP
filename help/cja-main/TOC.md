@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 8d706b04feb7b869569a41d7c0a682b81c67e199
+source-git-commit: e97a621c4ccc75fbbdc08c270848d7c66ac2b072
 workflow-type: tm+mt
-source-wordcount: '577'
-ht-degree: 75%
+source-wordcount: '584'
+ht-degree: 74%
 
 ---
 
@@ -157,12 +157,14 @@ ht-degree: 75%
 + Experience Platformの統合 {#experience-platform-integration}
    + [Adobe Journey Optimizerのレポート機能の強化](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + ユースケース {#use-cases}
+   + 人工知能 {#ai}
+      + [AI トラフィックの追跡と分析](use-cases/ai/track-and-analyze-ai-traffic.md)
    + データビューのユースケース {#data-views-use-cases}
       + [初回のセッションとリピートセッションのレポート](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [日付フィールドのサポートの使用](use-cases/data-views-use-cases/leverage-date-field-support.md)
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列を使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
