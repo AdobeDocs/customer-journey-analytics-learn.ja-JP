@@ -20,6 +20,6 @@ ht-degree: 0%
 
 派生フィールド、セグメント、Workspace プロジェクトを使用して、Adobe Customer Journey Analyticsで AI によって生成されたトラフィックを特定およびフィルタリングし、人間に焦点を当てた正確な顧客インサイトを得る方法を説明します。 管理者とマーケター向けのこのクイックチュートリアルでは、ユーザーエージェント、リファラーなどを使用して LLM ボットを検出し、データをクリーンでアクションにつながる状態に保つためのステップバイステップの設定について説明します。
 
-詳しくは、Content Analytics[ ドキュメント ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"} を参照してください。
+詳しくは、Content Analytics[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"} を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478575/?learn=on&enablevpops)
