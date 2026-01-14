@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e97a621c4ccc75fbbdc08c270848d7c66ac2b072
+source-git-commit: ba07ecf441be809b3d7f92db7f7d61a2bcb7f1cb
 workflow-type: tm+mt
 source-wordcount: '584'
 ht-degree: 74%
@@ -92,7 +92,7 @@ ht-degree: 74%
       + [棒グラフのビジュアライゼーションを追加](analysis-workspace/visualizations/add-bar-visualizations.md)
       + [ブレットグラフのビジュアライゼーションの追加](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [ドーナツグラフのビジュアライゼーションの追加](analysis-workspace/visualizations/add-donut-visualizations.md)
-      + [線グラフのビジュアライゼーションの追加](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [線グラフのビジュアライゼーションの追加](analysis-workspace/visualizations/line-visualization.md)
       + [マップビジュアライゼーションの設定と使用](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [概要のビジュアライゼーションの使用](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [テキストのビジュアライゼーションの追加](analysis-workspace/visualizations/add-text-visualizations.md)
@@ -165,6 +165,6 @@ ht-degree: 74%
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列を使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
