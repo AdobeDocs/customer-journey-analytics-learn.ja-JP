@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: ba07ecf441be809b3d7f92db7f7d61a2bcb7f1cb
 workflow-type: tm+mt
 source-wordcount: '584'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -13,16 +13,16 @@ ht-degree: 74%
 # Customer Journey Analytics チュートリアル {#tutorials}
 
 + [Customer Journey Analytics の概要](overview.md)
-+ Customer Journey Analyticsの基本 {#cja-basics}
++ Customer Journey Analytics の基本 {#cja-basics}
    + [Customer Journey Analytics とは](cja-basics/what-is-customer-journey-analytics.md)
    + [Customer Journey Analytics の概要](cja-basics/understanding-customer-journey-analytics.md)
    + [新しい用語と概念](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics のランディングページ](cja-basics/customer-journey-analytics-landing-page.md)
-   + [AI アシスタントを使用](cja-basics/use-ai-assistant.md)
+   + [AI アシスタントの使用](cja-basics/use-ai-assistant.md)
 + Customer Journey Analytics B2B Edition {#b2b}
-   + [Customer Journey Analyticsの概要 – B2B edition](b2b/cja-b2b-overview.md)
-   + [CJA B2B edition – 最初の質問を超えて](b2b/cja-b2b-beyond-the-first-questions.md)
-   + [CJAとMarketoの統合（B2B インサイト向け）](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
+   + [Customer Journey Analytics - B2B Edition の概要](b2b/cja-b2b-overview.md)
+   + [CJA B2B Edition - 最初の質問を超えて](b2b/cja-b2b-beyond-the-first-questions.md)
+   + [B2B インサイト用の CJA と Marketo の統合](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + アーキテクチャ {#architecture}
    + [アーキテクチャと統合](architecture/architecture-and-integrations-of-cja.md)
 + データの準備と計画 {#data-prep}
@@ -46,7 +46,7 @@ ht-degree: 74%
    + [データビューの基本設定](data-views/basic-configuration-for-data-views.md)
    + [データビューのコンポーネント設定](data-views/configuring-component-settings-in-data-views.md)
    + [データビューのコンポーネントタイプ設定](data-views/component-type-settings-in-data-views.md)
-   + [概要レベルのデータソースの作成](data-views/create-summary-level-data-sources.md)
+   + [概要レベルデータソースの作成](data-views/create-summary-level-data-sources.md)
    + [データビューの指標の書式設定](data-views/formatting-metrics-in-data-views.md)
    + [サブ文字列コンポーネントの設定](data-views/configure-substring-component-settings.md)
    + [データビューでの指標値の包含または除外](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -60,19 +60,19 @@ ht-degree: 74%
       + [派生フィールドの作成](data-views/derived-fields/derived-fields-in-cja.md)
       + [数学関数の使用](data-views/derived-fields/use-the-math-function-in-derived-fields.md)
       + [Next 関数または Previous 関数の使用](data-views/derived-fields/use-the-next-previous-function-in-derived-fields.md)
-      + [イベントの深度をカスタマイズ](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
-      + [型キャストを使用](data-views/derived-fields/use-typecasting-in-derived-fields.md)
-      + [イベント間の時間を計算するには、日付計算を使用します](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
+      + [イベントの深度のカスタマイズ](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
+      + [タイプキャスティングの使用](data-views/derived-fields/use-typecasting-in-derived-fields.md)
+      + [日付計算を使用したイベント間の時間の計算](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
 + Data Insights Agent {#data-insights-agent}
    + [はじめに](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [ユースケース](data-insights-agent/data-insights-agent-use-cases.md)
-   + [Data Insights Agentの使用](data-insights-agent/use-the-data-insights-agent.md)
+   + [Data Insights Agent の使用](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
-   + ワークスペースプロジェクト {#workspace-projects}
+   + Workspace プロジェクト {#workspace-projects}
       + [Analysis Workspace の概要](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [新規プロジェクトの作成](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace テンプレート](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
-      + [Workspaceコメント](analysis-workspace/workspace-projects/workspace-commenting.md)
+      + [Workspace のコメント](analysis-workspace/workspace-projects/workspace-commenting.md)
       + ジャーニー分析 {#journey-analysis}
          + [ジャーニーキャンバスビジュアライゼーション](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + パネル {#panels}
@@ -93,7 +93,7 @@ ht-degree: 74%
       + [ブレットグラフのビジュアライゼーションの追加](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [ドーナツグラフのビジュアライゼーションの追加](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [線グラフのビジュアライゼーションの追加](analysis-workspace/visualizations/line-visualization.md)
-      + [マップビジュアライゼーションの設定と使用](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
+      + [マップのビジュアライゼーションの設定と使用](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [概要のビジュアライゼーションの使用](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [テキストのビジュアライゼーションの追加](analysis-workspace/visualizations/add-text-visualizations.md)
       + [散布図のビジュアライゼーションの使用](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
@@ -109,7 +109,7 @@ ht-degree: 74%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics の概要](adobe-product-analytics/adobe-product-analytics-overview.md)
 + ガイド付き分析 {#guided-analysis}
-   + [Workspaceでのガイド付き分析の使用](guided-analysis/guided-analysis-in-workspace.md)
+   + [Workspace でのガイド付き分析の使用](guided-analysis/guided-analysis-in-workspace.md)
    + [アクティブな増加](guided-analysis/active-growth.md)
    + [コンバージョントレンド](guided-analysis/conversion-trends.md)
    + [エンゲージメント](guided-analysis/engagement.md)
@@ -126,7 +126,7 @@ ht-degree: 74%
       + [セグメント：概要](components/filters/introduction-to-filters-in-cja.md)
       + [クイックセグメントの作成](components/filters/create-a-quick-filter.md)
       + [クロスチャネルセグメントの作成](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-      + [ディメンションとしてのセグメントの使用](components/filters/use-filters-as-dimensions.md)
+      + [ディメンションとしてセグメントを使用](components/filters/use-filters-as-dimensions.md)
       + [セグメントからのオーディエンスの作成](components/filters/create-audiences-from-segments.md)
       + [Adobe Analytics セグメントの Customer Journey Analytics への移行](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + ディメンション {#dimensions}
@@ -142,20 +142,20 @@ ht-degree: 74%
    + [はじめに](content-analytics/introduction-to-content-analytics.md)
    + [仕組み](content-analytics/how-it-works.md)
    + [設定を作成](content-analytics/create-configuration.md)
-   + [設定を編集](content-analytics/edit-configuration.md)
+   + [設定の編集](content-analytics/edit-configuration.md)
    + [レポート](content-analytics/reporting.md)
 + ダッシュボード（スコアカード） {#dashboards}
    + [モバイルスコアカードの作成](dashboards/create-a-mobile-scorecard.md)
    + [モバイルスコアカードへのアクセスでのエグゼクティブの支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
-+ エクスポート {#exporting}
++ 書き出し {#exporting}
    + [完全なテーブルの書き出し](exporting/full-table-export.md)
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 用の Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Report Builder を使用した Customer Journey Analytics ワークブックのスケジューリング](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
 + レポートアクティビティマネージャー {#reporting-activity-manager}
    + [レポートアクティビティマネージャーの使用](reporting-activity-manager/use-the-reporting-activity-manager.md)
-+ Experience Platformの統合 {#experience-platform-integration}
-   + [Adobe Journey Optimizerのレポート機能の強化](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
++ Experience Platform の統合 {#experience-platform-integration}
+   + [Adobe Journey Optimizer のレポートの強化](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + ユースケース {#use-cases}
    + 人工知能 {#ai}
       + [AI トラフィックの追跡と分析](use-cases/ai/track-and-analyze-ai-traffic.md)
