@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 6e704c5eed318c044e3871e3821a35e4552a5b86
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '589'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -103,7 +103,7 @@ ht-degree: 99%
    + 注釈 {#annotations}
       + [注釈を作成](analysis-workspace/annotations/create-an-annotation.md)
    + キュレーションと共有 {#curate-and-share}
-      + [Data Storytelling: スライドプレゼンテーションの作成](analysis-workspace/curate-and-share/data-storytelling-generate-slides.md)
+      + [データストーリーテリング：スライドプレゼンテーションの作成](analysis-workspace/curate-and-share/data-storytelling-generate-slides.md)
       + [Analysis Workspace で誰とでも共有](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + ヒントとテクニック {#tips-and-tricks}
       + [動的ドロップダウンセグメントの作成](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
