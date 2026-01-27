@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Adobe Experience Platform上に構築されたAdobe Customer Journey Analytics（CJA）が、従来のAdobe Analyticsの制限をどのように克服するかについて説明します。 CJAは、クロスチャネルおよびユーザーレベルのインサイト、柔軟なデータ管理、プライバシーを保護した処理、予測分析用の埋め込みジェネレーティブ AI を提供します。
 
-詳しくは、[CJAへの移行前の主な考慮事項 ](https://experienceleague.adobe.com/en/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"} を確認してください。
+詳しくは、[CJAへの移行前の主な考慮事項 &#x200B;](https://experienceleague.adobe.com/en/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"} を確認してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479326/?learn=on&enablevpops)
