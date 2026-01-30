@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 4c46adc0d3191f380d75b70234d4756832168b46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '598'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 98%
 + [Customer Journey Analytics の概要](overview.md)
 + Customer Journey Analytics の基本 {#cja-basics}
    + [Customer Journey Analytics とは](cja-basics/what-is-customer-journey-analytics.md)
-   + [CJAを選ぶ理由 CJAとAdobe Analyticsの戦略的レビュー](cja-basics/why-cja-modernize-customer-analytics.md)
+   + [CJA を選択する理由CJA と Adobe Analytics の戦略的レビュー](cja-basics/why-cja-modernize-customer-analytics.md)
    + [Customer Journey Analytics の概要](cja-basics/understanding-customer-journey-analytics.md)
    + [新しい用語と概念](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics のランディングページ](cja-basics/customer-journey-analytics-landing-page.md)
