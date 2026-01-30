@@ -22,4 +22,4 @@ Adobe Experience Platform 上に作成された Adobe Customer Journey Analytics
 
 詳しくは、[CJA への移行前の主な考慮事項](https://experienceleague.adobe.com/ja/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479327/?captions=jpn&learn=on&enablevpops)
