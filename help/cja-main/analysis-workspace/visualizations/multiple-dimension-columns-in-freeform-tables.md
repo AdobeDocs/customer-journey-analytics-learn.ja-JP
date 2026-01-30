@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # フリーフォームテーブルの複数のディメンション列
 
-CJAの複数のDimension列機能を使用すると、フリーフォームテーブルがさらに強力になります。 標準のディメンションの分類に加えて、ディメンションデータを並べて分析し、リレーショナルペアを作成して、データをより適切に表現し理解することができます。 また、高度な並べ替え機能により、テーブルをより柔軟に操作して、データを思い通りに表示できます。 詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table-multidimensions){target="_blank"} を参照してください。
+CJAの複数のDimension列機能を使用すると、フリーフォームテーブルがさらに強力になります。 標準のディメンションの分類に加えて、ディメンションデータを並べて分析し、リレーショナルペアを作成して、データをより適切に表現し理解することができます。 また、高度な並べ替え機能により、テーブルをより柔軟に操作して、データを思い通りに表示できます。 詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table-multidimensions){target="_blank"} を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479514/?learn=on&enablevpops)
