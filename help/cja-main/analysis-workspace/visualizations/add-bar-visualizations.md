@@ -21,6 +21,6 @@ ht-degree: 0%
 
 [!UICONTROL &#x200B; のプロジェクトに標準 &#x200B;] 棒グラフ [!UICONTROL &#x200B; および &#x200B;] 積み重ね棒グラフ [!DNL Analysis Workspace] ビジュアライゼーションを追加して設定 [!DNL Customer Journey Analytics] る方法を説明します。 これらは [!UICONTROL bar] 形式を使用して、複数の指標の値を表します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479604/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL &#x200B; 棒グラフ &#x200B;] のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=ja){target="_blank"} を参照してください。

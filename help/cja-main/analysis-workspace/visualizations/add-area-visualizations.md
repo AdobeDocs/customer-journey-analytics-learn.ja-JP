@@ -19,6 +19,6 @@ ht-degree: 0%
 
 [!UICONTROL &#x200B; のプロジェクトに &#x200B;] 面グラフ [!UICONTROL &#x200B; および &#x200B;] 積み重ね面グラフ [!DNL Analysis Workspace] ビジュアライゼーションを追加する方法 [!DNL Customer Journey Analytics] 説明します。 これらのビジュアライゼーションは、積集合に基づいて領域を視覚化する指標が複数ある場合に使用するのに最適です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479637/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479641/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL &#x200B; エリア &#x200B;] ビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html?lang=ja){target="_blank"} を参照してください。
