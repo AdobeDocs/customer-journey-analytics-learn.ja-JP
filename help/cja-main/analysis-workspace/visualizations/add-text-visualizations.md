@@ -22,4 +22,4 @@ Customer Journey AnalyticsのAnalysis Workspace プロジェクトにテキス�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479695/?quality=12&learn=on)
 
-[!UICONTROL &#x200B; テキスト &#x200B;] ビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"} を参照してください。
+[!UICONTROL &#x200B; テキスト &#x200B;] ビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=ja){target="_blank"} を参照してください。
