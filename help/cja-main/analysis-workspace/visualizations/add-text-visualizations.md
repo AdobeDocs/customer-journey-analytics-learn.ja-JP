@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Customer Journey AnalyticsのAnalysis Workspace プロジェクトにテキストビジュアライゼーションを追加し設定する方法を説明します。 このビジュアライゼーションは、指標に関する懸念を伝える場合や、プロジェクト内の他のデータにコンテキストを追加する場合に役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479695/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479709/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL &#x200B; テキスト &#x200B;] ビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=ja){target="_blank"} を参照してください。
