@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL  でプロジェクトに ] テキスト [!DNL Analysis Workspace] ビジュアライゼーション [!DNL Customer Journey Analytics] 追加する
+# [!UICONTROL &#x200B; でプロジェクトに &#x200B;] テキスト [!DNL Analysis Workspace] ビジュアライゼーション [!DNL Customer Journey Analytics] 追加する
 
 Customer Journey AnalyticsのAnalysis Workspace プロジェクトにテキストビジュアライゼーションを追加し設定する方法を説明します。 このビジュアライゼーションは、指標に関する懸念を伝える場合や、プロジェクト内の他のデータにコンテキストを追加する場合に役立ちます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479695/?quality=12&learn=on)
 
-[!UICONTROL  テキスト ] ビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"} を参照してください。
+[!UICONTROL &#x200B; テキスト &#x200B;] ビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"} を参照してください。
