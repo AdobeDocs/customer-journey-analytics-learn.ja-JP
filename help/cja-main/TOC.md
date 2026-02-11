@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0e2ff3688878b5d2e8f3373350608c040333225f
+source-git-commit: 33eae9d6426794f3029e2db25e242640dc1fc4c0
 workflow-type: tm+mt
-source-wordcount: '604'
-ht-degree: 98%
+source-wordcount: '609'
+ht-degree: 97%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 98%
    + [接続設定の表示、トラブルシューティング、変更](connections/connections-details-experience-in-cja.md)
    + [接続への新しいデータの追加](connections/add-past-data-to-an-existing-connection-in-cja.md)
    + [ルックアップデータおよびプロファイルデータの CJA ルックアップ](connections/cja-lookup-data.md)
+   + [オーディエンス分析の基本を学ぶ](connections/get-started-with-audience-analysis.md)
 + 訪問者の識別 {#visitor-id}
    + [CJA での ID の使用方法について](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [欠落しているユーザー ID の設定](visitor-id/configure-missing-person-id.md)
