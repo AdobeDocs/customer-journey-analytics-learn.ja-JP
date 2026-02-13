@@ -18,6 +18,6 @@ ht-degree: 0%
 
 [!UICONTROL &#x200B; でプロジェクトに &#x200B;] ドーナツ [!DNL Analysis Workspace] ビジュアライゼーションを追加し、設定する方法 [!DNL Customer Journey Analytics] 説明します。 このビジュアライゼーションは、数個の項目で、合計のパーセンテージを比較する場合に使用するのに最適です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479878/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479880/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL &#x200B; ドーナツ &#x200B;] のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=ja){target="_blank"} を参照してください。
