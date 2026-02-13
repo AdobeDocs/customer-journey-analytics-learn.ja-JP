@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 33eae9d6426794f3029e2db25e242640dc1fc4c0
+source-git-commit: 0572e7c2b67e3b17617a85d04a339c6970744de0
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 97%
@@ -97,7 +97,7 @@ ht-degree: 97%
       + [フリーフォームテーブルの複数のディメンション列](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [線グラフのビジュアライゼーションの追加](analysis-workspace/visualizations/line-visualization.md)
       + [マップのビジュアライゼーションの設定と使用](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
-      + [概要のビジュアライゼーションの使用](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [概要ビジュアライゼーションの追加](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [テキストのビジュアライゼーションの追加](analysis-workspace/visualizations/add-text-visualizations.md)
       + [散布図のビジュアライゼーションの使用](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [ツリーマップのビジュアライゼーションの追加](analysis-workspace/visualizations/add-treemap-visualizations.md)
