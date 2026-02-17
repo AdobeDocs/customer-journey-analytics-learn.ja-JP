@@ -19,6 +19,6 @@ ht-degree: 10%
 
 Adobe Customer Journey Analyticsのリアルタイムレポートが、売上高やコンバージョン、訪問回数などの主要指標をAnalysis Workspaceで直接提供する仕組みを説明します。 主要なプロモーション、製品のローンチ、ジャーニーの検証に最適な機能です。この機能を使用すると、マーケターは、毎分カウントされたときに、より迅速でデータに基づいた意思決定を行うことができます。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479943/?learn=on&enablevpops)
