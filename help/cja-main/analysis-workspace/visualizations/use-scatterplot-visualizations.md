@@ -1,6 +1,6 @@
 ---
-title: プロジェクトに [!UICONTROL  散布図 ] ビジュアライゼーション  [!DNL Analysis Workspace]  追加
-description: '[!UICONTROL  のプロジェクトで ] 散布図  [!DNL Analysis Workspace]  ビジュアライゼーションを使用する方法  [!DNL Customer Journey Analytics] ついて説明します。'
+title: プロジェクトに [!UICONTROL &#x200B; 散布図 &#x200B;] ビジュアライゼーション  [!DNL Analysis Workspace]  追加
+description: '[!UICONTROL &#x200B; のプロジェクトで &#x200B;] 散布図  [!DNL Analysis Workspace]  ビジュアライゼーションを使用する方法  [!DNL Customer Journey Analytics] ついて説明します。'
 feature: Visualizations
 kt: 13428
 role: User
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL  のプロジェクトでの ] 散布図 [!DNL Analysis Workspace] ビジュアライゼーション [!DNL Customer Journey Analytics] 使用
+# [!UICONTROL &#x200B; のプロジェクトでの &#x200B;] 散布図 [!DNL Analysis Workspace] ビジュアライゼーション [!DNL Customer Journey Analytics] 使用
 
-[!UICONTROL  のプロジェクトで ] 散布図 [!DNL Analysis Workspace] ビジュアライゼーション [!DNL Customer Journey Analytics] 使用する方法を説明します。 このビジュアライゼーションは、ディメンション項目と最大 3 つの指標との関係を表示します。
+[!UICONTROL &#x200B; のプロジェクトで &#x200B;] 散布図 [!DNL Analysis Workspace] ビジュアライゼーション [!DNL Customer Journey Analytics] 使用する方法を説明します。 このビジュアライゼーションは、ディメンション項目と最大 3 つの指標との関係を表示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
 
-[!UICONTROL  散布図 ] ビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html){target="_blank"} を参照してください。
+[!UICONTROL &#x200B; 散布図 &#x200B;] ビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html){target="_blank"} を参照してください。
