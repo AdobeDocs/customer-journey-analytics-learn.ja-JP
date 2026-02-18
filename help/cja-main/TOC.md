@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 23acbd278efd0b6bbbac65fa02b6a703790c3aef
+source-git-commit: 6184b0e86b72026dd95e9c31ac13ce674bc678f1
 workflow-type: tm+mt
-source-wordcount: '609'
-ht-degree: 95%
+source-wordcount: '610'
+ht-degree: 96%
 
 ---
 
@@ -99,7 +99,7 @@ ht-degree: 95%
       + [マップのビジュアライゼーションの設定と使用](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [概要ビジュアライゼーションの追加](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [テキストのビジュアライゼーションの追加](analysis-workspace/visualizations/add-text-visualizations.md)
-      + [散布図のビジュアライゼーションの追加](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [散布図のビジュアライゼーションを追加](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [ツリーマップのビジュアライゼーションの追加](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [100% 積み重ねビジュアライゼーションの作成](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [ビジュアライゼーションへの予測の追加](analysis-workspace/visualizations/forecasting.md)
