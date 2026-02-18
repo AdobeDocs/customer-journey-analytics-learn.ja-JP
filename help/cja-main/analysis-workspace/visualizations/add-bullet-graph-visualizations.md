@@ -18,6 +18,6 @@ ht-degree: 0%
 
 [!UICONTROL &#x200B; ブレット グラフ &#x200B;] の使用方法と、[!DNL Analysis Workspace] でプロジェクトに追加する方法 [!DNL Customer Journey Analytics] 説明します。 このグラフは、興味の値を目標と比較する方法または目標に対して測定する方法を示しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479959/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL &#x200B; ブレットグラフ &#x200B;] のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=ja){target="_blank"} を参照してください。

@@ -18,6 +18,6 @@ ht-degree: 0%
 
 [!UICONTROL &#x200B; のプロジェクトで &#x200B;] 散布図 [!DNL Analysis Workspace] ビジュアライゼーション [!DNL Customer Journey Analytics] 使用する方法を説明します。 このビジュアライゼーションは、ディメンション項目と最大 3 つの指標との関係を表示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479970/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL &#x200B; 散布図 &#x200B;] ビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=ja){target="_blank"} を参照してください。
