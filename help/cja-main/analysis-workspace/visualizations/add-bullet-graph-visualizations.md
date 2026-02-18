@@ -20,4 +20,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
 
-[!UICONTROL &#x200B; ブレットグラフ &#x200B;] のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html){target="_blank"} を参照してください。
+[!UICONTROL &#x200B; ブレットグラフ &#x200B;] のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=ja){target="_blank"} を参照してください。
