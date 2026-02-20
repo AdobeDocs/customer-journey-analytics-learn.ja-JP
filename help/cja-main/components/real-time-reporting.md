@@ -8,7 +8,8 @@ doc-type: Feature Video
 duration: 304
 last-substantial-update: 2026-02-17T00:00:00Z
 jira: KT-20294
-source-git-commit: 0985d4e9f64d79575ebde79e97eadbe89145ce38
+exl-id: 2b794de1-473f-4605-aa37-94ce18ab43a6
+source-git-commit: ad38d3670dfb90852baea4ce2f0e6813f8fe70c7
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 10%
@@ -17,8 +18,8 @@ ht-degree: 10%
 
 # リアルタイムレポート
 
-Adobe Customer Journey Analyticsのリアルタイムレポートが、売上高やコンバージョン、訪問回数などの主要指標をAnalysis Workspaceで直接提供する仕組みを説明します。 主要なプロモーション、製品のローンチ、ジャーニーの検証に最適な機能です。この機能を使用すると、マーケターは、毎分カウントされたときに、より迅速でデータに基づいた意思決定を行うことができます。
+Adobe Customer Journey Analyticsのリアルタイムレポートが、売上高やコンバージョン、訪問回数などの主要指標をAnalysis Workspaceで直接提供する仕組みを説明します。 大規模なプロモーション、製品のローンチ、ジャーニーの検証に最適な機能です。この機能を使用すると、マーケターは、毎分カウントされたときに、より迅速でデータに基づいた意思決定を行うことができます。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479943/?learn=on&enablevpops)

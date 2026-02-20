@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 6184b0e86b72026dd95e9c31ac13ce674bc678f1
+source-git-commit: ad38d3670dfb90852baea4ce2f0e6813f8fe70c7
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 96%
+source-wordcount: '616'
+ht-degree: 95%
 
 ---
 
@@ -154,6 +154,7 @@ ht-degree: 96%
    + [モバイルスコアカードへのアクセスでのエグゼクティブの支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 書き出し {#exporting}
    + [完全なテーブルの書き出し](exporting/full-table-export.md)
+   + [テーブル全体の書き出しの管理](exporting/manage-full-table-exports.md)
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 用の Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Report Builder を使用した Customer Journey Analytics ワークブックのスケジューリング](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
