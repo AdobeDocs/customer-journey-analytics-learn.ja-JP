@@ -22,4 +22,4 @@ Adobe Customer Journey Analyticsのリアルタイムレポートが、売上高
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479943/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479945/?captions=jpn&learn=on&enablevpops)
