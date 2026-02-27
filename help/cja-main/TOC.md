@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ad38d3670dfb90852baea4ce2f0e6813f8fe70c7
+source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 95%
+source-wordcount: '656'
+ht-degree: 92%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 + [Customer Journey Analytics の概要](overview.md)
 + Customer Journey Analytics の基本 {#cja-basics}
    + [Customer Journey Analytics とは](cja-basics/what-is-customer-journey-analytics.md)
-   + [CJA を選択する理由CJA と Adobe Analytics の戦略的レビュー](cja-basics/why-cja-modernize-customer-analytics.md)
+   + [CJA を選択する理由 CJA と Adobe Analytics の戦略的レビュー](cja-basics/why-cja-modernize-customer-analytics.md)
    + [Customer Journey Analytics の概要](cja-basics/understanding-customer-journey-analytics.md)
    + [新しい用語と概念](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics のランディングページ](cja-basics/customer-journey-analytics-landing-page.md)
@@ -96,8 +96,8 @@ ht-degree: 95%
       + [ドーナツグラフのビジュアライゼーションの追加](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [フリーフォームテーブルの複数のディメンション列](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [線グラフのビジュアライゼーションの追加](analysis-workspace/visualizations/line-visualization.md)
-      + [マップのビジュアライゼーションの設定と使用](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
-      + [概要ビジュアライゼーションの追加](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [マップビジュアライゼーションの追加と設定](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
+      + [概要ビジュアライゼーションを追加](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [テキストのビジュアライゼーションの追加](analysis-workspace/visualizations/add-text-visualizations.md)
       + [散布図のビジュアライゼーションを追加](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [ツリーマップのビジュアライゼーションの追加](analysis-workspace/visualizations/add-treemap-visualizations.md)
@@ -171,6 +171,6 @@ ht-degree: 95%
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列を使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analyticsのブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
