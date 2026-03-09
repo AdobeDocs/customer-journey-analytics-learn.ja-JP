@@ -9,10 +9,11 @@ doc-type: Feature Video
 duration: 196
 last-substantial-update: 2026-02-11T00:00:00Z
 jira: KT-20295
-source-git-commit: 33eae9d6426794f3029e2db25e242640dc1fc4c0
+exl-id: 29b8a927-198c-4550-85b8-7f7d81ccddb5
+source-git-commit: a15fc3695570eb29762becb091186dec61d0bf8c
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 6%
 
 ---
 
@@ -20,6 +21,6 @@ ht-degree: 7%
 
 マーケターがExperience Platformからオーディエンスセグメントを取り込み、チャネルをまたいで実際の顧客の行動を分析して、キャンペーンの最適化を向上させる方法について説明します。 オーディエンスメンバーシップデータを有効にし、事前定義済みテンプレートを探索し、パーソナライゼーション、コンバージョン、ROI を促進する実用的なインサイトを明らかにする簡単な設定手順について説明します。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479805/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
