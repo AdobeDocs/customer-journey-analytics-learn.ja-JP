@@ -23,4 +23,4 @@ ht-degree: 6%
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479805/?captions=jpn&learn=on&enablevpops)
