@@ -1,25 +1,25 @@
 ---
 title: Customer Journey Analytics の概要
-description: アドビの Customer Journey Analytics（CJA）は、Adobe Experience Platform を基に構築されたアプリケーションサービスです。Analysis Workspace と呼ばれる機能豊富な分析ツールを Platform に組み込むことで、任意の Platform データセットで複数チャネルの分析を実行できます。
-landing-page-description: 任意の Experience Platform データセットに対してマルチチャネル分析を実行する方法を説明します。
-short-description: 任意の Experience Platform データセットに対してマルチチャネル分析を実行する方法を説明します。
+description: Adobe Customer Journey Analytics（CJA）は、Adobe Experience Platform上に構築されたAdobeの次世代分析ソリューションです。
 feature: Workspace Basics
 thumbnail: 30090.jpg
 kt: 3953
 role: User, Developer, Admin, Leader
 level: Beginner
+duration: 270
+last-substantial-update: 2026-03-13T00:00:00Z
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
-source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
+source-git-commit: 792a56b240f88b4a6bf6b5f7f2be4c4fb411242e
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '105'
+ht-degree: 23%
 
 ---
 
 # Customer Journey Analytics の概要
 
-Adobe Customer Journey Analytics（CJA）は、Adobe Experience Platform を基に構築されたアプリケーションサービスです。Analysis Workspace と呼ばれる機能豊富な分析ツールを Platform に組み込むことで、任意の Platform データセットで複数チャネルの分析を実行できます。
+Adobe Customer Journey Analytics（CJA）は、Adobe Experience Platform上に構築されたAdobeの次世代分析ソリューションです。 Web サイト、モバイルアプリ、コールセンター、CRM、店舗内システムなどのオンラインおよびオフラインのデータソースを、1 つのユーザー中心のビューに統合し、チャネルとデバイスをまたいで完全なカスタマージャーニーを分析します。 Analysis Workspaceのドラッグ&amp;ドロップインターフェイスを使用して、接続されたイベントレベルのクロスチャネルレポートを作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36231/?captions=jpn&quality=12&learn=on)
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-landing){target="_blank"}を参照してください。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja){target="_blank"}を参照してください。
+>[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&learn=on)
