@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
+source-git-commit: ecd7a9b9945766f6d98bf8cf84e08da3c5de48e5
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 92%
+source-wordcount: '661'
+ht-degree: 89%
 
 ---
 
@@ -15,14 +15,14 @@ ht-degree: 92%
 + [Customer Journey Analytics の概要](overview.md)
 + Customer Journey Analytics の基本 {#cja-basics}
    + [Customer Journey Analytics とは](cja-basics/what-is-customer-journey-analytics.md)
-   + [CJA を選択する理由 CJA と Adobe Analytics の戦略的レビュー](cja-basics/why-cja-modernize-customer-analytics.md)
+   + [CJA を選択する理由 CJAとAdobe Analyticsの戦略的レビュー](cja-basics/why-cja-modernize-customer-analytics.md)
    + [Customer Journey Analytics の概要](cja-basics/understanding-customer-journey-analytics.md)
-   + [新しい用語と概念](cja-basics/new-terms-and-concepts-in-cja.md)
+   + [Analytics からCJAへ：新しい用語とそのマッピング方法](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics のランディングページ](cja-basics/customer-journey-analytics-landing-page.md)
    + [AI アシスタントの使用](cja-basics/use-ai-assistant.md)
 + Customer Journey Analytics B2B Edition {#b2b}
    + [Customer Journey Analytics - B2B Edition の概要](b2b/cja-b2b-overview.md)
-   + [CJA B2B Edition - 最初の質問を超えて](b2b/cja-b2b-beyond-the-first-questions.md)
+   + [CJA B2B edition – 最初の質問の先へ](b2b/cja-b2b-beyond-the-first-questions.md)
    + [B2B インサイト用の CJA と Marketo の統合](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + アーキテクチャ {#architecture}
    + [アーキテクチャと統合](architecture/architecture-and-integrations-of-cja.md)
