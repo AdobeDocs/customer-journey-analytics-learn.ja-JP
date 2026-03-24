@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ecd7a9b9945766f6d98bf8cf84e08da3c5de48e5
+source-git-commit: c4adc96faebf26fd3e0e58fe38b2a0a7f3c2d5c4
 workflow-type: tm+mt
-source-wordcount: '661'
-ht-degree: 89%
+source-wordcount: '668'
+ht-degree: 88%
 
 ---
 
@@ -17,12 +17,12 @@ ht-degree: 89%
    + [Customer Journey Analytics とは](cja-basics/what-is-customer-journey-analytics.md)
    + [CJA を選択する理由 CJAとAdobe Analyticsの戦略的レビュー](cja-basics/why-cja-modernize-customer-analytics.md)
    + [Customer Journey Analytics の概要](cja-basics/understanding-customer-journey-analytics.md)
-   + [Analytics からCJAへ：新しい用語とそのマッピング方法](cja-basics/new-terms-and-concepts-in-cja.md)
+   + [Adobe AnalyticsからCJAへ：新用語とそのマッピング方法](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics のランディングページ](cja-basics/customer-journey-analytics-landing-page.md)
    + [AI アシスタントの使用](cja-basics/use-ai-assistant.md)
 + Customer Journey Analytics B2B Edition {#b2b}
    + [Customer Journey Analytics - B2B Edition の概要](b2b/cja-b2b-overview.md)
-   + [CJA B2B edition – 最初の質問の先へ](b2b/cja-b2b-beyond-the-first-questions.md)
+   + [CJA B2B edition – 最初の質問を超える](b2b/cja-b2b-beyond-the-first-questions.md)
    + [B2B インサイト用の CJA と Marketo の統合](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + アーキテクチャ {#architecture}
    + [アーキテクチャと統合](architecture/architecture-and-integrations-of-cja.md)
@@ -37,12 +37,13 @@ ht-degree: 89%
    + [接続設定の表示、トラブルシューティング、変更](connections/connections-details-experience-in-cja.md)
    + [接続への新しいデータの追加](connections/add-past-data-to-an-existing-connection-in-cja.md)
    + [ルックアップデータおよびプロファイルデータの CJA ルックアップ](connections/cja-lookup-data.md)
-   + [オーディエンス分析の基本を学ぶ](connections/get-started-with-audience-analysis.md)
+   + [オーディエンス分析を始める](connections/get-started-with-audience-analysis.md)
 + 訪問者の識別 {#visitor-id}
    + [CJA での ID の使用方法について](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
-   + [欠落しているユーザー ID の設定](visitor-id/configure-missing-person-id.md)
    + [ステッチの概要](visitor-id/overview-of-stitching.md)
+   + [プレビューを使用したデータとステッチ品質の検証](visitor-id/validate-identity-stitching-quality.md)
    + [ステッチの有効化と検証](visitor-id/stitching-enablement-and-validation.md)
+   + [欠落しているユーザー ID の設定](visitor-id/configure-missing-person-id.md)
 + データビュー {#data-views}
    + [CJA のデータビュー設定の概要](data-views/overview-of-configuring-data-views-for-cja.md)
    + [データビューの基本設定](data-views/basic-configuration-for-data-views.md)
@@ -99,9 +100,9 @@ ht-degree: 89%
       + [マップビジュアライゼーションの追加と設定](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [概要ビジュアライゼーションを追加](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [テキストのビジュアライゼーションの追加](analysis-workspace/visualizations/add-text-visualizations.md)
-      + [散布図のビジュアライゼーションを追加](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [散布図ビジュアライゼーションの追加](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [ツリーマップのビジュアライゼーションの追加](analysis-workspace/visualizations/add-treemap-visualizations.md)
-      + [100% 積み重ねビジュアライゼーションの作成](analysis-workspace/visualizations/create-stacked-visualizations.md)
+      + [100%積み重ねビジュアライゼーションの作成](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [ビジュアライゼーションへの予測の追加](analysis-workspace/visualizations/forecasting.md)
    + 注釈 {#annotations}
       + [注釈を作成](analysis-workspace/annotations/create-an-annotation.md)
@@ -154,7 +155,7 @@ ht-degree: 89%
    + [モバイルスコアカードへのアクセスでのエグゼクティブの支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 書き出し {#exporting}
    + [完全なテーブルの書き出し](exporting/full-table-export.md)
-   + [テーブル全体の書き出しの管理](exporting/manage-full-table-exports.md)
+   + [テーブルの書き出しの管理と管理](exporting/manage-full-table-exports.md)
    + Report Builder {#report-builder}
       + [Customer Journey Analytics 用の Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Report Builder を使用した Customer Journey Analytics ワークブックのスケジューリング](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
@@ -171,6 +172,6 @@ ht-degree: 89%
    + 複雑なデータ {#complex-data}
       + [オブジェクトの配列を使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
-   + [Customer Journey Analyticsのブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
