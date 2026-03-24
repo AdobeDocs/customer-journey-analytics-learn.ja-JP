@@ -21,6 +21,6 @@ Customer Journey Analyticsのデータセットプレビュー機能について
 
 取り込み前に、信頼性の高いクロスデバイスおよびクロスチャネルレポートに対するデータセットの適合性を評価します。リアルタイムのインサイトにより、価値実現までの時間を大幅に短縮し、リスクを排除するID戦略の決定を可能にします。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/validate){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/stitching/validate){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
