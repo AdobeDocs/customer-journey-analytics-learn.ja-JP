@@ -23,4 +23,4 @@ Customer Journey Analyticsのデータセットプレビュー機能について
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/stitching/validate){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481893/?captions=jpn&learn=on&enablevpops)
