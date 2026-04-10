@@ -19,4 +19,4 @@ ht-degree: 0%
 Adobe Analyticsのイージーモード機能によって、Analysis Workspaceの隠れた機能が明らかになり、パワフルなツールにアクセスしたり、ワークフローを合理化したりできるようになった例を紹介します。
 
 <!-- 62_S102_3442449_82_analytics-easy-mode-simplifying-workspace-for-all-users -->
->[!VIDEO](https://video.tv.adobe.com/v/3458343/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459716/?captions=jpn&learn=on&enablevpops=true)

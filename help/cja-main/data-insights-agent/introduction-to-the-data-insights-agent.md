@@ -25,7 +25,7 @@ ht-degree: 99%
 
 Customer Journey Analytics の [!DNL Data Insights Agent] について説明します。 この AI 駆動型ソリューションは、マーケターやビジネス関係者に即時の透明なインサイトを提供し、遅延や広範なトレーニングを排除して、アナリストを戦略的なタスクに集中させます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463898/?captions=jpn&learn=on&enablevpops)
 
 
 ## Data Insights Agent のユースケース
@@ -42,7 +42,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="data-insights-agent-use-cases.md" title="Data Insights Agent のユースケース" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463896/?format=jpeg&nocache=1742338375674" alt="Data Insights Agent のユースケース"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463909/?captions=jpn&format=jpeg&nocache=1742338375674" alt="Data Insights Agent のユースケース"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -77,7 +77,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="use-the-data-insights-agent.md" title="Data Insights Agent の使用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463897/?format=jpeg&nocache=1742338375674" alt="Data Insights Agent の使用"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463920/?captions=jpn&format=jpeg&nocache=1742338375674" alt="Data Insights Agent の使用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -19,4 +19,4 @@ ht-degree: 0%
 Adobe Experience Platformにおける拡張可能かつ効率的な実装を実現するための、主要なデータモデリングとID戦略をご確認ください。
 
 <!-- 72_S655_3442541_100_best-practices-for-data-modeling-and-identity-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3458310/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459825/?captions=jpn&learn=on&enablevpops=true)

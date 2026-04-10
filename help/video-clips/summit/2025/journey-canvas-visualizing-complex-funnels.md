@@ -19,4 +19,4 @@ ht-degree: 0%
 CJAのジャーニーキャンバスは、マルチステップのファネルを作成し、ユーザージャーニーを分析するための強力な視覚化ツールです。
 
 <!-- 72_S103_3442450_134_journey-canvas-visualizing-complex-funnels -->
->[!VIDEO](https://video.tv.adobe.com/v/3458364/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460146/?captions=jpn&learn=on&enablevpops=true)

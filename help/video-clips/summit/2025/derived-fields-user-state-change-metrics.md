@@ -19,4 +19,4 @@ ht-degree: 0%
 シルバーからゴールドへの移行など、ユーザートランジションの指標を作成し、CJAの派生フィールドを使用してマーケティングチャネルに関連付ける方法をご確認ください。
 
 <!-- 85_S103_3442450_125_derived-fields-user-state-change-metrics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458355/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460027/?captions=jpn&learn=on&enablevpops=true)
