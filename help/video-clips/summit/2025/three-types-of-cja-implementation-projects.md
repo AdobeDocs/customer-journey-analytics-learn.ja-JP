@@ -1,23 +1,22 @@
 ---
-title: 3 種類のCJA実装プロジェクト
-description: Customer Journey Analyticsの 3 種類の実装プロジェクト、概念実証、暫定マルチチャネルのユースケース、完全な実装について説明します。
+title: 3種類のCJA導入プロジェクト
+description: Customer Journey Analyticsの導入プロジェクト、概念実証、暫定的なマルチチャネルのユースケース、包括的な導入の3つのタイプについてご紹介します。
 doc-type: Short Video
 duration: 77
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 05f25d0c-fa6a-4998-8460-82af4eeffff5
-source-git-commit: c169a205a9088da0982548d448500f15b2027c06
+source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# 3 種類のCJA実装プロジェクト
+# 3種類のCJA導入プロジェクト
 
-Customer Journey Analytics実装プロジェクトには、概念実証、暫定マルチチャネルのユースケース、完全な実装の 3 種類があります。
+Customer Journey Analytics導入プロジェクトには、概念実証、暫定的なマルチチャネルのユースケース、包括的な導入の3つの種類があります。
 
 <!-- 62_S113_3442460_77_three-types-of-cja-implementation-projects -->
->[!VIDEO](https://video.tv.adobe.com/v/3463016/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3463016/?captions=jpn&learn=on&enablevpops=true)

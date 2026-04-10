@@ -1,23 +1,22 @@
 ---
-title: Analytics 簡易モード – すべてのユーザーに対するWorkspaceのシンプル化
-description: Analytics のイージーモードでAnalysis Workspaceの隠された機能が表示され、強力なツールに簡単にアクセスしてワークフローを効率化する方法を説明します。
+title: Analyticsのイージーモード – すべてのユーザーに対するWorkspaceの簡素化
+description: Adobe Analyticsのイージーモード機能によって、Analysis Workspaceの隠れた機能が明らかになり、パワフルなツールにアクセスしたり、ワークフローを合理化したりできるようになった例を紹介します。
 doc-type: Short Video
 duration: 82
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: e004a399-77f0-4e41-a033-b41ac23b4602
-source-git-commit: c169a205a9088da0982548d448500f15b2027c06
+source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Analytics 簡易モード：すべてのユーザーに対するWorkspaceのシンプル化
+# Analyticsのイージーモード：すべてのユーザーにWorkspaceを簡素化
 
-Analytics のイージーモードでAnalysis Workspaceの隠された機能が表示され、強力なツールに簡単にアクセスしてワークフローを効率化する方法を説明します。
+Adobe Analyticsのイージーモード機能によって、Analysis Workspaceの隠れた機能が明らかになり、パワフルなツールにアクセスしたり、ワークフローを合理化したりできるようになった例を紹介します。
 
 <!-- 62_S102_3442449_82_analytics-easy-mode-simplifying-workspace-for-all-users -->
->[!VIDEO](https://video.tv.adobe.com/v/3459716/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3459716/?captions=jpn&learn=on&enablevpops=true)

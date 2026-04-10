@@ -1,13 +1,12 @@
 ---
-title: Adobe Experience Platformでのデータモデリングと ID のベストプラクティス
-description: Adobe Experience Platformでのスケーラブルで効率的な実装を確保するための主要なデータモデリングおよび ID 戦略について説明します。
+title: Adobe Experience PlatformでのデータモデリングとIDのベストプラクティス
+description: Adobe Experience Platformにおける拡張可能かつ効率的な実装を実現するための、主要なデータモデリングとID戦略をご確認ください。
 doc-type: Short Video
 duration: 101
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: c169a205a9088da0982548d448500f15b2027c06
+source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -15,9 +14,9 @@ ht-degree: 0%
 ---
 
 
-# Adobe Experience Platformでのデータモデリングと ID のベストプラクティス
+# Adobe Experience PlatformでのデータモデリングとIDのベストプラクティス
 
-Adobe Experience Platformでのスケーラブルで効率的な実装を確保するための主要なデータモデリングおよび ID 戦略について説明します。
+Adobe Experience Platformにおける拡張可能かつ効率的な実装を実現するための、主要なデータモデリングとID戦略をご確認ください。
 
 <!-- 72_S655_3442541_100_best-practices-for-data-modeling-and-identity-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3459825/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3459825/?captions=jpn&learn=on&enablevpops=true)

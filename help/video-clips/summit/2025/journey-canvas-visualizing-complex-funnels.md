@@ -1,23 +1,22 @@
 ---
-title: ジャーニーキャンバス – 複雑なファネルの視覚化
-description: 複数ステップのファネルを作成し、ユーザージャーニーを分析するための強力なビジュアライゼーションツールである、CJAのジャーニーキャンバスについて説明します。
+title: ジャーニーキャンバス – 複雑なファネルを視覚化する
+description: CJAのジャーニーキャンバスは、マルチステップのファネルを作成し、ユーザージャーニーを分析するための強力な視覚化ツールです。
 doc-type: Short Video
 duration: 134
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 17e85065-589b-4565-b0ec-e3288f84d488
-source-git-commit: c169a205a9088da0982548d448500f15b2027c06
+source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# ジャーニーキャンバス：複雑なファネルの視覚化
+# ジャーニーキャンバス：複雑なファネルを視覚化する
 
-複数ステップのファネルを作成し、ユーザージャーニーを分析するための強力なビジュアライゼーションツールである、CJAのジャーニーキャンバスについて説明します。
+CJAのジャーニーキャンバスは、マルチステップのファネルを作成し、ユーザージャーニーを分析するための強力な視覚化ツールです。
 
 <!-- 72_S103_3442450_134_journey-canvas-visualizing-complex-funnels -->
->[!VIDEO](https://video.tv.adobe.com/v/3460146/?learn=on&enablevpops=true&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3460146/?captions=jpn&learn=on&enablevpops=true)
