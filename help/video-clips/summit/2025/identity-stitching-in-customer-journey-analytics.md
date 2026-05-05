@@ -19,4 +19,4 @@ ht-degree: 0%
 CJAで合成するフィールドベースとグラフベースの2種類のIDと、それらがオムニチャネル分析にどのように役立つのかをご紹介します。
 
 <!-- 62_S113_3442460_74_identity-stitching-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458335/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459990/?captions=jpn&learn=on&enablevpops=true)

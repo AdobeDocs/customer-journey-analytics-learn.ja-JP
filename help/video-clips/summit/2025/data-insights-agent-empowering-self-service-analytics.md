@@ -19,4 +19,4 @@ ht-degree: 0%
 Data Insights Agentを利用して、ユーザーが自然言語で質問し、数秒で実用的なインサイトを生成する方法をご紹介します。
 
 <!-- 62_S106_3442453_59_data-insights-agent-empowering-selfservice-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458304/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459880/?captions=jpn&learn=on&enablevpops=true)

@@ -19,4 +19,4 @@ ht-degree: 0%
 Customer Journey Analyticsのサマリーデータソースを使用して、マーケティングコストのレポート、広告費用対効果の計算、企業目標の追跡を行う方法について説明します。
 
 <!-- 72_S103_3442450_161_breaking-data-limits-with-summary-data-sources -->
->[!VIDEO](https://video.tv.adobe.com/v/3458347/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460077/?captions=jpn&learn=on&enablevpops=true)
