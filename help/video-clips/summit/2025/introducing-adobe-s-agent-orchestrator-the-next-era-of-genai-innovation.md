@@ -7,7 +7,7 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 7043655f-c859-4e8b-9750-9b201892ac40
-source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
+source-git-commit: c6c3de3847a8017c833d52d82fa92bd83f27b1ed
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 AdobeのAgent Orchestratorの詳細と、AIを活用したエージェントにより、リアルタイムで詳細にパーソナライズされた顧客体験を実現する方法をご確認ください。
 
 <!-- 62_S653_3442539_67_introducing-adobes-agent-orchestrator-the-next-era-of-genai-innovation -->
->[!VIDEO](https://video.tv.adobe.com/v/3460045/?captions=jpn&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458307/?learn=on&enablevpops=true)
