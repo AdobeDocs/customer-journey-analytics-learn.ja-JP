@@ -22,4 +22,4 @@ ht-degree: 8%
 
 詳しくは、Content Analytics [ドキュメント](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3486313/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486315/?captions=jpn&learn=on&enablevpops)

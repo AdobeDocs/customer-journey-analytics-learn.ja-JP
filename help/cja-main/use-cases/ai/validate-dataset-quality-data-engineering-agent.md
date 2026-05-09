@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Data Engineering Agentのデータ検証スキルを使用して、Adobe Customer Journey Analytics データセットをすばやくプロファイル化し、検証する方法を説明します。 Customer Journey Analyticsでレポートやジャーニーを構築する前に、無効な値を検出し、フィールドレベルのパターンを理解し、AIを活用したインサイトを活用してデータ品質を向上させる方法をご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3486277/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486278/?captions=jpn&learn=on&enablevpops)
