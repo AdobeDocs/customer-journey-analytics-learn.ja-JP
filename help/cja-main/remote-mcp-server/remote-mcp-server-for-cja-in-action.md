@@ -22,4 +22,4 @@ Claude、ChatGPT、CursorなどのAI ツールをCJA（Adobe Customer Journey An
 
 詳しくは、Content Analytics [ドキュメント](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3486314/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486326/?captions=jpn&learn=on&enablevpops)
