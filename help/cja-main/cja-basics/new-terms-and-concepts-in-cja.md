@@ -39,6 +39,6 @@ ht-degree: 53%
 
 コア指標、レポートスイート、変数などの使い慣れた概念を Customer Journey Analytics の同等の概念にマッピングして、Adobe Analytics の既存の知識を CJA に変換する方法について説明します。 この概要動画では、CJAとExperience Platformの関係を説明し、インターフェイスでこれらのマッピングされた用語を検索する場所を示します。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)

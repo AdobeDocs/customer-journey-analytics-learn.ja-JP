@@ -31,4 +31,4 @@ ht-degree: 20%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
 
-[!UICONTROL 箇条書きグラフ &#x200B;]のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html){target="_blank"}を参照してください。
+[!UICONTROL 箇条書きグラフ &#x200B;]のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=ja){target="_blank"}を参照してください。

@@ -31,4 +31,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479879/?quality=12&learn=on)
 
-[!UICONTROL 概要]のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html){target="_blank"}を参照してください。
+[!UICONTROL 概要]のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=ja){target="_blank"}を参照してください。

@@ -42,6 +42,6 @@ ht-degree: 73%
 
 [!DNL Content Analytics] ガイド付きワークフローの使用方法を説明します。 マーケターの設定プロセスを簡素化し、Customer Journey Analytics 内での効率的なデータ収集、処理、レポーティングを可能にします。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458438/?learn=on&enablevpops)

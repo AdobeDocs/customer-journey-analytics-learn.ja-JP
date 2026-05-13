@@ -37,6 +37,6 @@ ht-degree: 22%
 
 [!DNL Customer Journey Analytics]のレポート アクティビティ マネージャーを使用して、組織接続のレポート容量を監視および管理します。 このビデオでは、主要な指標へのアクセス、パフォーマンスの問題のトラブルシューティング、システム効率の最適化について説明します。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)

@@ -29,4 +29,4 @@ Customer Journey Analyticsの&#x200B;**first use impact**&#x200B;で、ユーザ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html){target="_blank"} を参照してください。
+詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=ja){target="_blank"} を参照してください。

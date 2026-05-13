@@ -39,6 +39,6 @@ ht-degree: 18%
 
 Customer Journey Analyticsのクイックインサイトパネルを使用して、ビジネス上の疑問にすばやく簡単に回答する方法を説明します。 新しいユーザーや高度なアナリストに適したこのパネルを使用すると、分析に最適なコンポーネントの組み合わせを生成するために、ディメンション、指標、ビジュアライゼーション、セグメントを直感的に試すことができます。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)

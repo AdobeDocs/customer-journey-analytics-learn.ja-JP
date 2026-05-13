@@ -32,4 +32,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
 
-[!UICONTROL 散布図]のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html){target="_blank"}を参照してください。
+[!UICONTROL 散布図]のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=ja){target="_blank"}を参照してください。

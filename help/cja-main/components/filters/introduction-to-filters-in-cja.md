@@ -32,7 +32,7 @@ ht-degree: 17%
 
 # セグメント：概要
 
-セグメントは、web サイト訪問者やコールセンターのエンゲージメントなどの属性やイベントにもとづいて、訪問者や顧客のサブセットを識別します。 Customer Journey Analyticsのセグメントビルダーの主要なコンポーネントについて説明します。 Customer Journey Analytics について詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}を参照してください。
+セグメントは、web サイト訪問者やコールセンターのエンゲージメントなどの属性やイベントにもとづいて、訪問者や顧客のサブセットを識別します。 Customer Journey Analyticsのセグメントビルダーの主要なコンポーネントについて説明します。 Customer Journey Analytics について詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}を参照してください。
 
 >[!NOTE]
 >
