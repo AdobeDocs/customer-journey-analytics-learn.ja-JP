@@ -5,13 +5,26 @@ feature: AI Tools
 role: Leader, User
 level: Beginner
 duration: 222
-last-substantial-update: 2025-06-12T00:00:00Z
+last-substantial-update: 2025-06-12T00:00:00.000Z
 jira: KT-18320
 exl-id: 5842ce87-aa01-4ea6-ae56-cfd49bef4fa6
-source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
+TQID: https://experienceleague.adobe.com/7gQ6ONpr450MIwBR2pdKTqvMdXr7QeROckhlyIb4rc0
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 99%
+source-wordcount: 202
+ht-degree: 100%
 
 ---
 
@@ -55,7 +68,7 @@ CARDS
                     <p class="is-size-6">マーケティング戦略開発、キャンペーン管理、ビジネスパフォーマンスレポート全体で効率性を高めます。</p>
                 </div>
                 <a href="data-insights-agent-use-cases.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -90,7 +103,7 @@ CARDS
                     <p class="is-size-6">自然言語プロンプトを使用してデータを分析し、フリーフォームテーブル、ビジュアライゼーションおよびデータ比較を生成します。</p>
                 </div>
                 <a href="use-the-data-insights-agent.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
