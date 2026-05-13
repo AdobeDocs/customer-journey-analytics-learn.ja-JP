@@ -7,9 +7,11 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 17e85065-589b-4565-b0ec-e3288f84d488
-source-git-commit: c6c3de3847a8017c833d52d82fa92bd83f27b1ed
+TQID: https://experienceleague.adobe.com/RavCMpnVZzULwoTbXG3fboDVuFxeHJGiuPOioV7miJk
+product_v2: id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+source-git-commit: 7819767ad88011dfada67e61cd0e3ce7f72b3ee5
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: 48
 ht-degree: 0%
 
 ---
@@ -19,4 +21,4 @@ ht-degree: 0%
 CJAのジャーニーキャンバスは、マルチステップのファネルを作成し、ユーザージャーニーを分析するための強力な視覚化ツールです。
 
 <!-- 72_S103_3442450_134_journey-canvas-visualizing-complex-funnels -->
->[!VIDEO](https://video.tv.adobe.com/v/3460146/?captions=jpn&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458364/?learn=on&enablevpops=true)

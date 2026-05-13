@@ -1,24 +1,30 @@
 ---
 title: ステッチの概要
-description: 複数のチャネルやデバイスをまたいで多くの個人がコンテンツとやり取りする中、これらの未認証のイベントを認証済みのイベントに接続することが重要になりました。 これにより、レポートと最終的なアクティベーションに対するより包括的なアプローチが可能になります。 このビデオでは、ステッチのプロセスの概要を簡単に説明します。
+description: 複数のチャネルやデバイスをまたいで多くの個人がコンテンツとやり取りする中、これらの未認証イベントを認証済みイベントに結び付けることが重要になります。 これにより、レポートと最終的なアクティベーションに対するより総合的なアプローチが可能になります。 このビデオでは、ステッチのプロセスの概要について説明します。
 feature: Stitching
 role: Admin, Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 495
-last-substantial-update: 2024-01-10T00:00:00Z
+last-substantial-update: 2024-01-10T00:00:00.000Z
 jira: KT-14766
 thumbnail: 3426814.jpeg
 exl-id: 19642cfa-bc16-43d5-97bb-c738c3820302
-source-git-commit: 35e9e2baa41bbcd172342ba2f9a485a281c0daef
+TQID: https://experienceleague.adobe.com/QIODuM9q8WaTkFtZhP3dnWs5t5-9jTMHWuv6R-t5zWs
+product_v2: id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+feature_v2: id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 3%
+source-wordcount: 100
+ht-degree: 100%
 
 ---
 
 # ステッチの概要
 
-複数のチャネルやデバイスをまたいで多くの個人がコンテンツとやり取りする中、これらの未認証のイベントを認証済みのイベントに接続することが重要になりました。 これにより、レポートと最終的なアクティベーションに対するより包括的なアプローチが可能になります。 このビデオでは、ステッチのプロセスの概要を簡単に説明します。
+複数のチャネルやデバイスをまたいで多くの個人がコンテンツとやり取りする中、これらの未認証イベントを認証済みイベントに結び付けることが重要になります。 これにより、レポートと最終的なアクティベーションに対するより総合的なアプローチが可能になります。 このビデオでは、ステッチのプロセスの概要について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452548/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)
