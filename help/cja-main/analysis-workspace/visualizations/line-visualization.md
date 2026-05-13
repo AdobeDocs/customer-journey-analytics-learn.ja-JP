@@ -29,4 +29,4 @@ ht-degree: 53%
 
 折れ線グラフのビジュアライゼーションにより、時間の経過と共に指標の理解を強化する方法について説明します。 Customer Journey Analytics を使用すると、X 軸と Y 軸をカスタマイズし、最小値と最大値のラベルを表示し、トレンドラインを追加して、データインサイトを向上させることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478979/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478980/?captions=jpn&learn=on&enablevpops)

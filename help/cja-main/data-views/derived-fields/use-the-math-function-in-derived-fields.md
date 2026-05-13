@@ -32,6 +32,6 @@ ht-degree: 32%
 
 このビデオチュートリアルでは、数学関数を使用して Customer Journey Analytics の派生フィールドを作成する可能性を調べます。 合計から税などの不要なコンポーネントを削除して指標を調整する方法を学び、重複排除、バケット化、アトリビューションなどの排他的なデータビュー機能を含む、計算指標よりも派生フィールドを使用する利点を理解します。 分析ニーズに合わせてカスタマイズされた指標を柔軟に作成し、データ主導の意思決定能力を強化できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447210?captions=jpn)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"} を参照してください。

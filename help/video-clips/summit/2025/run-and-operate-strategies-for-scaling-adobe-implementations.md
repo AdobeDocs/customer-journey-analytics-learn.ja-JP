@@ -25,4 +25,4 @@ ht-degree: 0%
 ユースケースの優先順位付け、モニタリング、ROIの測定など、大規模な実装を実行および運用するためのAdobeの社内戦略をご覧ください。
 
 <!-- 62_S655_3442541_95_run-and-operate-strategies-for-scaling-adobe-implementations -->
->[!VIDEO](https://video.tv.adobe.com/v/3458338/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3461081/?captions=jpn&learn=on&enablevpops=true)

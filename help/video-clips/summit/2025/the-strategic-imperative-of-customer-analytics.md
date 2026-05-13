@@ -22,4 +22,4 @@ ht-degree: 0%
 デバイスベースの分析から顧客中心の分析への移行が競争上の必要性である理由と、Customer Journey Analyticsが独自の価値をどのように提供するかをご紹介します。
 
 <!-- 62_S112_3442459_101_the-strategic-imperative-of-customer-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458322/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3463002/?captions=jpn&learn=on&enablevpops=true)

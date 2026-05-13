@@ -25,4 +25,4 @@ ht-degree: 0%
 概念実証、暫定的なソリューション、包括的な導入戦略など、Customer Journey Analyticsを導入するためのベストプラクティスをご紹介します。
 
 <!-- 62_S113_3442460_211_best-practices-for-implementing-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458311/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460067/?captions=jpn&learn=on&enablevpops=true)

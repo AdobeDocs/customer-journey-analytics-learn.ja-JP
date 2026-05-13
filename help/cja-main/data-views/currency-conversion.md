@@ -33,4 +33,4 @@ ht-degree: 16%
 
 データビューの設定を通じて、Customer Journey Analyticsで通貨変換を実行します。 この機能を使用して、異なる通貨で表示する複数の指標を作成します。 詳細なドキュメントについては、[&#x200B; コンポーネント設定の書式設定](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=ja#currency){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447525/?captions=jpn&learn=on)

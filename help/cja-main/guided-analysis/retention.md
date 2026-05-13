@@ -31,6 +31,6 @@ Customer Journey Analyticsの&#x200B;**retention**&#x200B;を検索します。 
 
 開始イベントと復帰イベントを使用して、ユーザーエンゲージメントとリテンションを効果的に測定する方法について説明します。 また、旅行web サイト、e コマースプラットフォーム、生産性ツールなどを運営している場合は、さまざまなビジネスモデル向けに顧客維持率の設定を調整する方法についても説明します。 製品市場への適合を最適化し、持続的なユーザーエンゲージメントを促進するために、保持データを使用する方法に関する実用的なヒントを紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430503/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435779/?captions=jpn&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/guided-analysis/retention/retention-rates){target="_blank"} を参照してください。

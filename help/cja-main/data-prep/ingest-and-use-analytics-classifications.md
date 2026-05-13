@@ -46,7 +46,7 @@ ht-degree: 100%
 
 [!DNL Customer Journey Analytics] で [!DNL Analytics] 分類データを取り込み、使用する方法について説明します。 分類データが [!DNL Experience Platform] で使用できるようになったら、[!UICONTROL 接続]と[!UICONTROL データビュー]を更新して、[!DNL Analysis Workspace] で使用する新しい分類フィールドを含めます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423685/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL 分類]データの [!DNL Adobe Analytics] ソースコネクタについて詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=ja){target="_blank"}を参照してください。
 

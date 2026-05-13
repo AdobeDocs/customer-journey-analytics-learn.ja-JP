@@ -30,6 +30,6 @@ ht-degree: 15%
 
 エクスペリエンスパターンを見つけ出し、より優れたユーザーストーリーを伝え、実装を検証するのに役立つCustomer Journey Analyticsの&#x200B;**タイムライン**&#x200B;について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435768/?captions=jpn&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"} を参照してください。

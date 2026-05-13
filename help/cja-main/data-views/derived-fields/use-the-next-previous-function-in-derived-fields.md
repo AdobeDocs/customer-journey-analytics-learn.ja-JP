@@ -35,6 +35,6 @@ ht-degree: 12%
 
 Customer Journey Analyticsの「次へ」または「前へ」関数を使用して、データ分析を強化する複雑な派生フィールドを作成する方法を説明します。 このチュートリアルでは、マーケティングチャネルの値をユーザーレベルで連結する新しいディメンションを設定するプロセスを説明し、マーケティング戦略と収益創出に関するより深いインサイトを得ることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447734/?captions=jpn&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"} を参照してください。

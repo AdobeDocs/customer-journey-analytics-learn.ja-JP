@@ -24,4 +24,4 @@ ht-degree: 0%
 CJAの異常値検出によって、データの統計的な変動を特定し、時間を節約して、重要なインサイトを明らかにする方法を説明します。
 
 <!-- 72_S106_3442453_58_anomaly-detection-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458302/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459727/?captions=jpn&learn=on&enablevpops=true)

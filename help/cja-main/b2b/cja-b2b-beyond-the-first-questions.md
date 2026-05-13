@@ -29,4 +29,4 @@ ht-degree: 12%
 
 Adobe Customer Journey Analytics（CJA）で高度な質問を策定し、基本的な指標を超えて、B2B分析を進化させる方法を紹介します。 戦略的な機会と実用的なインサイトの獲得。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477514/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477515/?captions=jpn&learn=on)

@@ -25,4 +25,4 @@ ht-degree: 0%
 データモデリング、スキーマ設計、ID管理など、Customer Journey Analyticsの導入を成功させるために注力すべき3つの領域について解説します。
 
 <!-- 62_S655_3442541_180_implementation-best-practices-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458337/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460254/?captions=jpn&learn=on&enablevpops=true)

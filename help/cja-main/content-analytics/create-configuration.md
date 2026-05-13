@@ -44,4 +44,4 @@ ht-degree: 73%
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3458438/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458444/?captions=jpn&learn=on&enablevpops)

@@ -32,6 +32,6 @@ ht-degree: 30%
 
 ユーザーや顧客に提供するジャーニーを分析し、詳細なインサイトを得ることができる、ジャーニーキャンバスの可視化について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440627/?captions=jpn&learn=on)
 
 ユーザーは、複数の開始、パス、終了を含むジャーニーを作成できます。 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"} を参照してください。

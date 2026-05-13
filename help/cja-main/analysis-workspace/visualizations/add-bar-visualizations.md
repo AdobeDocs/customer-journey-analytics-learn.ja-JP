@@ -36,6 +36,6 @@ ht-degree: 0%
 
 [!DNL Customer Journey Analytics]の[!DNL Analysis Workspace]件のプロジェクトで、標準[!UICONTROL 棒]と[!UICONTROL 積み重ね棒]のビジュアライゼーションを追加および設定する方法について説明します。 これらは[!UICONTROL bar]形式を使用して、複数の指標の値を表します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479604/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL &#x200B; バー]のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=ja){target="_blank"}を参照してください。

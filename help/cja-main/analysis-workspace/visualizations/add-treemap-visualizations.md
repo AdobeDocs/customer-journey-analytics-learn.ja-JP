@@ -29,6 +29,6 @@ ht-degree: 0%
 
 [!DNL Customer Journey Analytics]の[!DNL Analysis Workspace] プロジェクトで[!UICONTROL &#x200B; ツリーマップ &#x200B;] ビジュアライゼーションを追加および設定する方法について説明します。 このビジュアライゼーションでは、階層的なデータをネストされた長方形のセットとして作成し、それ以外の方法では見つけにくいパターンを簡単に確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480243/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480257/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL &#x200B; ツリーマップ &#x200B;]のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=ja){target="_blank"}を参照してください。

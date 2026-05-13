@@ -27,10 +27,10 @@ ht-degree: 15%
 
 Customer Journey Analyticsの&#x200B;**funnel**&#x200B;が、製品内の重要なユーザージャーニーを視覚的に表現し、どこで摩擦が発生しているかを判断するのに役立つ方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431281/?captions=jpn&learn=on)
 
 また、1つのfunnel ステップで複数のイベントを比較して、「分岐funnel」を作成することもできます。 この「フォークされたfunnel」を使用すると、2つのジャーニーのフリクションを並べて比較できます。これは、ステップオプションがある場合や、funnel内でA/B実験を実行している場合に便利です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445800/?captions=jpn&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/guided-analysis/funnel/friction){target="_blank"} を参照してください。

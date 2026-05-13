@@ -35,4 +35,4 @@ ht-degree: 84%
 
 Adobe Customer Journey Analytics の Workspace コメントを使用して、チームでデータに対する直接共同作業を可能にする方法について説明します。 分析を開いたまま、質問し、インサイトを共有し、コンセンサスを作成します。 詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/build-workspace-project/comment-projects){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469446/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469447/?captions=jpn&learn=on&enablevpops)

@@ -27,6 +27,6 @@ ht-degree: 16%
 
 Customer Journey Analyticsの&#x200B;**リリースの影響**&#x200B;が、特定の日付の前後に実行された主要指標の比較を示す方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423451/?captions=jpn&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=ja){target="_blank"} を参照してください。

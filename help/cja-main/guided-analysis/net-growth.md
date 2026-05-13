@@ -29,6 +29,6 @@ ht-degree: 15%
 
 Customer Journey Analyticsの&#x200B;**純増加率**&#x200B;が、特定の期間にユーザーを獲得または離脱する割合に関するインサイトを提供する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423463/?captions=jpn&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=ja){target="_blank"} を参照してください。

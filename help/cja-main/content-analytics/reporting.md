@@ -36,4 +36,4 @@ ht-degree: 36%
 
 詳しくは、Content Analytics [ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/report/report){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3473037/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473038/?captions=jpn&learn=on&enablevpops)

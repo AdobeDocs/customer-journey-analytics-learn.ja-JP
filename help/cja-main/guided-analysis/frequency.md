@@ -27,6 +27,6 @@ ht-degree: 16%
 
 Customer Journey Analyticsの&#x200B;**頻度**&#x200B;により、製品内のイベントに対するユーザーエンゲージメントを分析する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435803/?captions=jpn&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/guided-analysis/trends/frequency){target="_blank"} を参照してください。

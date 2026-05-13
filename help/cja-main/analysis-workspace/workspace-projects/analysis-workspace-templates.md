@@ -37,4 +37,4 @@ ht-degree: 40%
 
 ゼロから始めるのではなく、 Workspace テンプレートを使用してWorkspaceで分析を開始する方法について説明します。 キュレートされた Adobe テンプレートから選択するか、カスタム組織テンプレート用に独自のテンプレートを作成することができます。 好みに応じて、カード表示または列表示で適切なテンプレートを参照します。 詳細なドキュメントについては、[&#x200B; テンプレートの作成と管理](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=ja){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443169/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443171/?captions=jpn&learn=on&enablevpops)

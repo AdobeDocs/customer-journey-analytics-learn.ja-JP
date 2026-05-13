@@ -34,7 +34,7 @@ ht-degree: 19%
 
 Customer Journey Analyticsは、施策や商品などの個々のIDごとに整理されていないデータを集計して分析できる、概要レベルのデータをサポートしています。 このサマリーデータをExperience Platformに統合するプロセスは、接続の作成、データビューの設定、サマリーデータとイベントデータの組み合わせによる包括的なレポートの作成を含めて説明します。 これにより、キャンペーンのパフォーマンスに関する詳細なインサイトを獲得し、CJA内のレポートの柔軟性を高めることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433305/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449410/?captions=jpn&quality=12&learn=on)
 
 ## その他のリソース
 

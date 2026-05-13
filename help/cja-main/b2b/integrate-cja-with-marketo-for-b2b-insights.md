@@ -30,4 +30,4 @@ ht-degree: 8%
 
 Customer Journey AnalyticsとMarketoを統合することで、B2B データ分析を強化する方法をご確認ください。 役職ごとに、マーケティングチャネルの貢献度、売上への影響、キャンペーンの効果に注目する。 この統合により、高度なアトリビューションモデルとオーディエンスターゲティング戦略を利用して、マーケティング活動が特に経営幹部に対して、どのように機会を創出しているのかを把握できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477503/?captions=jpn&learn=on)

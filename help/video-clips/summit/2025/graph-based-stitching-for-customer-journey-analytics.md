@@ -25,4 +25,4 @@ ht-degree: 0%
 グラフベースの合成により、複数のデータセットをシームレスに統合し、実用的なインサイトを得るために統合された顧客像を構築する方法を説明します。
 
 <!-- 62_S112_3442459_199_graphbased-stitching-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458317/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460211/?captions=jpn&learn=on&enablevpops=true)

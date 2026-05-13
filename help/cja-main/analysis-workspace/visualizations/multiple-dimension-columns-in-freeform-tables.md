@@ -27,4 +27,4 @@ ht-degree: 19%
 
 CJA の複数のディメンション列機能を使用すると、フリーフォームテーブルをさらに強力にできます。 ディメンションの標準的な分類に加えて、ディメンションのデータを並べて分析し、関係ペアを作成することで、データをより適切に表現し、理解することができます。 高度な並べ替え機能は、テーブルを操作して、データを必要な方法で表示するためのより柔軟な機能も提供します。 詳しくは、[&#x200B; ドキュメントを参照してください。](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table-multidimensions){target="_blank"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3479514/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479515/?captions=jpn&learn=on&enablevpops)

@@ -32,4 +32,4 @@ Customer Journey Analyticsの派生フィールドでイベントの深さを設
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471044/?captions=jpn&learn=on)

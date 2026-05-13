@@ -32,6 +32,6 @@ ht-degree: 100%
 
 Customer Journey Analytics から AEP データランディングゾーンと Snowflake の両方へのテーブル配信の基本的な設定について説明します。 詳しくは、[Customer Journey Analytics レポートのクラウドへの書き出し](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=ja){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450973/?captions=jpn&learn=on)
 
 「完全なテーブルの書き出し」を使用すると、ユーザーはレポートのすべての行を含む連結テーブルを、1 回限りまたはスケジュールに基づいてクラウドの宛先に安全に配信できます。  また、新しい書き出しコンポーネントマネージャーにより、すべての配信を簡単に管理できます。

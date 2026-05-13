@@ -34,6 +34,6 @@ ht-degree: 30%
 
 製品またはユーザーエンゲージメントのパフォーマンスに関する価値あるinsightを長期的に提供するCustomer Journey Analyticsの&#x200B;**trends**&#x200B;について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423442/?captions=jpn&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=ja){target="_blank"} を参照してください。

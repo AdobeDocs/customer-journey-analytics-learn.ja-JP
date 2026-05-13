@@ -32,4 +32,4 @@ Customer Journey Analyticsの派生フィールドでタイプキャストを確
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471042/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471055/?captions=jpn&learn=on)

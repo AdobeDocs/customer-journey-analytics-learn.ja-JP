@@ -29,6 +29,6 @@ ht-degree: 20%
 
 Customer Journey Analyticsの&#x200B;**コンバージョン傾向**&#x200B;が、funnel コンバージョン率の経時的な変化をどのように追跡しているかをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423489/?captions=jpn&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=ja){target="_blank"} を参照してください。
