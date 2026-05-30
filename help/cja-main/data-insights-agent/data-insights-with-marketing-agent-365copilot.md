@@ -32,6 +32,6 @@ ht-degree: 0%
 
 マーケターがAnalytics データについて自然言語で質問し、Customer Journey Analyticsからビジュアライゼーションとデータを取得するので、[!DNL Microsoft Teams]の[!DNL Adobe Marketing Agent]のデモをご覧ください。
 
-サポートされているその他の[&#x200B; マーケティングワークフロー](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}、および前提条件、データアクセスおよび権限を含む[はじめに](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}について、これらのビデオをご覧ください。
+サポートされているその他の[&#x200B; マーケティングワークフロー](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}、および前提条件、データアクセスおよび権限を含む[はじめに](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}について、これらのビデオをご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491195/?captions=jpn&learn=on&enablevpops)
