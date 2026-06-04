@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 19f938ab38373fe13067802478d11a0c92e10f45
+source-git-commit: 1ae23458447742f1e5d57b6e719f3ccb5c106084
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '701'
 ht-degree: 84%
 
 ---
@@ -92,6 +92,7 @@ ht-degree: 84%
       + [テンプレートの使用](analysis-workspace/templates/use-templates.md)
       + [カスタムテンプレートの作成](analysis-workspace/templates/create-custom-templates.md)
    + ビジュアライゼーション {#visualizations}
+      + [ビジュアライゼーションにデータを取り込む](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [クロスチャネルビジュアライゼーションの作成](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [クロスチャネルアトリビューション](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
       + [インテリジェントキャプションの作成](analysis-workspace/visualizations/intelligent-captions.md)
