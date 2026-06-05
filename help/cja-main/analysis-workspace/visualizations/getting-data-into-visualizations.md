@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 18960
 last-substantial-update: 2026-06-04T00:00:00Z
 jira: KT-21501
-source-git-commit: 1cbb46b9cdee6d6e2741bfbb81b728b9948805c8
+source-git-commit: 1e29985a2b917e9861c21f5c84d3eed0dcb8e21d
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 87%
+source-wordcount: '86'
+ht-degree: 75%
 
 ---
 
 
 # ビジュアライゼーションにデータを取り込む
 
-Analysis Workspace でビジュアライゼーションを追加する場合、ビジュアライゼーションのタイプに応じて、データを追加する方法がいくつかあります。 このビデオでは、これらの方法を説明します。
+Analysis Workspace でビジュアライゼーションを追加する場合、ビジュアライゼーションのタイプに応じて、データを追加する方法がいくつかあります。 このビデオでは、これらの方法を説明します。 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"} を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491932/?learn=on&enablevpops)
