@@ -20,4 +20,4 @@ ht-degree: 75%
 
 Analysis Workspace でビジュアライゼーションを追加する場合、ビジュアライゼーションのタイプに応じて、データを追加する方法がいくつかあります。 このビデオでは、これらの方法を説明します。 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"} を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491932/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491933/?captions=jpn&learn=on&enablevpops)
