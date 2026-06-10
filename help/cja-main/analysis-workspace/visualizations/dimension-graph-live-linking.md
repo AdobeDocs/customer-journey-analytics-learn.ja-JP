@@ -26,4 +26,4 @@ ht-degree: 8%
 
 ディメンション値からビジュアライゼーションを追加または作成する場合、異なるディメンション値を選択してグラフを動的に変更するか、ビジュアライゼーションをロックして1つのディメンションまたは場所に留めることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492122/?captions=jpn&learn=on&enablevpops)
