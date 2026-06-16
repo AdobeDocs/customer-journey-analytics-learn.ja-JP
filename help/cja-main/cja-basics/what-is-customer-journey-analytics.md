@@ -1,6 +1,6 @@
 ---
 title: Customer Journey Analytics とは
-description: Customer Journey Analytics（CJA）を使用すると、Adobe Experience Platform で利用可能な任意のデータを使用して、チャネル全体で顧客のジャーニーを分析し、Analysis Workspace の機能を活用して迅速なインサイトを得ることができます。
+description: Customer Journey Analytics（CJA）の詳細と、Adobe Experience PlatformとAnalysis Workspaceのデータを使用して、チャネルをまたいでカスタマージャーニーを分析する方法についてご確認ください。
 feature: Basics
 role: Leader
 level: Beginner
@@ -9,7 +9,8 @@ last-substantial-update: 2023-04-21T00:00:00.000Z
 jira: KT-13135
 thumbnail: 3418680.jpeg
 exl-id: 2537a4db-517b-40d5-b1c2-42350736eb75
-TQID: https://experienceleague.adobe.com/z5kqfmKQKCZ7eCLZY0INRAvIRn-66l8nQjtPysCzcok
+autotag-review: '2026-06-16T20:37:43.669Z'
+TQID: 'https://experienceleague.adobe.com/Kvb-n67EgqrkdeIUBtIw-kquMn9MJmdHKJmDVEDheao'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
 feature_v2:
@@ -26,16 +27,17 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+source-git-commit: eb75258c05ef4858e01a37c1ce3ee003c519dd2f
 workflow-type: tm+mt
-source-wordcount: 74
-ht-degree: 100%
+source-wordcount: 62
+ht-degree: 16%
 
 ---
 
 # Customer Journey Analytics とは
 
-Customer Journey Analytics（CJA）を使用すると、Adobe Experience Platform で利用可能な任意のデータを使用して、チャネル全体で顧客のジャーニーを分析し、Analysis Workspace の機能を活用して迅速なインサイトを得ることができます。
+Customer Journey Analytics（CJA）の詳細と、Adobe Experience PlatformとAnalysis Workspaceのデータを使用して、チャネルをまたいでカスタマージャーニーを分析する方法についてご確認ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439449/?captions=jpn&quality=12&learn=on)
