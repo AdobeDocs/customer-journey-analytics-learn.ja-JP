@@ -3,39 +3,40 @@ user-guide-title: Customer Journey Analytics Video Clips
 breadcrumb-title: Customer Journey Analytics Video Clips
 user-guide-description: 顧客ジャーニー分析ビデオクリップ
 auto-video-transcripts: true
-source-git-commit: 101a5e07b246360189134119e188450d701cf12f
+source-git-commit: 7169246b493cc08c4f29471e97137ab04cbf7308
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 1%
+source-wordcount: '70'
+ht-degree: 2%
 
 ---
 
 
 # Customer Journey Analytics ビデオクリップ {#video-clips}
 
++ [概要](summit/2025/video-clip-overview.md)
 + Adobe Summit {#summit}
    + 2025年 {#2025}
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/algorithmic-attribution-a-game-changer-for-marketers.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/analytics-easy-mode-simplifying-workspace-for-all-users.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/anomaly-detection-in-customer-journey-analytics.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/audience-agent-proactive-audience-health-monitoring.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/best-practices-for-implementing-customer-journey-analytics.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/breaking-data-limits-with-summary-data-sources.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/content-analytics-ai-powered-insights-for-creative-assets.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/data-as-a-product-planning-your-cja-implementation.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/data-insights-agent-empowering-self-service-analytics.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/derived-fields-user-state-change-metrics.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/gamifying-workspace-unlock-achievements-in-customer-journey-analytics.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/graph-based-stitching-for-customer-journey-analytics.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/how-ai-assistant-transforms-data-insights-in-adobe-experience-platform.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/how-genai-enhances-customer-journey-analytics.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/identity-stitching-in-customer-journey-analytics.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/implementation-best-practices-for-customer-journey-analytics.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/in-line-derived-fields-real-time-data-transformation-in-cja.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/introducing-adobe-s-agent-orchestrator-the-next-era-of-genai-innovation.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/journey-canvas-visualizing-complex-funnels.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/run-and-operate-strategies-for-scaling-adobe-implementations.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/the-strategic-imperative-of-customer-analytics.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/three-types-of-cja-implementation-projects.md)
-      + {hide-from-toc}[&#x200B; ビデオ ショート &#x200B;](./summit/2025/understanding-customer-journey-analytics-as-your-dream-home.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/algorithmic-attribution-a-game-changer-for-marketers.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/analytics-easy-mode-simplifying-workspace-for-all-users.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/anomaly-detection-in-customer-journey-analytics.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/audience-agent-proactive-audience-health-monitoring.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/best-practices-for-implementing-customer-journey-analytics.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/breaking-data-limits-with-summary-data-sources.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/content-analytics-ai-powered-insights-for-creative-assets.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/data-as-a-product-planning-your-cja-implementation.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/data-insights-agent-empowering-self-service-analytics.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/derived-fields-user-state-change-metrics.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/gamifying-workspace-unlock-achievements-in-customer-journey-analytics.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/graph-based-stitching-for-customer-journey-analytics.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/how-ai-assistant-transforms-data-insights-in-adobe-experience-platform.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/how-genai-enhances-customer-journey-analytics.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/identity-stitching-in-customer-journey-analytics.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/implementation-best-practices-for-customer-journey-analytics.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/in-line-derived-fields-real-time-data-transformation-in-cja.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/introducing-adobe-s-agent-orchestrator-the-next-era-of-genai-innovation.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/journey-canvas-visualizing-complex-funnels.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/run-and-operate-strategies-for-scaling-adobe-implementations.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/the-strategic-imperative-of-customer-analytics.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/three-types-of-cja-implementation-projects.md)
+      + {hide-from-toc}[ ビデオ ショート ](./summit/2025/understanding-customer-journey-analytics-as-your-dream-home.md)
 
