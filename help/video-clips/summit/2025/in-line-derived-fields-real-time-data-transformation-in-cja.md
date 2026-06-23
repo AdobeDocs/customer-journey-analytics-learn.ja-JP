@@ -25,5 +25,5 @@ ht-degree: 0%
 インライン派生フィールドを使用して、Customer Journey Analyticsで直接データをクリーニングおよびグループ化し、管理者への依存を減らし、時間を節約する方法をご覧ください。
 
 <!-- 62_S102_3442449_192_inline-derived-fields-realtime-data-transformation-in-cja -->
->[!VIDEO](https://video.tv.adobe.com/v/3458362/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460287/?captions=jpn&learn=on&enablevpops=true)
 

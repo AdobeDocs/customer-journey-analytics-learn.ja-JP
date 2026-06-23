@@ -26,5 +26,5 @@ ht-degree: 0%
 生成AIを活用して、インサイトを可視化し、オーディエンスに権限を与え、データ分析をよりアクセスしやすくすることで、Customer Journey Analyticsがどのように変化するのかをご確認ください。
 
 <!-- 62_S106_3442453_47_how-genai-enhances-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458377/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459984/?captions=jpn&learn=on&enablevpops=true)
 

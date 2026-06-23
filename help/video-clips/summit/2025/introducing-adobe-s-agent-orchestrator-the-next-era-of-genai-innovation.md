@@ -24,5 +24,5 @@ ht-degree: 0%
 AdobeのAgent Orchestratorの詳細と、AIを活用したエージェントにより、リアルタイムで詳細にパーソナライズされた顧客体験を実現する方法をご確認ください。
 
 <!-- 62_S653_3442539_67_introducing-adobes-agent-orchestrator-the-next-era-of-genai-innovation -->
->[!VIDEO](https://video.tv.adobe.com/v/3458307/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460045/?captions=jpn&learn=on&enablevpops=true)
 
