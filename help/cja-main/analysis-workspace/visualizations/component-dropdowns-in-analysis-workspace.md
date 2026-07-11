@@ -20,4 +20,4 @@ ht-degree: 46%
 
 コンポーネントドロップダウンを使用して、互換性のあるコンポーネントのリストから選択し、ビジュアライゼーションを構築します。 必要なものが見つからない場合は、ドロップダウンから直接新しいコンポーネントを作成することもできます。 これらのスペースは、より高度なユースケースの場合には、ドロップゾーンとしても引き続き機能します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3493204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3493205/?captions=jpn&learn=on&enablevpops)
