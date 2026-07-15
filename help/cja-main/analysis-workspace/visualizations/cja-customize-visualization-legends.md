@@ -28,4 +28,4 @@ ht-degree: 95%
 
 ビジュアライゼーションの凡例をカスタマイズ（「シリーズラベル編集」とも呼ばれます）すると、レポートを見るすべての人にとってビジュアライゼーションをわかりやすくできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3495833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495834/?captions=jpn&learn=on&enablevpops)
