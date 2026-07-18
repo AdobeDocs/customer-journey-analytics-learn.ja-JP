@@ -22,4 +22,4 @@ ht-degree: 6%
 
 以下の埋め込みビデオでは、この機能を効果的に使用する手順を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3495991/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495992/?captions=jpn&learn=on&enablevpops)
