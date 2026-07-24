@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f61c6bc86fd5e37978a747aeaaf4468a19b33fa9
+source-git-commit: d3821dc564d27928dc86587fcb2dd21b27b4ae1f
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 82%
+source-wordcount: '736'
+ht-degree: 81%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 82%
     + [フリーフォームテーブルの複数のディメンション列](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
     + [線グラフのビジュアライゼーションの追加](analysis-workspace/visualizations/line-visualization.md)
     + [折れ線グラフにトレンドラインを追加する](analysis-workspace/visualizations/cja-add-trendlines-to-line-visualizations.md)
+    + [指標のスムージングに累積平均関数を使用する](analysis-workspace/visualizations/cja-use-the-cumulative-average-function-for-metric-smoothing.md)
     + [マップビジュアライゼーションの追加と設定](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
     + [概要ビジュアライゼーションを追加](analysis-workspace/visualizations/use-summary-visualizations.md)
     + [テキストのビジュアライゼーションの追加](analysis-workspace/visualizations/add-text-visualizations.md)
