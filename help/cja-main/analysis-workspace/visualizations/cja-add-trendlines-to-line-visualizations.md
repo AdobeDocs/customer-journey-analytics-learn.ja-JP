@@ -20,4 +20,4 @@ ht-degree: 0%
 
 「ビジュアライゼーション設定」では、データ内の明確なパターンを表現するのに役立つトレンドラインを線系列に追加できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496122/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496132/?captions=jpn&learn=on&enablevpops)
