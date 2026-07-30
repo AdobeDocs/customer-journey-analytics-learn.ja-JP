@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d3821dc564d27928dc86587fcb2dd21b27b4ae1f
+source-git-commit: b6de0132276592b35e0034fa34c2870fb871645c
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '749'
 ht-degree: 81%
 
 ---
@@ -91,6 +91,8 @@ ht-degree: 81%
   + テンプレート {#templates}
     + [テンプレートの使用](analysis-workspace/templates/use-templates.md)
     + [カスタムテンプレートの作成](analysis-workspace/templates/create-custom-templates.md)
+  + フリーフォームテーブル {#freeform-tables}
+    + [インライン分類の使用](analysis-workspace/freeform-tables/in-line-classifications-for-cja.md)
   + ビジュアライゼーション {#visualizations}
     + [ビジュアライゼーションにデータを取り込む](analysis-workspace/visualizations/getting-data-into-visualizations.md)
     + [Workspaceでのコンポーネントドロップダウンの使用](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
@@ -110,6 +112,7 @@ ht-degree: 81%
     + [マップビジュアライゼーションの追加と設定](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
     + [概要ビジュアライゼーションを追加](analysis-workspace/visualizations/use-summary-visualizations.md)
     + [テキストのビジュアライゼーションの追加](analysis-workspace/visualizations/add-text-visualizations.md)
+    + [プロジェクトの内部または外部へのリンク](analysis-workspace/visualizations/cja-link-inside-or-outside-of-your-project.md)
     + [散布図ビジュアライゼーションの追加](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
     + [ツリーマップのビジュアライゼーションの追加](analysis-workspace/visualizations/add-treemap-visualizations.md)
     + [100%積み重ねビジュアライゼーションの作成](analysis-workspace/visualizations/create-stacked-visualizations.md)
