@@ -26,4 +26,4 @@ ht-degree: 0%
 
 CJAのインライン分類を使用すると、テーブルの値を更新したり、複数の値をグループ化したりして、Analysis Workspace内で直接編集することができます。 小さいながらも強力な派生フィールド機能を、Workspace エクスペリエンスに直接取り込みます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496552/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496553/?captions=jpn&learn=on&enablevpops)
