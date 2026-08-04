@@ -39,6 +39,6 @@ ht-degree: 100%
 
 Customer Journey Analytics の Analysis Workspace で基本プロジェクトを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418396/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449167/?captions=jpn&learn=on&quality=12)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/perform-basic-analysis.html?lang=ja){target="_blank"}を参照してください。
