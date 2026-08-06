@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: b6de0132276592b35e0034fa34c2870fb871645c
+source-git-commit: e3784070b30bf065b2bb5f960f2c426305e870f9
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '760'
 ht-degree: 81%
 
 ---
@@ -42,11 +42,11 @@ ht-degree: 81%
   + [ルックアップデータおよびプロファイルデータの CJA ルックアップ](connections/cja-lookup-data.md)
   + [オーディエンス分析を始める](connections/get-started-with-audience-analysis.md)
 + 訪問者の識別 {#visitor-id}
-  + [CJA での ID の使用方法について](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
+  + [CJA における ID の使用方法について](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
   + [ステッチの概要](visitor-id/overview-of-stitching.md)
   + [プレビューを使用したデータとステッチ品質の検証](visitor-id/validate-identity-stitching-quality.md)
   + [ステッチの有効化と検証](visitor-id/stitching-enablement-and-validation.md)
-  + [欠落しているユーザー ID の設定](visitor-id/configure-missing-person-id.md)
+  + [存在しないユーザー ID の設定](visitor-id/configure-missing-person-id.md)
 + データビュー {#data-views}
   + [CJA のデータビュー設定の概要](data-views/overview-of-configuring-data-views-for-cja.md)
   + [データビューの基本設定](data-views/basic-configuration-for-data-views.md)
@@ -55,11 +55,11 @@ ht-degree: 81%
   + [概要レベルデータソースの作成](data-views/create-summary-level-data-sources.md)
   + [データビューの指標の書式設定](data-views/formatting-metrics-in-data-views.md)
   + [サブ文字列コンポーネントの設定](data-views/configure-substring-component-settings.md)
-  + [データビューでの指標値の包含または除外](data-views/include-or-exclude-metric-values-in-data-views.md)
+  + [データビューで指標値を含める／除外する](data-views/include-or-exclude-metric-values-in-data-views.md)
   + [データビューでの分析用の値バケットの作成](data-views/creating-value-buckets-in-data-views-for-analysis.md)
-  + [データビューでのディメンション値の包含または除外](data-views/include-or-exclude-dimension-values-in-data-views.md)
-  + [データビューでのバインディングディメンション](data-views/binding-dimensions-in-data-views.md)
-  + [データビューでの値なしオプションの設定](data-views/configure-no-value-options-in-data-views.md)
+  + [データビューでディメンション値を含める／除外する](data-views/include-or-exclude-dimension-values-in-data-views.md)
+  + [データビューでのバインディングディメンションの設定](data-views/binding-dimensions-in-data-views.md)
+  + [データビューで値なしオプションを設定する](data-views/configure-no-value-options-in-data-views.md)
   + [データビューでのアトリビューション設定](data-views/attribution-settings-in-data-views.md)
   + [通貨換算](data-views/currency-conversion.md)
   + 派生フィールド{#derived-fields}
@@ -112,13 +112,15 @@ ht-degree: 81%
     + [マップビジュアライゼーションの追加と設定](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
     + [概要ビジュアライゼーションを追加](analysis-workspace/visualizations/use-summary-visualizations.md)
     + [テキストのビジュアライゼーションの追加](analysis-workspace/visualizations/add-text-visualizations.md)
-    + [プロジェクトの内部または外部へのリンク](analysis-workspace/visualizations/cja-link-inside-or-outside-of-your-project.md)
+    + [プロジェクトの内部または外部にリンクする](analysis-workspace/visualizations/cja-link-inside-or-outside-of-your-project.md)
     + [散布図ビジュアライゼーションの追加](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
     + [ツリーマップのビジュアライゼーションの追加](analysis-workspace/visualizations/add-treemap-visualizations.md)
     + [100%積み重ねビジュアライゼーションの作成](analysis-workspace/visualizations/create-stacked-visualizations.md)
     + [ビジュアライゼーションの凡例のカスタマイズ](analysis-workspace/visualizations/cja-customize-visualization-legends.md)
     + [ビジュアライゼーションの精度の設定](analysis-workspace/visualizations/cja-set-granularity-for-visualizations.md)
     + [ビジュアライゼーションへの予測の追加](analysis-workspace/visualizations/forecasting.md)
+  + カレンダーと日付範囲 {#calendar-and-date-ranges}
+    + [Analysis Workspaceでのカレンダーと日付の使用](analysis-workspace/calendar-and-date-ranges/cja-calendar-and-dates-in-analysis-workspace.md)
   + 注釈 {#annotations}
     + [注釈を作成](analysis-workspace/annotations/create-an-annotation.md)
   + キュレーションと共有 {#curate-and-share}
@@ -167,7 +169,7 @@ ht-degree: 81%
   + [レポート](content-analytics/reporting.md)
 + ダッシュボード（スコアカード） {#dashboards}
   + [モバイルスコアカードの作成](dashboards/create-a-mobile-scorecard.md)
-  + [モバイルスコアカードへのアクセスでのエグゼクティブの支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
+  + [エグゼクティブによるモバイルスコアカードへのアクセスを支援](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 書き出し {#exporting}
   + [完全なテーブルの書き出し](exporting/full-table-export.md)
   + [テーブルの書き出しの管理と管理](exporting/manage-full-table-exports.md)
@@ -184,7 +186,7 @@ ht-degree: 81%
     + [Data Engineering Agentでデータセットの品質を検証](use-cases/ai/validate-dataset-quality-data-engineering-agent.md)
   + データビューのユースケース {#data-views-use-cases}
     + [初回のセッションとリピートセッションのレポート](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-    + [日付フィールドのサポートの使用](use-cases/data-views-use-cases/leverage-date-field-support.md)
+    + [日付フィールドをサポート](use-cases/data-views-use-cases/leverage-date-field-support.md)
   + 複雑なデータ {#complex-data}
     + [オブジェクトの配列を使用](use-cases/complex-data/object-arrays-in-cja.md)
 + ブループリント {#blueprints}
