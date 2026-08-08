@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Analysis Workspaceでのビジュアライゼーションにカレンダーと日付を使用する方法について説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/3496835/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496836/?captions=jpn&learn=on&enablevpops)
