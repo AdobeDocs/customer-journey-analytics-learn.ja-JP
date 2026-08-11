@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: b4920cf1447f5152f24741315880e9c54b7abeb5
+source-git-commit: 48ec9badaf4fcf79721803d30098472cd345e147
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '773'
 ht-degree: 79%
 
 ---
@@ -33,6 +33,8 @@ ht-degree: 79%
   + [データの操作](data-prep/working-with-data-in-cja.md)
   + [Adobe Analytics データの取り込み、マッピング、変換](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
   + [Adobe Analytics 分類データの取り込みと使用](data-prep/ingest-and-use-analytics-classifications.md)
++ データミラー {#data-mirror}
+  + [外部データウェアハウスとの同期](data-mirror/cja-data-mirror-sync-external-platforms.md)
 + アクセス制御 {#access-control}
   + [権限の設定](permissions/set-up-permissions.md)
 + 接続 {#connections}
@@ -194,4 +196,3 @@ ht-degree: 79%
   + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
   + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
-+ [Data Mirror for Customer Journey Analytics](data-mirror/cja-data-mirror-sync-external-platforms.md)
