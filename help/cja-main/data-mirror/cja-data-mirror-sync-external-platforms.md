@@ -23,6 +23,6 @@ ht-degree: 4%
 
 Data Mirrorを利用すれば、SnowflakeやBigQuery、Databricksなどのサポート対象のクラウドデータウェアハウスからの変更内容をCJAに自動的に反映し、そうしたプロセスを簡素化できます。 手作業を削減し、システムの整合性を保つことで、分析に使用されるデータを最新の状態に保つことができます。 このビデオでは、Data Mirrorの仕組みを説明し、Adobe Experience Platformで設定する手順を説明します。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497061/?learn=on)

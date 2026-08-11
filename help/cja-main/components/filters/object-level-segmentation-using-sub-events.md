@@ -20,6 +20,6 @@ ht-degree: 7%
 
 [!DNL Customer Journey Analytics]の[!UICONTROL &#x200B; サブイベント分析]を使用して、より正確なセグメンテーションとレポートを実現する方法を説明します。 オブジェクトレベルのセグメンテーションは、Adobe Experience Platformの拡張可能なデータモデルを活用することで、過剰なアトリビューションを排除し、売上分析を向上させ、複雑なデータセットをまたいでより詳細な調査を可能にします。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/sub-event){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/segments/sub-event){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497075?learn=on)
