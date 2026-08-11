@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 48ec9badaf4fcf79721803d30098472cd345e147
+source-git-commit: 5064599b3c112221363afbd1c9e205a484f32df6
 workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 79%
@@ -33,7 +33,7 @@ ht-degree: 79%
   + [データの操作](data-prep/working-with-data-in-cja.md)
   + [Adobe Analytics データの取り込み、マッピング、変換](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
   + [Adobe Analytics 分類データの取り込みと使用](data-prep/ingest-and-use-analytics-classifications.md)
-+ データミラー {#data-mirror}
++ Data Mirror {#data-mirror}
   + [外部データウェアハウスとの同期](data-mirror/cja-data-mirror-sync-external-platforms.md)
 + アクセス制御 {#access-control}
   + [権限の設定](permissions/set-up-permissions.md)
