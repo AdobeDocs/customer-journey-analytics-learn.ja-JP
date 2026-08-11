@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3784070b30bf065b2bb5f960f2c426305e870f9
+source-git-commit: b4920cf1447f5152f24741315880e9c54b7abeb5
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 81%
+source-wordcount: '772'
+ht-degree: 79%
 
 ---
 
@@ -150,7 +150,8 @@ ht-degree: 81%
     + [クロスチャネルセグメントの作成](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
     + [ディメンションとしてセグメントを使用](components/filters/use-filters-as-dimensions.md)
     + [セグメントからのオーディエンスの作成](components/filters/create-audiences-from-segments.md)
-    + [Adobe Analytics セグメントの Customer Journey Analytics への移行](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+    + [Adobe Analytics セグメントを Customer Journey Analytics に移行](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+    + [サブイベントを使用したオブジェクトレベルのセグメンテーション](components/filters/object-level-segmentation-using-sub-events.md)
   + [リアルタイムのレポート](components/real-time-reporting.md)
   + ディメンション {#dimensions}
     + [イベント深度](components/dimensions/event-depth-in-cja.md)
@@ -193,3 +194,4 @@ ht-degree: 81%
   + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
   + [デジタル行動データ統合のシナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
   + [着信転送ジャーニー分析シナリオ](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
++ [Data Mirror for Customer Journey Analytics](data-mirror/cja-data-mirror-sync-external-platforms.md)
