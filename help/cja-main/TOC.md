@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3784070b30bf065b2bb5f960f2c426305e870f9
+source-git-commit: 40e587c922ab0685d10f5d23a9f5d21d6f4ef7f4
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 81%
+source-wordcount: '771'
+ht-degree: 79%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 81%
   + [権限の設定](permissions/set-up-permissions.md)
 + 接続 {#connections}
   + [Experience Platform データソースへの接続](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+  + [外部データウェアハウスとの同期](connections/cja-data-mirror-sync-external-platforms.md)
   + [接続設定の表示、トラブルシューティング、変更](connections/connections-details-experience-in-cja.md)
   + [接続への新しいデータの追加](connections/add-past-data-to-an-existing-connection-in-cja.md)
   + [ルックアップデータおよびプロファイルデータの CJA ルックアップ](connections/cja-lookup-data.md)
@@ -150,7 +151,8 @@ ht-degree: 81%
     + [クロスチャネルセグメントの作成](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
     + [ディメンションとしてセグメントを使用](components/filters/use-filters-as-dimensions.md)
     + [セグメントからのオーディエンスの作成](components/filters/create-audiences-from-segments.md)
-    + [Adobe Analytics セグメントの Customer Journey Analytics への移行](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+    + [Adobe Analytics セグメントを Customer Journey Analytics に移行](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+    + [サブイベントを使用したオブジェクトレベルのセグメンテーション](components/filters/object-level-segmentation-using-sub-events.md)
   + [リアルタイムのレポート](components/real-time-reporting.md)
   + ディメンション {#dimensions}
     + [イベント深度](components/dimensions/event-depth-in-cja.md)
