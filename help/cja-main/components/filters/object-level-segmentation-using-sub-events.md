@@ -22,4 +22,4 @@ ht-degree: 7%
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/segments/sub-event){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497076?captions=jpn&learn=on)
