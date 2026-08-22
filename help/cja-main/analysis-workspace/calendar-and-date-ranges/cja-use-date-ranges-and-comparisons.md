@@ -19,4 +19,4 @@ ht-degree: 0%
 
 プロジェクトで日付範囲の比較を使用して、パフォーマンスを分析します
 
->[!VIDEO](https://video.tv.adobe.com/v/3497504/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497516/?captions=jpn&learn=on&enablevpops)
