@@ -26,19 +26,15 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+source-git-commit: 86fe0ba98a4aaaab0874b0db2c163bf493f4d3f7
 workflow-type: tm+mt
-source-wordcount: 75
-ht-degree: 8%
+source-wordcount: 63
+ht-degree: 9%
 
 ---
 
 # Analysis Workspace プロジェクトで[!DNL segments]をディメンションとして使用
 
-Analysis Workspace プロジェクトでディメンションとして使用する場合のセグメントの比較と視覚化の方法について説明します。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}を参照してください。
-
->[!NOTE]
->
-> Customer Journey Analytics インターフェイスで「[!UICONTROL &#x200B; フィルター]」の名前が「[!UICONTROL &#x200B; セグメント &#x200B;]」に変更されました。
+Analysis Workspace プロジェクトでディメンションとして使用する場合のセグメントの比較と視覚化の方法について説明します。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/segments/seg-create){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449063/?captions=jpn&learn=on&quality=12)
