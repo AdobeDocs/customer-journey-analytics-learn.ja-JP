@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Customer Journey Analyticsでテーブルの書き出しを管理する方法について説明します。  これらの機能により、CJA管理者は管理を合理化し、手作業によるチェックを減らし、自動化を強化して、クラウドの宛先に対する信頼性の高いデータ配信を確保することができます。 詳細については、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/export/export-cloud){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480081/?captions=jpn&learn=on)
