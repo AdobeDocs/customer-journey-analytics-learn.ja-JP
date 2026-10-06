@@ -2,7 +2,7 @@
 title: Customer Journey Analytics における計算指標の概要
 description: このビデオでは、Adobe Customer Journey Analytics で計算指標を作成するための基本を説明します。
 feature: Metrics
-topics: null
+topics:
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,31 +11,40 @@ kt: 4448
 role: User
 level: Beginner
 exl-id: a44b1f31-005e-4f44-b941-60e44aeea605
-TQID: https://experienceleague.adobe.com/oVuHZSqMYdKIMqlTfNQ2JiDcqIkFxC8UNI4OpUfaO9Y
+TQID: 'https://experienceleague.adobe.com/oVuHZSqMYdKIMqlTfNQ2JiDcqIkFxC8UNI4OpUfaO9Y'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
 feature_v2:
   - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+    internal-label: Components
+  - id: c73c4213-d623-4126-81f4-80b42e5e2656
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: df7fb1db-aa1b-4314-98ac-59dbfcc3044f
+    internal-label: Dimensions
   - id: e44e560d-5e5c-4a5f-9a87-eb8adbb817af
+    internal-label: Calculated metrics
+  - id: b1f5d324-a668-4e51-a59b-6fc0862d7310
+    internal-label: Metrics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+    internal-label: Metadata
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
-source-wordcount: 67
+source-wordcount: '67'
 ht-degree: 100%
-
 ---
-
 # Customer Journey Analytics における[!UICONTROL 計算指標]の概要
 
 このビデオでは、Customer Journey Analytics で[!UICONTROL 計算指標]を作成するための基本を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33738/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12&learn=on)
 
 Customer Journey Analytics について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja){target="_blank"}を参照してください。
