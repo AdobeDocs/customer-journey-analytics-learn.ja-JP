@@ -47,4 +47,4 @@ Adobe Experience Platformを活用して、Adobe Customer Journey Analyticsの�
 
 Customer Journey Analytics について詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-landing){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330411/?captions=jpn&learn=on&quality=12)

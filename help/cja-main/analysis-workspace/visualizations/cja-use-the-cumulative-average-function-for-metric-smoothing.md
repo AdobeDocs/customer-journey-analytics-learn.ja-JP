@@ -33,4 +33,4 @@ ht-degree: 84%
 
 指標のトレンドを表示する期間が長くなるほど、その指標の方向性の傾向を見分けることが難しくなります。 これを解決するために、計算指標の累積平均関数を使用して、Analysis Workspace の指標にスムージングを適用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496334/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496336/?captions=jpn&learn=on&enablevpops)

@@ -43,4 +43,4 @@ ht-degree: 65%
 
 マップビジュアライゼーションを使用して、ロケーションデータを生き生きと表示しましょう。 選択ツールを使用して、ジオクラスターを特定し、その場でセグメントを作成します。 簡単な設定手順を少し説明するだけで、準備完了です。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470819/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470820/?captions=jpn&learn=on&enablevpops)

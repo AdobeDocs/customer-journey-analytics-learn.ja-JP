@@ -35,5 +35,5 @@ ht-degree: 78%
 
 このビデオでは、テーブルとビジュアライゼーションが設定によってどのように結び付けられているかを確認し、様々な分析のユースケース向けにこれらの設定を構成する方法を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3495948/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495949/?captions=jpn&learn=on&enablevpops)
 
