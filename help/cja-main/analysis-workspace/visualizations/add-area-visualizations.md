@@ -33,10 +33,10 @@ workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 ---
-# [!DNL Customer Journey Analytics]の[!DNL Analysis Workspace]件のプロジェクトに[!UICONTROL  エリアのビジュアライゼーション ]を追加
+# [!DNL Customer Journey Analytics]の[!DNL Analysis Workspace]件のプロジェクトに[!UICONTROL &#x200B; エリアのビジュアライゼーション &#x200B;]を追加
 
 [!DNL Customer Journey Analytics]の[!DNL Analysis Workspace]件のプロジェクトに[!UICONTROL area]と[!UICONTROL area stacked]のビジュアライゼーションを追加する方法について説明します。 このビジュアライゼーションは、交差点に基づいて領域を視覚化する複数の指標がある場合に使用するのに最適です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479637/?quality=12&learn=on)
 
-[!UICONTROL  エリア ]のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html){target="_blank"}を参照してください。
+[!UICONTROL &#x200B; エリア &#x200B;]のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html){target="_blank"}を参照してください。

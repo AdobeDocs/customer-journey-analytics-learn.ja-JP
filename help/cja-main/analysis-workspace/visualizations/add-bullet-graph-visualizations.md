@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Analysis Workspace] プロジェクトに[!UICONTROL 箇条書き]のビジュアライゼーションを追加'
-description: '[!UICONTROL 箇条書きグラフ ]の使用方法と、[!DNL Customer Journey Analytics]の[!DNL Analysis Workspace] プロジェクトに追加する方法について説明します。'
+description: '[!UICONTROL 箇条書きグラフ &#x200B;]の使用方法と、[!DNL Customer Journey Analytics]の[!DNL Analysis Workspace] プロジェクトに追加する方法について説明します。'
 feature: Visualizations
 kt: 13403
 role: User
@@ -30,10 +30,10 @@ workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 19%
 ---
-# [!DNL Customer Journey Analytics]の[!DNL Analysis Workspace] プロジェクトに[!UICONTROL 箇条書きグラフ ]のビジュアライゼーションを追加
+# [!DNL Customer Journey Analytics]の[!DNL Analysis Workspace] プロジェクトに[!UICONTROL 箇条書きグラフ &#x200B;]のビジュアライゼーションを追加
 
-[!UICONTROL 箇条書きグラフ ]の使用方法と、[!DNL Customer Journey Analytics]の[!DNL Analysis Workspace] プロジェクトに追加する方法について説明します。 このグラフは、興味の値を目標と比較する方法または目標に対して測定する方法を示しています。
+[!UICONTROL 箇条書きグラフ &#x200B;]の使用方法と、[!DNL Customer Journey Analytics]の[!DNL Analysis Workspace] プロジェクトに追加する方法について説明します。 このグラフは、興味の値を目標と比較する方法または目標に対して測定する方法を示しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
 
-[!UICONTROL 箇条書きグラフ ]のビジュアライゼーションについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html){target="_blank"}を参照してください。
+[!UICONTROL 箇条書きグラフ &#x200B;]のビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html){target="_blank"}を参照してください。
