@@ -39,4 +39,4 @@ Customer Journey Analyticsの&#x200B;**アクティブな増加**&#x200B;が、�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=ja){target="_blank"}を参照してください。

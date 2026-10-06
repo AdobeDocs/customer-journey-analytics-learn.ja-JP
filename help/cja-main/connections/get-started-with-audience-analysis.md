@@ -36,6 +36,6 @@ ht-degree: 26%
 
 Audience Analysisを利用して、マーケターがExperience Platformからオーディエンスセグメントを取り込み、チャネルをまたいで実際の顧客行動を分析することで、キャンペーンをより適切に最適化する方法をご確認ください。 オーディエンスメンバーシップデータを有効にし、事前定義済みのテンプレートを確認し、パーソナライゼーション、コンバージョン、ROIを促進する実用的なインサイトを明らかにするシンプルな設定手順をご紹介します。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)

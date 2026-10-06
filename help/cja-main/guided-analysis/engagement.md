@@ -39,4 +39,4 @@ Customer Journey Analyticsの&#x200B;**エンゲージメント**&#x200B;が、�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement){target="_blank"}を参照してください。

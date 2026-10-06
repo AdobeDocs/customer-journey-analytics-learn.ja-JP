@@ -31,6 +31,6 @@ ht-degree: 0%
 ---
 # Customer Journey Analyticsのイベント深度
 
-Customer Journey Analyticsのイベント深度は、セッション内でのユーザーインタラクションを連続的に正確に追跡できる標準ディメンションコンポーネントであり、デジタルプラットフォームとオフラインプラットフォームをまたいで顧客の行動パターンに関する貴重なインサイトを提供します。 詳細については、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions){target="_blank"}を参照してください。
+Customer Journey Analyticsのイベント深度は、セッション内でのユーザーインタラクションを連続的に正確に追跡できる標準ディメンションコンポーネントであり、デジタルプラットフォームとオフラインプラットフォームをまたいで顧客の行動パターンに関する貴重なインサイトを提供します。 詳細については、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464851/?learn=on&enablevpops)

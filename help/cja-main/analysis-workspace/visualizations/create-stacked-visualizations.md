@@ -40,4 +40,4 @@ Customer Journey AnalyticsのAnalysis Workspace プロジェクトで、生の�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479696/?quality=12&learn=on)
 
-[!UICONTROL 完全に積み重ねられたvar] ビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}を参照してください。
+[!UICONTROL 完全に積み重ねられたvar] ビジュアライゼーションについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=ja){target="_blank"}を参照してください。

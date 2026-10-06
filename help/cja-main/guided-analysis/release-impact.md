@@ -36,4 +36,4 @@ Customer Journey Analyticsの&#x200B;**リリースの影響**&#x200B;が、特�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=ja){target="_blank"}を参照してください。

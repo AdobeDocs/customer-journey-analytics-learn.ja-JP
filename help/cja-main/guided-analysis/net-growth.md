@@ -39,4 +39,4 @@ Customer Journey Analyticsの&#x200B;**純増加率**&#x200B;が、特定の期�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=ja){target="_blank"}を参照してください。
