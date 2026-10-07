@@ -9,25 +9,34 @@ last-substantial-update: 2023-06-06T00:00:00.000Z
 jira: KT-13438
 thumbnail: 3420258.jpeg
 exl-id: 0feb7cde-a97c-4c64-99c1-284beb19616a
-TQID: https://experienceleague.adobe.com/dECdDQkqqEhzLiZjVAVy2f5MN-1cYYnlJTmCPjvhJ7g
+TQID: 'https://experienceleague.adobe.com/dECdDQkqqEhzLiZjVAVy2f5MN-1cYYnlJTmCPjvhJ7g'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
 feature_v2:
   - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+    internal-label: Components
+  - id: b3197353-f189-4932-8378-3f3bc40e6071
+    internal-label: Data management
+subfeature_v2:
+  - id: e1471301-a189-438e-8d48-264a8db508a6
+    internal-label: Data views
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+    internal-label: Reporting
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
-source-wordcount: 190
+source-wordcount: '190'
 ht-degree: 8%
-
 ---
-
 # Customer Journey Analyticsでの派生フィールドの作成
 
 カスタマイズ可能なルールビルダーを使用して、派生フィールドを作成し、複雑なデータ操作を即座に作成して、レポートに過去にさかのぼって適用する方法を説明します。 これにより、データをレポート、分析、アクションに活用できる形式に保つための時間を大幅に節約できます。

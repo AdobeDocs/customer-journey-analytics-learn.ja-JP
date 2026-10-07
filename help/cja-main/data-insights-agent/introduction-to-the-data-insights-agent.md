@@ -1,6 +1,6 @@
 ---
 title: Data Insights Agent の概要
-description: Customer Journey Analytics の Data Insights Agent について説明します。 この AI 駆動のソリューションは、マーケターに透明性の高いインサイトを瞬時に提供し、企業が抱えるボトルネックを解消します。
+description: Customer Journey Analytics の Data Insights Agent について学習します。 この AI 駆動のソリューションは、マーケターに透明性の高いインサイトを瞬時に提供し、企業が抱えるボトルネックを解消します。
 feature: AI Tools
 role: Leader, User
 level: Beginner
@@ -8,26 +8,35 @@ duration: 222
 last-substantial-update: 2025-06-12T00:00:00.000Z
 jira: KT-18320
 exl-id: 5842ce87-aa01-4ea6-ae56-cfd49bef4fa6
-TQID: https://experienceleague.adobe.com/7gQ6ONpr450MIwBR2pdKTqvMdXr7QeROckhlyIb4rc0
+TQID: 'https://experienceleague.adobe.com/7gQ6ONpr450MIwBR2pdKTqvMdXr7QeROckhlyIb4rc0'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+feature_v2:
+  - id: ae3aff40-b2f6-4df1-8c01-0b0720d1510f
+    internal-label: AI Tools
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+    internal-label: Insights
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
-source-wordcount: 202
+source-wordcount: '290'
 ht-degree: 100%
-
 ---
-
 # [!DNL Data Insights Agent] の概要
 
 アドビの Experience Platform Agent Orchestrator を活用した [!DNL Data Insights Agent] は、マーケターやビジネスユーザーのカスタマーエクスペリエンスオーケストレーションに革命をもたらします。 これにより、生成 AI を活用して、自然言語クエリを通じてリアルタイムのパーソナライズされたインサイトを提供し、従来のアナリストのボトルネックを解消できます。
@@ -65,7 +74,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="data-insights-agent-use-cases.md" target="_blank" rel="referrer" title="Data Insights Agent のユースケース">Data Insights Agent のユースケース</a>
                     </p>
-                    <p class="is-size-6">マーケティング戦略開発、キャンペーン管理、ビジネスパフォーマンスレポート全体で効率性を高めます。</p>
+                    <p class="is-size-6">マーケティング戦略の策定、キャンペーン管理、業績レポート全体にわたって効率性を高めます。</p>
                 </div>
                 <a href="data-insights-agent-use-cases.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
@@ -76,7 +85,7 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Data Insights Agent の使用
+## Data Insights Agent を使用する
 
 <!-- 
 CARDS

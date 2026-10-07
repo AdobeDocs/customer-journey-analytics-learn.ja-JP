@@ -1,6 +1,6 @@
 ---
 title: ビジュアライゼーションへの予測の追加
-description: Customer Journey Analytics で時系列のビジュアライゼーションに予測数値を追加する方法を説明します。
+description: Customer Journey Analytics で時系列のビジュアライゼーションに予測数値を追加する方法について学びます。
 feature: Visualizations
 role: User
 level: Beginner
@@ -9,20 +9,27 @@ duration: 9480
 last-substantial-update: 2024-03-25T00:00:00.000Z
 jira: KT-15211
 exl-id: 1a72b086-f243-4478-8032-36c88e9bdacb
-TQID: https://experienceleague.adobe.com/SXz34svR3YZqvakkqwqJmAhl-YU7Qg-3sFLpFo73mnY
+TQID: 'https://experienceleague.adobe.com/SXz34svR3YZqvakkqwqJmAhl-YU7Qg-3sFLpFo73mnY'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+feature_v2:
+  - id: c73c4213-d623-4126-81f4-80b42e5e2656
+    internal-label: Analysis Workspace
+subfeature_v2:
+  - id: bee1d787-7e5f-52f2-a27b-db3204cbc423
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+    internal-label: Beginner
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
-source-wordcount: 58
+source-wordcount: '58'
 ht-degree: 68%
-
 ---
-
 # ビジュアライゼーションへの予測の追加
 
 Customer Journey Analytics で時系列のビジュアライゼーションに予測数値を追加する方法を説明します。 詳細なドキュメントについては、[予測の概要](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}を参照してください。
