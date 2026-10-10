@@ -40,4 +40,4 @@ ht-degree: 14%
 
 Customer Journey Analytics プロジェクトで[!UICONTROL &#x200B; クイックセグメント &#x200B;]を直接作成し、完全な[!UICONTROL &#x200B; セグメントビルダー]の複雑さを回避します。 この機能を使用すると、簡単な基準に基づいてコンポーネントデータをセグメント化し、結果をすばやく確認できます。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/segments/seg-quick){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/343743/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410244/?captions=jpn&quality=12&learn=on)
