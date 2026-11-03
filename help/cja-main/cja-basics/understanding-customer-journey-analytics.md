@@ -7,7 +7,7 @@ kt: 3953
 role: User, Developer, Admin, Leader
 level: Beginner
 duration: 270
-last-substantial-update: 2026-03-13T00:00:00.000Z
+last-substantial-update: 2026-03-13
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
 TQID: https://experienceleague.adobe.com/2g968MenVR1quQBk-w06IcTb9WazKjvaBet6J6EmcFo
 product_v2:
@@ -36,17 +36,15 @@ topic_v2:
     internal-label: Implementation
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+source-git-commit: 35ef29bf95a407fd58be119748e3cd45c2749d16
 workflow-type: tm+mt
-source-wordcount: 105
+source-wordcount: '105'
 ht-degree: 23%
-
 ---
-
 # Customer Journey Analytics の概要
 
 Adobe Customer Journey Analytics（CJA）は、Adobe Experience Platform上に構築された、Adobeの次世代分析ソリューションです。 web サイト、モバイルアプリ、コールセンター、CRM、実店舗システムなどのオンラインとオフラインのデータソースを統合し、個人を中心とした単一の顧客像を構築することで、チャネルやデバイスをまたいで包括的なカスタマージャーニーを分析できます。 Analysis Workspaceのドラッグ&amp;ドロップインターフェイスを使用して、連続性のあるイベントレベルのクロスチャネルレポートを作成できます。
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-landing){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/36231/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&learn=on)
