@@ -55,4 +55,4 @@ Customer Journey Analyticsのクイックインサイトパネルを使用して
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505749/?captions=jpn&learn=on)
